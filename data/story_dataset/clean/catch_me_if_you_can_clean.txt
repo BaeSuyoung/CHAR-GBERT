@@ -1,0 +1,606 @@
+,chapter,text,mask_sent,char,sentiment,keywords
+0,2,"super. marseille, france december heavy rain falls joe shape, s, wears black hat holds black umbrella bangs window small guardhouse front large gated prison. joe sneezing holds identification card guard.","super. marseille, france december heavy rain falls [unused2] shape, s, wears black hat holds black umbrella bangs window small guardhouse front large gated prison. [unused2] sneezing holds identification card guard.",[unused2],1,falls|gated|wears|window|sneezing|holds
+1,3,"joe walking long corridor inside prison, struggling close umbrella faces warden garren two guards.","[unused2] walking long corridor inside prison, struggling close umbrella faces warden garren two guards.",[unused2],-1,faces|long|struggling|walking
+2,4,yoohoo. hello lady house home joe tries control excitement kneels looks metal slide hole.,yoohoo. hello lady house home [unused2] tries control excitement kneels looks metal slide hole.,[unused2],1,hello|looks|control
+3,5,"see frank abagnale jr., face partially hidden dim cell, gets light hanging bulb. frank lying cement floor, back far wall. wears pair underwear clutches torn blanket.","see [unused0] abagnale jr., face partially hidden dim cell, gets light hanging bulb. [unused0] lying cement floor, back far wall. wears pair underwear clutches torn blanket.",[unused0],-1,face|hanging|gets|see|partially|back|lying|torn|far
+4,5,"jesus, frank, look terrible. joe shaye heard french prisons, positively barbaric. hear sound come frdthe cell, heavy coughing. jo,e ye cont drrood. joe shaye little cold help me.","jesus, [unused0], look terrible. [unused2] shaye heard french prisons, positively barbaric. hear sound come frdthe cell, heavy coughing. jo,e ye cont drrood. [unused2] shaye little cold help me.",[unused2],1,positively|come
+5,5,"help yes, joe shaye help you, frank.","help yes, [unused2] shaye help you, [unused0].",[unused2],1,you
+6,5,im sick... please...,im sick... please...,[unused0],0,
+7,5,"dont worry, frank, make one night. tomorrow joe shaye help onto plane, clean up, put cell next twenty five years.","dont worry, [unused0], make one night. tomorrow [unused2] shaye help onto plane, clean up, put cell next twenty five years.",[unused2],1,put|clean|make|cell
+8,5,"help me, please. frank cant breathe...","help me, please. [unused0] cant breathe...",[unused0],1,help
+9,5,"dont start shit, frank.","dont start shit, [unused0].",[unused2],-1,
+10,5,"cant ...cant joe looks slot door, see faint images frank rol floor holding","cant ...cant [unused2] looks slot door, see faint images [unused0] rol floor holding",[unused0],0,see|looks|holding
+11,6,hes breathing. joe shaye think stopped breathing debbie zane,hes breathing. [unused2] shaye think stopped breathing debbie zane,[unused2],-1,stopped|think|breathing
+12,7,"small, empty room four empty hospital beds. frank lifted onto one beds, legs arms flailing sides, kicking thin curtain wall.","small, empty room four empty hospital beds. [unused0] lifted onto one beds, legs arms flailing sides, kicking thin curtain wall.",[unused0],-1,flailing|lifted|kicking
+13,7,"whats happening garren guard quickly move toward sink, start wash hands. joe shaye contd","whats happening garren guard quickly move toward sink, start wash hands. [unused2] shaye contd",[unused2],0,move|happening|quickly|start
+14,7,frank gone,[unused0] gone,[unused0],0,gone
+15,8,"legs toward main door. frank makes way past row cheering prisoners, trips falls, body weak run starts crawl across prison floor. joe garren easily catch him, garren quickly kneeling holding gun franks head cocking weapon. frank stops crawling, rolls back smiles joe shaye.","legs toward main door. [unused0] makes way past row cheering prisoners, trips falls, body weak run starts crawl across prison floor. [unused2] garren easily catch him, garren quickly kneeling holding gun [unused0]s head cocking weapon. [unused0] stops crawling, rolls back smiles [unused2] shaye.",[unused0],-1,catch|easily|cocking|back|him|quickly|makes|starts|holding|head|cheering|rolls|kneeling
+16,8,"okay, joe...lets go home.","okay, [unused2]...lets go home.",[unused0],1,lets
+17,9,"two little mice fell bucket cream. first mouse quickly gave drowned, second mouse wouldnt quit. struggled hard,","two little mice fell bucket cream. first mouse quickly gave drowned, second mouse wouldnt quit. struggled hard,",[unused0],-1,fell|hard|quickly|drowned|struggled|bucket|gave
+18,9,"eventually churned cream butter crawled out. gentleman, moment, narrator second mouse. laughter men room frank continues. frank sr. contd narrator stand today humbled presence mayor allen, club president, jack wright. all, narrator honored see loving wife, paula, son, frank jr., sitting front row. im business man, working stiff tonight made royalty. this, narrator eternally grateful. men applaud frank sr. smiles wife son, giving wink raises plaque air.","eventually churned cream butter crawled out. gentleman, moment, narrator second mouse. laughter men room [unused0] continues. [unused0] sr. contd narrator stand today humbled presence mayor allen, club president, jack wright. all, narrator honored see loving wife, paula, son, [unused0] jr., sitting front row. im business man, working stiff tonight made royalty. this, narrator eternally grateful. men applaud [unused0] sr. smiles wife son, giving wink raises plaque air.",[unused0],1,working|continues|see|laughter|churned|loving|raises|crawled|eventually|honored|sitting|eternally|out|made|giving|applaud|humbled|stand
+19,11,"dean martin singing everybod somebody radio, frank sr. hammers plaque wall. middle den, frank dancing mother, holding glass wine dances.","dean martin singing everybod somebody radio, [unused0] sr. hammers plaque wall. middle den, [unused0] dancing mother, holding glass wine dances.",[unused0],0,plaque|holding|dancing|singing
+20,11,"paula, show dance met.","paula, show dance met.",[unused0],0,show
+21,11,"people little french village happy see americans, decided put show us.","people little french village happy see americans, decided put show us.",[unused0],1,decided|show
+22,11,"frank know story, dad.","[unused0] know story, dad.",[unused0],0,know
+23,11,"cram two hundred soldiers tiny social hall, first person walk stage mother. starts dance... paula steps away frank, starts dance ballet, smiling tries remember steps. frank sr. contd months since even seen woman, heres blonde angel stage men literally holding breath. frank sr. turned buddies, frank sr. said..","cram two hundred soldiers tiny social hall, first person walk stage mother. starts dance... paula steps away [unused0], starts dance ballet, smiling tries remember steps. [unused0] sr. contd months since even seen woman, heres blonde angel stage men literally holding breath. [unused0] sr. turned buddies, [unused0] sr. said..",[unused0],1,even|turned|away|first|hundred|literally|seen|smiling|starts|holding|heres|said|remember
+24,11,"imitating father frank lea france without her. paula spins around, accide ills glass wine","imitating father [unused0] lea france without her. paula spins around, accide ills glass wine",[unused0],0,her|imitating|spins|around|ills|accide
+25,12,frank asleep bedroom. father walks carrying plate scrambled eggs.,[unused0] asleep bedroom. father walks carrying plate scrambled eggs.,[unused0],0,scrambled|carrying
+26,12,"wake up, frank... eight thirty. frank opens eyes, stares father.","wake up, [unused0]... eight thirty. [unused0] opens eyes, stares father.",[unused0],0,father|wake|stares|opens
+27,12,frank overslept. moms gonna kill me.,[unused0] overslept. moms gonna kill me.,[unused0],-1,gon|kill
+28,12,okay. dont go school today.,okay. dont go school today.,[unused0],1,
+29,12,black suit,black suit,[unused0],0,
+30,12,black suit,black suit,[unused0],0,
+31,12,vermportant meeting city.,vermportant meeting city.,[unused0],0,
+32,13,"maam, open door. open up, please, important. door opens crack darcy, s, low cut blouse, bagel hand, stares frank sr.","maam, open door. open up, please, important. door opens crack darcy, s, low cut blouse, bagel hand, stares [unused0] sr.",[unused0],1,opens|open
+33,13,"whats name, maam","whats name, maam",[unused0],0,
+34,13,"darcy, thats pretty name. im bit fix frank sr. need suit kid. son, frank, needs","darcy, thats pretty name. im bit fix [unused0] sr. need suit kid. son, [unused0], needs",[unused0],1,pretty|thats
+35,13,"yours, darcy frank sr. found parking lot darcy stares necklace door.","yours, darcy [unused0] sr. found parking lot darcy stares necklace door.",[unused0],0,found|stares
+36,14,"cadillac parked somewh frank, wearing black suit father gets car andclimbs back seat","cadillac parked somewh [unused0], wearing black suit father gets car andclimbs back seat",[unused0],0,gets|back|parked|wearing
+37,14,"slide over. youre gonna take chase manhattan bank. head seventy second madison, pull front park next fire hydrant. frank looks back father.","slide over. youre gonna take chase manhattan bank. head seventy second madison, pull front park next fire hydrant. [unused0] looks back father.",[unused0],-1,take|looks|back
+38,14,dad...frank dont know drive.,dad...[unused0] dont know drive.,[unused0],0,know
+39,15,"frank driving manhattan, father back seat screaming directions teaches drive. laughing frank speeds city.debbie zane","[unused0] driving manhattan, father back seat screaming directions teaches drive. laughing [unused0] speeds city.debbie zane",[unused0],1,drive|back|father|laughing|screaming|driving
+40,15,"little gas slip second. thats good, clutch, pull lane slowly","little gas slip second. thats good, clutch, pull lane slowly",[unused0],1,slowly
+41,17,"okay. stop grinning. frank sr. get inside go back front seat wait. even cop comes writes ticket, dont move car, understood","okay. stop grinning. [unused0] sr. get inside go back front seat wait. even cop comes writes ticket, dont move car, understood",[unused0],1,even|get|back|comes|cop|dont|stop
+42,17,dad... really gonna help,dad... really gonna help,[unused0],1,help|gon|really
+43,17,"know yankees always win, frank","know yankees always win, [unused0]",[unused0],1,win|know|always
+44,17,mickey mantle,mickey mantle,[unused0],0,
+45,17,"no. teams cant stop staring damn pinstripes. frank sr. steps cadillac, grabs briefcase. frank sr. contd watch this, frank. manager chase manhattan bank open door father. frank sr. casually walks toward doors chase manhattan, manager rushes bank open doors him.","no. teams cant stop staring damn pinstripes. [unused0] sr. steps cadillac, grabs briefcase. [unused0] sr. contd watch this, [unused0]. manager chase manhattan bank open door father. [unused0] sr. casually walks toward doors chase manhattan, manager rushes bank open doors him.",[unused0],-1,walks|casually|him|cant|manhattan
+46,18,"thats misunderstanding. frank sr. hired wrong guy books, mistake anyone could make. frank sr. wouldnt even consider frank sr. you.","thats misunderstanding. [unused0] sr. hired wrong guy books, mistake anyone could make. [unused0] sr. wouldnt even consider [unused0] sr. you.",[unused0],-1,even|make|mistake|misunderstanding|hired|you|consider
+47,18,store landmark new rochelle. frank sr. customers new jersey.,store landmark new rochelle. [unused0] sr. customers new jersey.,[unused0],1,
+48,18,"bank went business. banks like put business. frank sr. leans in, lowers voice. frank sr. contd frank sr. know frank sr. made mistake, frank sr. admit that. people want blood want store theyve threatened put jail. america, right, im criminal. im medal honor winner, lifetime member new rochelle rotary club. im asking help beat guys.","bank went business. banks like put business. [unused0] sr. leans in, lowers voice. [unused0] sr. contd [unused0] sr. know [unused0] sr. made mistake, [unused0] sr. admit that. people want blood want store theyve threatened put jail. america, right, im criminal. im medal honor winner, lifetime member new rochelle rotary club. im asking help beat guys.",[unused0],1,put|asking|threatened|right|want|beat|made|went
+49,19,"come on, frank. lets go return suit. debbie ana","come on, [unused0]. lets go return suit. debbie ana",[unused0],0,return|come
+50,22,"two bedroom apartment cracks ceiling seem grow passing train. moving boxes stacked walls, dining room table seems take half apartment. frank kitchen making dinner father walks work suit wx kled, briefcase hand.","two bedroom apartment cracks ceiling seem grow passing train. moving boxes stacked walls, dining room table seems take half apartment. [unused0] kitchen making dinner father walks work suit wx kled, briefcase hand.",[unused0],1,walks|kled|seem|making|seems|dining|take|stacked|moving
+51,22,"gonna eat pancakes dinner sons sixteenth birthday. frank turns father. frank sr. contd looking like thought frank sr. forgot frank opens briefcase, takes checkbook chase manhattan bank. walks hands frank.","gonna eat pancakes dinner sons sixteenth birthday. [unused0] turns father. [unused0] sr. contd looking like thought [unused0] sr. forgot [unused0] opens briefcase, takes checkbook chase manhattan bank. walks hands [unused0].",[unused0],1,walks|looking|eat|father|forgot|turns|takes
+52,22,turned loan,turned loan,[unused0],0,
+53,22,yeah. turned down.,yeah. turned down.,[unused0],1,down|turned
+54,22,open bank account,open bank account,[unused0],0,
+55,23,promised going quit.,promised going quit.,[unused0],1,promised|going
+56,23,im used it. debbie zane,im used it. debbie zane,[unused0],0,debbie|used
+57,25,"ms. glassers sixth period french students laugh, turn back friends frank nervously adjusts tie. girl front row stares frank.","ms. glassers sixth period french students laugh, turn back friends [unused0] nervously adjusts tie. girl front row stares [unused0].",[unused0],1,adjusts|turn|nervously|back
+58,25,"open books chapter eight, read quietly yourselves. classroom door swings open, frail, confused teacher walks motions frank.","open books chapter eight, read quietly yourselves. classroom door swings open, frail, confused teacher walks motions [unused0].",[unused0],-1,teacher|read|confused|quietly
+59,25,frank always sub roberta.,[unused0] always sub roberta.,[unused0],0,sub|always
+60,25,frank suggest start reading people.,[unused0] suggest start reading people.,[unused0],0,reading
+61,26,hes alone. us.,hes alone. us.,[unused0],1,alone
+62,27,"frank sitting outsid principals office wearing coat tie, waiting onarrator parents come out. watches football player hands school administrator note.","[unused0] sitting outsid principals office wearing coat tie, waiting onarrator parents come out. watches football player hands school administrator note.",[unused0],0,wearing|waiting|hands|sitting|come|out
+63,27,theres crease paper.,theres crease paper.,[unused0],-1,crease
+64,27,"mom hands note miss school, put pocket. pocket, wheres crease","mom hands note miss school, put pocket. pocket, wheres crease",[unused0],-1,wheres|put|note
+65,28,excuse me. frank sr. go work.,excuse me. [unused0] sr. go work.,[unused0],1,
+66,28,"youre suspending anyone. go son frank sr. go school board ask whos minding ste monroe high. frank sr. ask mybbd friend tom walsh po little kid teach fr ajza, ss entire week without tp incipal school knowing frank sr. might even mention son doesnt speak frenc","youre suspending anyone. go son [unused0] sr. go school board ask whos minding ste monroe high. [unused0] sr. ask mybbd friend tom walsh po little kid teach fr ajza, ss entire week without tp incipal school knowing [unused0] sr. might even mention son doesnt speak frenc",[unused0],-1,suspending|monroe|minding|even|walsh|mention|knowing
+67,29,"frank closes locker, sees four cheerleaders standing front him. leader group, joanna, steps forward.","[unused0] closes locker, sees four cheerleaders standing front him. leader group, joanna, steps forward.",[unused0],1,standing|forward|sees|him
+68,29,no. frank dont date yet. name frank abagnale.,no. [unused0] dont date yet. name [unused0] abagnale.,[unused0],-1,yet
+69,29,im sixteen. could frank buy beer,im sixteen. could [unused0] buy beer,[unused0],0,buy
+70,30,"mom, im home. nobody answers, fkslowly walks toward back bedroom door, closed. franks knock th�t om door suddenly opens, paula walks jack rotary club president wears tailored ck suit. paula wears dress holds tray food.","mom, im home. nobody answers, fkslowly walks toward back bedroom door, closed. [unused0]s knock th�t om door suddenly opens, paula walks jack rotary club president wears tailored ck suit. paula wears dress holds tray food.",[unused0],0,walks|tailored|closed|back|opens|suddenly|knock|wears|jack|fkslowly|holds
+71,30,"dads work. frank stares jack, walks picks hat chair.","dads work. [unused0] stares jack, walks picks hat chair.",[unused0],0,picks
+72,30,"wait. frank walks couch, picks small rotary pin lying cushions. holds jack.","wait. [unused0] walks couch, picks small rotary pin lying cushions. holds jack.",[unused0],-1,holds|lying|picks
+73,30,promised going quit.,promised going quit.,[unused0],1,promised|going
+74,32,"frank working behindvt nter fathers store, gently placing silver cross velvet display pad. woman stares frank sterlihk� �er waldmann ballpoint pen two color twist action top. turn","[unused0] working behindvt nter fathers store, gently placing silver cross velvet display pad. woman stares [unused0] sterlihk� �er waldmann ballpoint pen two color twist action top. turn",[unused0],1,working|turn|store|stares|gently|placing|pen
+75,32,"over. frank sr. it, frank. sons bitches called dogs read weep. frank sr. beat united states government. take look that. frank sr. hands frank letter.","over. [unused0] sr. it, [unused0]. sons bitches called dogs read weep. [unused0] sr. beat united states government. take look that. [unused0] sr. hands [unused0] letter.",[unused0],-1,take|called
+76,32,mean move home,mean move home,[unused0],0,
+77,32,"gonna move back here, frank, get new house, new car","gonna move back here, [unused0], get new house, new car",[unused0],0,move|get|here|back
+78,32,red cadillac white interior.,red cadillac white interior.,[unused0],0,
+79,32,"gonna take little time, gonna get back every fur coat, eve goddamn piece silver com help lock up. going tg brace","gonna take little time, gonna get back every fur coat, eve goddamn piece silver com help lock up. going tg brace",[unused0],-1,get|eve|back|lock|take|gon|going
+80,33,"frank follows father int illage inn bar, neighborhood dive ful lway workers coming night shift. frank greeted cold stares handful regulars drinking","[unused0] follows father int illage inn bar, neighborhood dive ful lway workers coming night shift. [unused0] greeted cold stares handful regulars drinking",[unused0],1,father|neighborhood|follows|drinking|coming|greeted
+81,33,bartender bring us couple beers two shots canadian.,bartender bring us couple beers two shots canadian.,[unused0],0,
+82,33,"kid head salesman company. hes twenty two hes making five bills week, bring drinks mind business. frank father sit small table middle bar. frank looks uncomfortable father lights cigar.","kid head salesman company. hes twenty two hes making five bills week, bring drinks mind business. [unused0] father sit small table middle bar. [unused0] looks uncomfortable father lights cigar.",[unused0],-1,looks|head|making|twenty|bring
+83,33,maybe frank wait car.,maybe [unused0] wait car.,[unused0],0,maybe
+84,33,"afraid men look way, sit, way dress, way drink. they, railway men cargo loaders men havent earned right judge us. frank sr. beat uncle sam, ever done waitress brings drinks, frank sr. quickly downs shots. ak dime pocket sets table. fransr. cont frank, frank sr. wa nt dime go put th x. pick something loud. ating. frank glances bar, men quietly watching frank sr. contd know frank sr. like lesley gore.","afraid men look way, sit, way dress, way drink. they, railway men cargo loaders men havent earned right judge us. [unused0] sr. beat uncle sam, ever done waitress brings drinks, [unused0] sr. quickly downs shots. ak dime pocket sets table. fransr. cont [unused0], [unused0] sr. wa nt dime go put th x. pick something loud. ating. [unused0] glances bar, men quietly watching [unused0] sr. contd know [unused0] sr. like lesley gore.",[unused0],1,put|know|havent|ever|quickly|watching|look|earned|right|quietly|railway|cargo|they|done|ating
+85,33,yes. moment theyll listening lesley gore. gonna teach drunks mind manners.,yes. moment theyll listening lesley gore. gonna teach drunks mind manners.,[unused0],1,gon|teach|yes|listening
+86,33,frank think know im eighteen.,[unused0] think know im eighteen.,[unused0],0,know
+87,33,people know tell them.,people know tell them.,[unused0],0,know|tell|them
+88,33,"frank sr. contd take dime, son. take dime walk like closed big deal. walk like got roll twenties right next pecker. frank gets chair nervously faces father. frank sr. contd dont forget smile youre shoving throats. frank holds fathers dime slowly walks toward jukebox. men bar see coming, slowly turn stools.","[unused0] sr. contd take dime, son. take dime walk like closed big deal. walk like got roll twenties right next pecker. [unused0] gets chair nervously faces father. [unused0] sr. contd dont forget smile youre shoving throats. [unused0] holds fathers dime slowly walks toward jukebox. men bar see coming, slowly turn stools.",[unused0],1,shoving|gets|bar|closed|got|right|faces|take|coming|nervously|holds|slowly
+89,33,"man asked kid. president abou gd ke speech. frank looks toward father, sits back chair, smoking smiling. franks hand shakes reaches out, drops dime jukebox.","man asked kid. president abou gd ke speech. [unused0] looks toward father, sits back chair, smoking smiling. [unused0]s hand shakes reaches out, drops dime jukebox.",[unused0],1,asked|back|smoking|reaches|smiling|looks|out|sits|dime
+90,33,"bothering kid got problem, come bother me. frank watches two drunks walk toward father. hold pitchers beer hands. frank sr. contd hit button, frank. hit goddamn button","bothering kid got problem, come bother me. [unused0] watches two drunks walk toward father. hold pitchers beer hands. [unused0] sr. contd hit button, [unused0]. hit goddamn button",[unused0],-1,got|hit|bothering|come|walk
+91,33,"pour beers fathers head. franwsr. nothing stop them, smile never leaving face screams son. frank sr. contd thats right, frank jukebox springs life, hear lesley gore singing party. men continue pour beers frank sr.s head, entire bar screaming laughter. frank sr. contd bus drivers security guards fry cooks understand cant win, frank, cant beat","pour beers fathers head. franwsr. nothing stop them, smile never leaving face screams son. [unused0] sr. contd thats right, [unused0] jukebox springs life, hear lesley gore singing party. men continue pour beers [unused0] sr.s head, entire bar screaming laughter. [unused0] sr. contd bus drivers security guards fry cooks understand cant win, [unused0], cant beat",[unused0],1,them|understand|singing|leaving|fry|never|right|continue|head|smile|stop
+92,34,frank william abagnale jr.,[unused0] william abagnale jr.,[unused0],0,
+93,34,"again, narrator apologize. custody hearing determine going live divorce. mother father leaving decision you. record, narrator would like praise parents showing confidence son, believe make best decision family. frank stares straight ahead, breathing forced stares judge larkin. judge larkin contd okay, frank, im going ask difficult question. whos going be, mother father frank looks father, turns stares mother long beat. narrator","again, narrator apologize. custody hearing determine going live divorce. mother father leaving decision you. record, narrator would like praise parents showing confidence son, believe make best decision family. [unused0] stares straight ahead, breathing forced stares judge larkin. judge larkin contd okay, [unused0], im going ask difficult question. whos going be, mother father [unused0] looks father, turns stares mother long beat. narrator",[unused0],1,again|make|ahead|breathing|long|leaving|believe|father|turns|hearing|showing|you|looks|mother|straight|forced|like|going
+94,36,frank runs ticket window train station.,[unused0] runs ticket window train station.,[unused0],0,runs
+95,36,"one ticket grand central, please.","one ticket grand central, please.",[unused0],1,
+96,36,frank write check,[unused0] write check,[unused0],0,
+97,37,"cell door pulled open, frank slowly walks faces joe shaye, holding pair handcuffs standing fbnarrator agents earl amdursky tom fox three","cell door pulled open, frank slowly walks faces [unused2] shaye, holding pair handcuffs standing fbnarrator agents earl amdursky tom fox three",[unused2],0,earl|fox|pulled|faces|standing|holding|slowly
+98,37,"frank, agent amdursky agent fox. theyll helping extradition. joe puts handcuffs frank, barely stay feet slowly turns warden garren.","[unused0], agent amdursky agent fox. theyll helping extradition. [unused2] puts handcuffs [unused0], barely stay feet slowly turns warden garren.",[unused2],1,turns|barely|helping|puts|slowly
+99,37,wife sleeping one guards. thought know.,wife sleeping one guards. thought know.,[unused0],0,know|thought|sleeping
+100,38,"joe shaye, amdursky fox watching frank sits naked bathtub, handcuffs still tries shave beard.","[unused2] shaye, amdursky fox watching [unused0] sits naked bathtub, handcuffs still tries shave beard.",[unused0],0,naked|shave|watching|still
+101,39,"frank one hand chair, legs shackled corner ed. hes eating sandwich drinking glass joe shaye sits across him.","[unused0] one hand chair, legs shackled corner ed. hes eating sandwich drinking glass joe shaye sits across him.",[unused0],1,shackled|eating|him
+102,39,frank want call father.,[unused0] want call father.,[unused0],1,want
+103,39,call get new york joe shaye apologize room place agency could afford.,call get new york [unused2] shaye apologize room place agency could afford.,[unused2],1,afford|get|call
+104,39,"dont worry, joe. ive stayed worse.","dont worry, [unused2]. ive stayed worse.",[unused0],-1,
+105,40,"bank made mistake, andy, frank write check right please, midnight, frank place go. manager pushes frank cage elevator.","bank made mistake, andy, [unused0] write check right please, midnight, [unused0] place go. manager pushes [unused0] cage elevator.",[unused0],-1,made
+106,41,decrepit times square hotel room. frank sits bed staring new rsey drivers license simple i.d. card wi picture. frank uses pen change date birth fro lf,decrepit times square hotel room. [unused0] sits bed staring new rsey drivers license simple i.d. card wi picture. [unused0] uses pen change date birth fro lf,[unused0],0,staring|license|bed
+107,42,"boss sent brooklyn, queens, wants long island im short train fare. first week frank dont think im cut salesman.","boss sent brooklyn, queens, wants long island im short train fare. first week [unused0] dont think im cut salesman.",[unused0],1,think|sent|wants
+108,42,whats name,whats name,[unused0],0,name
+109,42,"favor, ashley, frank give sterling silver waldmann pen. german. say frank takes pen pocket.","favor, ashley, [unused0] give sterling silver waldmann pen. german. say [unused0] takes pen pocket.",[unused0],1,give|takes
+110,42,"thats okay, ashley. frank find way chase manhattan.","thats okay, ashley. [unused0] find way chase manhattan.",[unused0],1,okay
+111,44,"frank follows pilot air, seesthe hotel manager rushing greet him. entirelobby seems focussed pilot, bellmen runningover carry bags flight attendants following every move. frank turns aging bellman.","[unused0] follows pilot air, seesthe hotel manager rushing greet him. entirelobby seems focussed pilot, bellmen runningover carry bags flight attendants following every move. [unused0] turns aging bellman.",[unused0],1,seems|aging|follows|him|carry|turns|rushing|focussed|runningover|following
+112,44,"excuse me, know pilot","excuse me, know pilot",[unused0],1,know
+113,45,packed street corner center new york. frank eating hot dog talks pay phone.,packed street corner center new york. [unused0] eating hot dog talks pay phone.,[unused0],-1,pay|eating|center
+114,45,id like speak someone uniform.,id like speak someone uniform.,[unused0],1,
+115,45,frank sent uniform cleaned hotel...,[unused0] sent uniform cleaned hotel...,[unused0],0,sent
+116,47,im co pilot.,im co pilot.,[unused0],0,
+117,47,problem. frank write check.,problem. [unused0] write check.,[unused0],-1,
+118,49,female bank teller sneaking glances frank counts money counter.,female bank teller sneaking glances [unused0] counts money counter.,[unused0],0,sneaking
+119,50,im flying paris c. morning. okay frank write check room,im flying paris c. morning. okay [unused0] write check room,[unused0],1,flying
+120,50,frank wont need much. lets make two fifty.,[unused0] wont need much. lets make two fifty.,[unused0],0,wont|make|much
+121,52,"detective frank abagnale frank turns around, stares two cops show badges.","detective [unused0] abagnale [unused0] turns around, stares two cops show badges.",[unused0],0,turns|stares|show|around
+122,52,irs said charges would filed.,irs said charges would filed.,[unused0],-1,said|filed
+123,52,guys looking wrong person.,guys looking wrong person.,[unused0],-1,looking
+124,52,"frank sr. tell is, promise tell mother two detectives nod. frank sr. contd lowering voice frank made fake i.d enlisted marine corps hes","[unused0] sr. tell is, promise tell mother two detectives nod. [unused0] sr. contd lowering voice [unused0] made fake i.d enlisted marine corps hes",[unused0],-1,nod|tell|enlisted|lowering|made|mother|promise
+125,52,okay. nobody knows.,okay. nobody knows.,[unused0],1,knows
+126,53,frank walks front desk plaza hotel.,[unused0] walks front desk plaza hotel.,[unused0],0,front
+127,53,rent twriters,rent twriters,[unused0],0,
+128,57,frank still uniform walks past two male tellers deliberately approac young female teller,[unused0] still uniform walks past two male tellers deliberately approac young female teller,[unused0],0,deliberately|approac|still
+129,57,frank wondering bk �ptad cash payroll check frank takesthecheck ofa phony pan envelopeand,[unused0] wondering bk �ptad cash payroll check [unused0] takesthecheck ofa phony pan envelopeand,[unused0],0,envelopeand|wondering
+130,58,frank give away christmas needy children.,[unused0] give away christmas needy children.,[unused0],-1,away|give
+131,60,im headed morning frank need little money.,im headed morning [unused0] need little money.,[unused0],0,headed|need
+132,60,airport cash checks airport,airport cash checks airport,[unused0],0,airport
+133,62,"giant warehouse filled pilots, co pilots, flight attendants, baggage handlers. cafeteria, newsstand, airline shop, shoe shine booth. frank sits one shoe shine chairs, two twa pilots next him. stares i.d. badges, laminated pictures clipped front jackets.","giant warehouse filled pilots, co pilots, flight attendants, baggage handlers. cafeteria, newsstand, airline shop, shoe shine booth. [unused0] sits one shoe shine chairs, two twa pilots next him. stares i.d. badges, laminated pictures clipped front jackets.",[unused0],0,laminated|him|clipped|sits|filled
+134,62,morning. two pilots turn look frank.,morning. two pilots turn look [unused0].,[unused0],0,turn
+135,62,yeah. charters. im headed kennedy minutes.,yeah. charters. im headed kennedy minutes.,[unused0],1,headed
+136,62,general electric.,general electric.,[unused0],0,
+137,63,frank running airport.,[unused0] running airport.,[unused0],0,running
+138,65,"massive corporate offices pan am, look manhattan. frank, dressed like student wearing backpack, gets televator walks","massive corporate offices pan am, look manhattan. [unused0], dressed like student wearing backpack, gets televator walks",[unused0],1,gets|dressed|wearing|look|pan
+139,67,frank following paul mulligan large gallery shows history pan black white pictures detailed plastic models.,[unused0] following paul mulligan large gallery shows history pan black white pictures detailed plastic models.,[unused0],0,following|shows|detailed
+140,67,"mean one pilot says another pilot, kind equipment","mean one pilot says another pilot, kind equipment",[unused0],0,mean|says
+141,67,think frank could make copy license put report,think [unused0] could make copy license put report,[unused0],0,put|make
+142,67,i.d. badge extra one frank could borrow,i.d. badge extra one [unused0] could borrow,[unused0],0,borrow
+143,68,caribbean air expanding routes next year include east coast. im thinking well need several thousand badges.,caribbean air expanding routes next year include east coast. im thinking well need several thousand badges.,[unused0],1,need|well|thinking|expanding|include
+144,68,"boss wanted bring back actual i.d. badge, brochure.","boss wanted bring back actual i.d. badge, brochure.",[unused0],0,wanted|back
+145,68,frank idea. dont use subject. debbie zane,[unused0] idea. dont use subject. debbie zane,[unused0],0,
+146,69,"frank walking kennedy airport, authentic pan i.d. badge secured front uniform. walks eastern airlines ticket counter smiles","[unused0] walking kennedy airport, authentic pan i.d. badge secured front uniform. walks eastern airlines ticket counter smiles",[unused0],1,secured|walking
+147,69,hello. im pan co pilot id like fly two thirty miami.,hello. im pan co pilot id like fly two thirty miami.,[unused0],1,
+148,69,"yes. dead head. frank hands agent i.d. badge mulligans faa license, cropped top mulligans name used be. barely glances either","yes. dead head. [unused0] hands agent i.d. badge mulligans faa license, cropped top mulligans name used be. barely glances either",[unused0],-1,glances|yes|used|cropped|faa|barely
+149,70,"marci, cute year old eastern stewardess short blonde hair glasses, stands front plane smiling frank holds pink boarding slip.","marci, cute year old eastern stewardess short blonde hair glasses, stands front plane smiling [unused0] holds pink boarding slip.",[unused0],1,stands|pink|smiling|boarding|holds
+150,71,"frank led cockpit marci, trying react intensity tiny space. immediately looks around jump seat seat sees nothing.","[unused0] led cockpit marci, trying react intensity tiny space. immediately looks around jump seat seat sees nothing.",[unused0],0,immediately|sees|led|trying|looks
+151,71,"frank williams, pan am. thanks giving lift.","[unused0] williams, pan am. thanks giving lift.",[unused0],1,giving
+152,71,"glass milk, please.","glass milk, please.",[unused0],1,
+153,72,"close frank inside hands gripping sides jump seat, nd face clenched silent scream plane lift f, banking left shoots manhattan. frank staring cockpit window disbelief, way kids first time ride plane.","close [unused0] inside hands gripping sides jump seat, nd face clenched silent scream plane lift f, banking left shoots manhattan. [unused0] staring cockpit window disbelief, way kids first time ride plane.",[unused0],-1,gripping|left|clenched|staring|close
+154,73,"marci, drop frank takes small gold necklace jacket pocket.","marci, drop [unused0] takes small gold necklace jacket pocket.",[unused0],-1,takes
+155,74,"frank lying top marci losing virginity moving staring bizarre look face. lights low, radio on.","[unused0] lying top marci losing virginity moving staring bizarre look face. lights low, radio on.",[unused0],-1,staring|losing|lying|moving
+156,74,hostesses nice,hostesses nice,[unused0],1,
+157,74,"frank want tell something, marci. far best date ive ever on.","[unused0] want tell something, marci. far best date ive ever on.",[unused0],1,ever|far|want
+158,75,jump seat op j. ur four oclock dallas,jump seat op j. ur four oclock dallas,[unused0],-1,
+159,76,"frank wearing pilots uniform walks lucy, pretty assistant manager small dallas bank.","[unused0] wearing pilots uniform walks lucy, pretty assistant manager small dallas bank.",[unused0],1,pretty|lucy|wearing
+160,76,"whats name, maam","whats name, maam",[unused0],0,
+161,76,"lucy, name frank williams, im co pilot pan am. id like","lucy, name [unused0] williams, im co pilot pan am. id like",[unused0],1,
+162,77,"frank dancing lucy, laughing uncontrollably twirls around room.","[unused0] dancing lucy, laughing uncontrollably twirls around room.",[unused0],1,uncontrollably|dancing|laughing|twirls|around
+163,77,frank cane nd helped,[unused0] cane nd helped,[unused0],0,helped
+164,77,close you.,close you.,[unused0],0,you|close
+165,78,"frank standing lucy behind counter bank, watching feeds stack checks micker encoding","[unused0] standing lucy behind counter bank, watching feeds stack checks micker encoding",[unused0],0,standing|encoding|watching|micker
+166,78,checks get routed,checks get routed,[unused0],0,get|routed
+167,79,"would keep down, please students immediatel uiet frank turns page book histo banking america. reading chapter called e, nks u.s. federal reserve","would keep down, please students immediatel uiet [unused0] turns page book histo banking america. reading chapter called e, nks u.s. federal reserve",[unused0],1,immediatel|turns|down|called|keep|reading
+168,80,five dollars. debbie zane,five dollars. debbie zane,[unused0],0,
+169,81,"happy birthday, dad. frank turns face son, standing front red cadillac still sticker window. two men stare long beat, embrace middle lot.","happy birthday, dad. [unused0] turns face son, standing front red cadillac still sticker window. two men stare long beat, embrace middle lot.",[unused0],1,sticker|embrace|still|turns|standing|stare
+170,81,"jesus, look son birdman. uniform, frank.","jesus, look son birdman. uniform, [unused0].",[unused0],0,look
+171,81,"frank bought cadillac. frank motions car, holds keys. cont ission. goes hour. btj speedometer. frank sr.","[unused0] bought cadillac. [unused0] motions car, holds keys. cont ission. goes hour. btj speedometer. [unused0] sr.",[unused0],0,goes|bought|holds
+172,81,frank went store today. since close friday,[unused0] went store today. since close friday,[unused0],0,close|went
+173,81,"frank sr. close store awhile. timing, frank, goddamn government knows that. hit youre down, frank sr. wasnt gonna let take me. frank sr. shut doors myself, called bluff.","[unused0] sr. close store awhile. timing, [unused0], goddamn government knows that. hit youre down, [unused0] sr. wasnt gonna let take me. [unused0] sr. shut doors myself, called bluff.",[unused0],-1,youre|hit|knows|let|take|down|close|called|myself
+174,81,"frank get money, whatever need. buy ten stores.","[unused0] get money, whatever need. buy ten stores.",[unused0],0,need|get|buy
+175,81,"no. better way. im laying low awhile, letting fun. stationery store sooner later theyll forget me.","no. better way. im laying low awhile, letting fun. stationery store sooner later theyll forget me.",[unused0],1,letting|better|forget|later|laying
+176,81,talked mom,talked mom,[unused0],0,talked
+177,81,"shes stubborn, mother. frank sr. wont let go without fight. ive fighting since day met.","shes stubborn, mother. [unused0] sr. wont let go without fight. ive fighting since day met.",[unused0],-1,met|stubborn
+178,81,"soldiers, one took home.","soldiers, one took home.",[unused0],0,took
+179,81,thats right. two hundred men sitting th little social hall watching ce. name tha frank sr. ..il lage montpelier.,thats right. two hundred men sitting th little social hall watching ce. name tha [unused0] sr. ..il lage montpelier.,[unused0],0,sitting|hundred|watching|right
+180,81,frank hoping frank could buy steak.,[unused0] hoping [unused0] could buy steak.,[unused0],1,hoping|buy
+181,81,"jesus, tonight good. thats friend, darlene. shes cooking dinner birthday. used pastry chef elaines. dont come home us","jesus, tonight good. thats friend, darlene. shes cooking dinner birthday. used pastry chef elaines. dont come home us",[unused0],1,tonight|cooking|friend|used
+182,81,"no, frank probably get airport. im flying red eye tonight.","no, [unused0] probably get airport. im flying red eye tonight.",[unused0],-1,flying|get|probably
+183,81,"dad, im serious frank said. frank get money whatever need.","dad, im serious [unused0] said. [unused0] get money whatever need.",[unused0],-1,said|get|need
+184,81,tell youre going. frank sr. bet someplace warm.,tell youre going. [unused0] sr. bet someplace warm.,[unused0],1,tell|going
+185,81,yeah. hawaii.,yeah. hawaii.,[unused0],1,
+186,81,hawaii. son going hawaii tonight. us really suckers.,hawaii. son going hawaii tonight. us really suckers.,[unused0],-1,really|going
+187,82,"john doe paperhanger started east coast. last weeks developed new form check fraud, im calling float. next slide. slide doesnt change. joe shaye contd next slide, please.","john doe paperhanger started east coast. last weeks developed new form check fraud, im calling float. next slide. slide doesnt change. [unused2] shaye contd next slide, please.",[unused2],-1,started|calling|developed
+188,82,"east coast branches numbered seven twelve, midwest four, five, six...","east coast branches numbered seven twelve, midwest four, five, six...",[unused2],0,numbered
+189,82,"yes. change number one number nine check cashed new york wont sent east coast reserve routed way california. bank wont know check bounced two weeks, means","yes. change number one number nine check cashed new york wont sent east coast reserve routed way california. bank wont know check bounced two weeks, means",[unused2],1,know|routed|cashed|yes|sent|bounced
+190,82,"sean, joe shaye hoping get back this.","sean, [unused2] shaye hoping get back this.",[unused2],1,hoping|get|back
+191,83,"let ask something, amdursky. much fun working undercover, transfer bank fraud","let ask something, amdursky. much fun working undercover, transfer bank fraud",[unused2],-1,working|undercover|ask|let|transfer
+192,83,"you, mr. fox fuck field get punished","you, mr. fox fuck field get punished",[unused2],-1,you|punished
+193,83,"thats great. joe shaye ask backup, drag bottom pacific.","thats great. [unused2] shaye ask backup, drag bottom pacific.",[unused2],1,drag
+194,83,"bother you, mr. fox","bother you, mr. fox",[unused2],-1,you
+195,83,would guys like hear tell joke,would guys like hear tell joke,[unused2],1,tell|hear
+196,83,knock knock.,knock knock.,[unused2],0,
+197,83,go fuck yourselves.,go fuck yourselves.,[unused2],-1,
+198,85,"joe approaches front desk motel, owner stands front fan.","[unused2] approaches front desk motel, owner stands front fan.",[unused2],1,front
+199,85,nobody goin blame you. bank called hes probably man oking for.,nobody goin blame you. bank called hes probably man oking for.,[unused2],-1,you|oking|called|probably
+200,85,"joe shaye dont believe it. guys stay here, watch front.","[unused2] shaye dont believe it. guys stay here, watch front.",[unused2],0,believe|here|stay
+201,85,"quiet watch front. youre good, joe shaye take ice cream finished.","quiet watch front. youre good, [unused2] shaye take ice cream finished.",[unused2],1,finished|take
+202,86,"joe shaye walks busy pool area motel, passing flight attendants sitting tiny pool. joe makes way main stairwell.","[unused2] shaye walks busy pool area motel, passing flight attendants sitting tiny pool. [unused2] makes way main stairwell.",[unused2],0,sitting|passing|makes
+203,87,"room end second floor hallway, disturb sign hanging door. joe slowly makes way hall, passing maid wh scream shows badge vio motions hide inside room. joe creeps along walyh gun straight out, face covered sweat. free jow hears door creak, breathing labored room slowly swings open frank walks ly wears dark brown suit holds black suitcase","room end second floor hallway, disturb sign hanging door. [unused2] slowly makes way hall, passing maid wh scream shows badge vio motions hide inside room. [unused2] creeps along walyh gun straight out, face covered sweat. free jow hears door creak, breathing labored room slowly swings open frank walks ly wears dark brown suit holds black suitcase",[unused2],1,hanging|passing|badge|breathing|hide|makes|out|shows|straight|covered|holds|slowly
+204,87,"relax, buddy, youre late. name johnson, secret service. boy tried climb window partner cuffed alley downstairs.","relax, buddy, youre late. name johnson, secret service. boy tried climb window partner cuffed alley downstairs.",[unused0],1,late|boy|cuffed
+205,87,secret service talking keep hands air.,secret service talking keep hands air.,[unused2],0,keep|talking
+206,87,"think fbfrank ones tracking guy. weve following paper trail months, almost new york. would mind taking gun face, makes nervous.","think fb[unused0] ones tracking guy. weve following paper trail months, almost new york. would mind taking gun face, makes nervous.",[unused0],-1,tracking|think|almost|mind|taking|makes|weve|following
+207,87,let see identification.,let see identification.,[unused2],0,let|see
+208,87,"here. take whole wallet. frank throws wallet joe, catches free hand, doesnt open it.","here. take whole wallet. [unused0] throws wallet [unused2], catches free hand, doesnt open it.",[unused0],1,take|here
+209,87,"want gun, come take gun frank opens jacket, wide enough joe see hes armed.","want gun, come take gun [unused0] opens jacket, wide enough [unused2] see hes armed.",[unused0],-1,enough|come|see|armed
+210,87,im sorry. joe shaye got little carried away. joe shaye didnt expect secret service this.,im sorry. [unused2] shaye got little carried away. [unused2] shaye didnt expect secret service this.,[unused2],-1,carried|got|away|expect
+211,87,counterfeiting thing.,counterfeiting thing.,[unused0],0,counterfeiting
+212,87,joe shaye know. joe shaye know. joe shaye wasnt expecting...,[unused2] shaye know. [unused2] shaye know. [unused2] shaye wasnt expecting...,[unused2],0,know
+213,87,dont worry it. showing briefcase typewriter. im gonna go lock trunk. favor guard room minute. frank starts moving toward back stairwell.,dont worry it. showing briefcase typewriter. im gonna go lock trunk. favor guard room minute. [unused0] starts moving toward back stairwell.,[unused0],1,back|showing|starts|moving
+214,87,"yell partner alley tell im way. frank starts walk back stairwell. looks back joe, stands front room","yell partner alley tell im way. frank starts walk back stairwell. looks back [unused2], stands front room",[unused2],0,back|stands|starts|stairwell|looks|walk
+215,87,joe shaye.,[unused2] shaye.,[unused2],0,
+216,87,"tough luck, joe. five minutes earlier would landed pretty good collar. frank starts walking stairs.","tough luck, [unused2]. five minutes earlier would landed pretty good collar. [unused0] starts walking stairs.",[unused0],1,earlier|landed|pretty|walking
+217,87,"wait. ,�back joe. frank stops, slowly ty","wait. ,�back [unused2]. [unused0] stops, slowly ty",[unused2],1,slowly
+218,87,hang onto pu frank trust you.,hang onto pu [unused0] trust you.,[unused0],1,you
+219,89,"joe shaye guarding entrance room hes standing tall, almost attention. beat looks wallet hand, mind starting consider single horrible thought.","[unused2] shaye guarding entrance room hes standing tall, almost attention. beat looks wallet hand, mind starting consider single horrible thought.",[unused2],-1,almost|standing|starting|hes|consider|guarding
+220,90,"joe shaye sitting office special agent wilkes, office window facing washington monument.","[unused2] shaye sitting office special agent wilkes, office window facing washington monument.",[unused2],1,sitting|facing
+221,90,"thanks, sean. call way.","thanks, sean. call way.",[unused2],1,call
+222,90,really. joe shaye made mistake.,really. [unused2] shaye made mistake.,[unused2],-1,made|really
+223,90,"yeah, im gonna get one. worst thi paperhanger show joe shaye saw him, joe shaye heard voice nothing hide beiin n�","yeah, im gonna get one. worst thi paperhanger show [unused2] shaye saw him, [unused2] shaye heard voice nothing hide beiin n�",[unused2],-1,get|him|saw|worst
+224,90,"hey, sean, want hear joke","hey, sean, want hear joke",[unused2],1,want
+225,90,knock knock.,knock knock.,[unused2],0,
+226,91,"ketchup, richard","ketchup, richard",[unused0],0,
+227,91,"thanks. ya go. keep change. frank takes crumpled fifty dollar bill pocket, hands waiter.","thanks. ya go. keep change. [unused0] takes crumpled fifty dollar bill pocket, hands waiter.",[unused0],1,keep|hands|takes
+228,91,merry christmas.,merry christmas.,[unused0],1,
+229,93,"match. joe alone fingerprint lab, pathetic looking christmas tree sits corner room. phone rings, joe quickly answers.","match. [unused2] alone fingerprint lab, pathetic looking christmas tree sits corner room. phone rings, [unused2] quickly answers.",[unused2],-1,alone|quickly|looking
+230,94,"hello, joe.","hello, [unused2].",[unused0],0,
+231,94,"johnson, secret service. joe sits desk, grabs pencil paper.","johnson, secret service. [unused2] sits desk, grabs pencil paper.",[unused0],0,
+232,94,ive trying track couple hours. know people fbfrank idea,ive trying track couple hours. know people fb[unused0] idea,[unused0],-1,know|fbfrank|trying
+233,94,want happened linzo ngeles,want happened linzo ngeles,[unused2],1,happened
+234,94,fuck you. dont yo ize me. im one thats rn jail.,fuck you. dont yo ize me. im one thats rn jail.,[unused2],-1,you|dont|ize
+235,94,"joe, always work christmas eve joe looks around room answers.","[unused2], always work christmas eve [unused2] looks around room answers.",[unused0],0,looks|eve|always
+236,94,"joe shaye volunteered, men families could go home early.","[unused2] shaye volunteered, men families could go home early.",[unused2],0,home|volunteered|early
+237,94,wearing wedding ring l.a.. frank thought maybe family,wearing wedding ring l.a.. [unused0] thought maybe family,[unused0],0,wearing|ring|thought|wedding|maybe
+238,94,no. ive never married.,no. ive never married.,[unused2],-1,never|married
+239,94,"want talk me, lets talk face face.","want talk me, lets talk face face.",[unused2],1,lets
+240,94,"okay. im waldorf astoria manhattan. suite joe starts write down, suddenly stops himself.","okay. im waldorf astoria manhattan. suite [unused2] starts write down, suddenly stops himself.",[unused0],1,write|suddenly|himself|starts|stops|down
+241,94,"think youre gonna get again, dont youd love send twenty agents christmas eve barge hotel, break doors make fool","think youre gonna get again, dont youd love send twenty agents christmas eve barge hotel, break doors make fool",[unused2],-1,again|get|make|think|christmas|love
+242,94,"joe, im sorry frank made fool you.","[unused2], im sorry [unused0] made fool you.",[unused0],-1,you|made
+243,94,"people know wh r,y iv tell them.","people know wh r,y iv tell them.",[unused0],0,know|tell|them
+244,94,tell something. know joe shaye wouldnt look wallet,tell something. know [unused2] shaye wouldnt look wallet,[unused2],0,know
+245,94,reason yankees always win. nobody keep eyes pinstripes.,reason yankees always win. nobody keep eyes pinstripes.,[unused0],1,keep|win|always
+246,94,yankees win mickey mantle.,yankees win mickey mantle.,[unused2],1,win
+247,94,"frank go. im catching flight two hours. merry christmas, joe.","[unused0] go. im catching flight two hours. merry christmas, [unused2].",[unused0],1,catching
+248,94,"didnt call apologize, john doe","didnt call apologize, john doe",[unused2],-1,
+249,94,"youve got one else call. joe hangs phone. cups hands face, stares picture wife daughter sits desk front him.","youve got one else call. [unused2] hangs phone. cups hands face, stares picture wife daughter sits desk front him.",[unused2],-1,face|got|cups|stares|him|else|hangs|sits
+250,96,frank dont need fill account number,[unused0] dont need fill account number,[unused0],1,need
+251,99,joe shaye uses slide projector files report front ten agents.,[unused2] shaye uses slide projector files report front ten agents.,[unused2],0,slide|front|report
+252,99,im calling switch. next slide. slide doesnt change. joe shaye contd,im calling switch. next slide. slide doesnt change. [unused2] shaye contd,[unused2],0,calling
+253,99,"bank scanners read micker ink read pen ink. even though deposit slips filled correctly, person made deposit day actually putting money account.","bank scanners read micker ink read pen ink. even though deposit slips filled correctly, person made deposit day actually putting money account.",[unused2],0,correctly|even|actually|putting|read|made|filled
+254,99,"forty six thousand, four hundred twelve dollars. second largest bank robbery history las vegas.","forty six thousand, four hundred twelve dollars. second largest bank robbery history las vegas.",[unused2],0,hundred
+255,100,paul mulligan sits across frank eating lunch. frank dressed school clothes holding notebook.,paul mulligan sits across [unused0] eating lunch. [unused0] dressed school clothes holding notebook.,[unused0],0,eating|sits|holding
+256,100,whats fuel consumption flight,whats fuel consumption flight,[unused0],0,fuel
+257,100,whos sk mulligan hands frank new york times.,whos sk mulligan hands [unused0] new york times.,[unused0],0,
+258,100,say james bond debbie zane,say james bond debbie zane,[unused0],0,
+259,101,"frank sitting movie theater watching goldfinger, eyes glued screen. hes eating box popcorn, big smile face stares sean connery.","[unused0] sitting movie theater watching goldfinger, eyes glued screen. hes eating box popcorn, big smile face stares sean connery.",[unused0],1,glued|stares|watching|sitting|eating
+260,102,"frank wearing three button black suit sweater vest narrow black tie. hes looking full length mirror, salesman standing behind him.","[unused0] wearing three button black suit sweater vest narrow black tie. hes looking full length mirror, salesman standing behind him.",[unused0],0,standing|him|looking|wearing
+261,102,youre sure suit,youre sure suit,[unused0],1,
+262,102,okay. frank take three.,okay. [unused0] take three.,[unused0],1,take
+263,102,"lab packed agent searching fingerprint match. joe shaye head microscope, rubs eyes.","lab packed agent searching fingerprint match. [unused2] shaye head microscope, rubs eyes.",[unused2],0,searching|packed
+264,103,"narrator looking wanted criminal file, look joe takes file fox opens it.","narrator looking wanted criminal file, look [unused2] takes file fox opens it.",[unused2],-1,wanted|looking|opens|look|takes
+265,103,"skywayman. holy shit, perfect match.","skywayman. holy shit, perfect match.",[unused2],1,
+266,103,"doesnt make sense. thirty year old register draft, means prints here.","doesnt make sense. thirty year old register draft, means prints here.",[unused2],0,means|here|make
+267,103,"maybe hes thirty. somebody call new york, get list juvenile runaways nypd.","maybe hes thirty. somebody call new york, get list juvenile runaways nypd.",[unused2],0,thirty|maybe|nypd|get
+268,104,"ten fbnarrator agents surrounded story home long island. joe shaye, wearing black hat black overcoat, knocking door amdursky fox. paula answers cigarette hand.","ten fbnarrator agents surrounded story home long island. [unused2] shaye, wearing black hat black overcoat, knocking door amdursky fox. paula answers cigarette hand.",[unused2],1,surrounded|long|wearing|cigarette|knocking|fbnarrator
+269,104,"good morning, maam, fbjoe shaye agents called.","good morning, maam, fb[unused2] shaye agents called.",[unused2],1,called
+270,105,"course, maam. current address ex husband, frank abagnale","course, maam. current address ex husband, [unused0] abagnale",[unused2],0,
+271,105,"maam, filed police report last year juvenile runaway named frank anae, jr.","maam, filed police report last year juvenile runaway named [unused0] anae, jr.",[unused2],0,named|filed
+272,105,hes federal offense.,hes federal offense.,[unused2],-1,
+273,105,far two million dollars.,far two million dollars.,[unused2],0,far
+274,107,"frank wearing james bond sas pulls airport german sports car. parks car jumps convertible, leaving keys ignition.","[unused0] wearing james bond sas pulls airport german sports car. parks car jumps convertible, leaving keys ignition.",[unused0],0,leaving|pulls|wearing
+275,108,"frank walking airport, eyeing several uniformed cops scattered throughout terminal, holding yearbook picture frank. frank sees four undercover cops walking toward him, sees two detectives checking identification pan pilot. frank nervously steps newsstand, hides behind magazine rack slowly reaches takes pilots cap sunglasses.","[unused0] walking airport, eyeing several uniformed cops scattered throughout terminal, holding yearbook picture [unused0]. [unused0] sees four undercover cops walking toward him, sees two detectives checking identification pan pilot. [unused0] nervously steps newsstand, hides behind magazine rack slowly reaches takes pilots cap sunglasses.",[unused0],-1,eyeing|takes|sees|checking|him|reaches|holding|walking|nervously|scattered|newsstand|slowly
+276,108,"please get touch joanna carlson monroe high school, tell narrator wont able go junior prom her. frank staring cover playboy magazine. smiles reads headline. river bend best singles","please get touch joanna carlson monroe high school, tell narrator wont able go junior prom her. [unused0] staring cover playboy magazine. smiles reads headline. river bend best singles",[unused0],1,get|tell|her|river|please|staring|reads
+277,109,"super. atlanta, georgia august sprawling apartment complex lines picturesque golf course. two swimming pools, tennis courts, women. everywhere look, women walking grounds, swimming, playing tennis. frank carrying micker bank machine apartment, passing two women bikinis.","super. atlanta, georgia august sprawling apartment complex lines picturesque golf course. two swimming pools, tennis courts, women. everywhere look, women walking grounds, swimming, playing tennis. [unused0] carrying micker bank machine apartment, passing two women bikinis.",[unused0],1,passing|picturesque|sprawling|carrying|playing|walking|everywhere
+278,109,im fondue place.,im fondue place.,[unused0],0,
+279,110,"thanks. see new phonograph system reel reel, best sound system buy. frank motions phonograph system living room, giant speakers walls.","thanks. see new phonograph system reel reel, best sound system buy. [unused0] motions phonograph system living room, giant speakers walls.",[unused0],1,see|living
+280,110,"thirty one. come on, everyone, frank show closet","thirty one. come on, everyone, [unused0] show closet",[unused0],0,come
+281,111,"frank standing front master walk closet. bed round, mirrors ceiling.","[unused0] standing front master walk closet. bed round, mirrors ceiling.",[unused0],0,standing
+282,111,"okay, guyeady frank throws open hisc doors, revealing four rows suits, different st arranged color.","okay, guyeady [unused0] throws open hisc doors, revealing four rows suits, different st arranged color.",[unused0],1,revealing|arranged
+283,112,"frank walks hospital, looking rooms, smiling patients. walks toward reception desk, sees young doctor yelling brenda strong, thin, awkward looking candy striper hair bun braces bottom teeth.","frank walks hospital, looking rooms, smiling patients. walks toward reception desk, sees young doctor yelling [unused1] strong, thin, awkward looking candy striper hair bun braces bottom teeth.",[unused1],1,smiling|yelling|sees|looking
+284,112,"okay brenda looks frank, eyes nose puffy crying. covers mouth talks.","okay [unused1] looks [unused0], eyes nose puffy crying. covers mouth talks.",[unused0],-1,nose|looks|mouth
+285,112,"told ck blood, brenda did. nev told label it. brenda.","told ck blood, [unused1] did. nev told label it. [unused1].",[unused1],0,did|told
+286,112,"brenda, frank wouldnt worr it. doctors dont know everything.","[unused1], [unused0] wouldnt worr it. doctors dont know everything.",[unused0],0,know|dont
+287,112,first week. brenda think they.re going fire me.,first week. [unused1] think they.re going fire me.,[unused1],-1,first|think|going
+288,112,no. nobody fire you. frank bet youre good job.,no. nobody fire you. [unused0] bet youre good job.,[unused0],-1,you
+289,112,"no, im not.","no, im not.",[unused1],-1,not
+290,112,"frank bet frank asked check status friend, lance applebaum, could second. hurt foot tonight. brenda grabs chart, starts read loud.","[unused0] bet [unused0] asked check status friend, lance applebaum, could second. hurt foot tonight. [unused1] grabs chart, starts read loud.",[unused0],-1,asked|bet|second|starts|hurt
+291,112,mr. applebaum fractured ankle. doctor ashland treating exam seven.,mr. applebaum fractured ankle. doctor ashland treating exam seven.,[unused1],0,treating|ankle|fractured
+292,112,"see that. problem. brenda smiles, covering mouth.","see that. problem. [unused1] smiles, covering mouth.",[unused0],-1,see|covering
+293,112,"emergency chart. see blue star, means patient diagnosed. hes treated, put red circle here.","emergency chart. see blue star, means patient diagnosed. hes treated, put red circle here.",[unused1],-1,put|see|diagnosed|treated|means|here
+294,112,like braces brenda looks embarrassed stares frank.,like braces [unused1] looks embarrassed stares [unused0].,[unused0],0,embarrassed
+295,112,"brenda guess they,okay.","[unused1] guess they,okay.",[unused1],0,okay|they
+296,112,mine bottoms. frank ee hhem. frank still mouth qua,mine bottoms. [unused0] ee hhem. [unused0] still mouth qua,[unused0],0,mouth|still
+297,112,really nice teeth.,really nice teeth.,[unused1],1,really
+298,112,"pretty smile. brenda tries smile, shaking head covering face.","pretty smile. [unused1] tries smile, shaking head covering face.",[unused0],1,smile|pretty|covering|shaking
+299,112,letter ringo.,letter ringo.,[unused1],0,
+300,112,brenda cant tell you. im embarrassed.,[unused1] cant tell you. im embarrassed.,[unused1],-1,you
+301,112,come on. say,come on. say,[unused0],0,come
+302,112,"says brenda love him. pretty stupid, right. ringo starr never going read letter. frank stares brenda, starts smile puts letter drawer.","says [unused1] love him. pretty stupid, right. ringo starr never going read letter. [unused0] stares [unused1], starts smile puts letter drawer.",[unused1],1,says|pretty|him|never|stares|starts|love|going|ringo
+303,112,"brenda, know theyre hiring ital","[unused1], know theyre hiring ital",[unused0],0,hiring|know|theyre
+304,113,"frank sitting across john granger, s, hospital administrator, reading resume.","[unused0] sitting across john granger, s, hospital administrator, reading resume.",[unused0],0,sitting|reading
+305,113,"frank came atlanta relax, get away practice year. honest, im little bored river bend.","[unused0] came atlanta relax, get away practice year. honest, im little bored river bend.",[unused0],1,bored|away|get|came
+306,113,would frank get pick nurses,would [unused0] get pick nurses,[unused0],0,get
+307,115,frank lying bed making phony medical school diploma. hes using harvard brochure guide carefully places stick letters aged paper. woman walks bedroom.,[unused0] lying bed making phony medical school diploma. hes using harvard brochure guide carefully places stick letters aged paper. woman walks bedroom.,[unused0],-1,walks|places|using|aged|lying|carefully|making
+308,116,"frank sitting front ger five doctors, looking fram file, consists fake harvard medical school diploma fake letters recommendation childrens hospital los angeles, fake california medical license.","[unused0] sitting front ger five doctors, looking fram file, consists fake harvard medical school diploma fake letters recommendation childrens hospital los angeles, fake california medical license.",[unused0],-1,looking|fake|sitting|consists|recommendation
+309,117,"frank standing front thirty candy stripers,","[unused0] standing front thirty candy stripers,",[unused0],0,standing
+310,118,"brenda strong smiles brenda, covers mouth smiles back.","[unused1] strong smiles [unused1], covers mouth smiles back.",[unused0],1,back|covers
+311,118,doctor paul ashland.,doctor paul ashland.,[unused0],0,
+312,118,"yes. youre going late, frank suggest bring note.","yes. youre going late, [unused0] suggest bring note.",[unused0],1,yes|late|suggest|going
+313,119,"button shirt, see bra strap. hospital, sororit","button shirt, see bra strap. hospital, sororit",[unused0],0,see
+314,121,"name office door reads frank connors, m.d.. frank sits desk front brand new ibm electric typewriter. making counterfeit checks brenda walks holding clipboard.","name office door reads [unused0] connors, m.d.. [unused0] sits desk front brand new ibm electric typewriter. making counterfeit checks [unused1] walks holding clipboard.",[unused1],0,making|reads|holding|front
+315,121,"doctor connors, need sign these. brenda walks hands clipboard. frank starts scribble charts, way doctors scribble prescriptions.","doctor connors, need sign these. [unused1] walks hands clipboard. [unused0] starts scribble charts, way doctors scribble prescriptions.",[unused1],0,need|hands|starts
+316,121,brenda kept trying show night.,[unused1] kept trying show night.,[unused1],0,kept|trying
+317,121,hurt took mine felt weird after.,hurt took mine felt weird after.,[unused0],-1,took
+318,121,brenda keep rubbing tongue them. brenda cant stop. slippery.,[unused1] keep rubbing tongue them. [unused1] cant stop. slippery.,[unused1],1,keep|rubbing|tongue|them
+319,121,"feels good, doesnt","feels good, doesnt",[unused0],1,doesnt
+320,121,"yes feels incredible. frank leans toward brenda, gently starts kiss her. passion increases hear hospital p.a. system.","yes feels incredible. [unused0] leans toward [unused1], gently starts kiss her. passion increases hear hospital p.a. system.",[unused1],1,kiss|her|yes|gently|hear|starts
+321,121,shouldnt go,shouldnt go,[unused1],0,
+322,121,theres staff doctor emergency ward.,theres staff doctor emergency ward.,[unused0],-1,
+323,121,hes surgery,hes surgery,[unused1],0,
+324,121,really think frank go,really think [unused0] go,[unused0],0,think|really
+325,122,"frank nervously paces d,� elevator, taking deep breaths tries calm","[unused0] nervously paces d,� elevator, taking deep breaths tries calm",[unused0],1,taking|paces|calm|nervously
+326,123,"doctor hollis, concur","doctor hollis, concur",[unused0],0,
+327,123,doctor ashland said.,doctor ashland said.,[unused0],0,said
+328,125,"frank writing letter electric typewriter. pulls reads over, takes pen signs name ringo starr.","[unused0] writing letter electric typewriter. pulls reads over, takes pen signs name ringo starr.",[unused0],0,reads|takes|writing
+329,126,brenda running halls holding letter.,[unused1] running halls holding letter.,[unused1],0,running|holding
+330,126,"wrote back. ringo wrote back doctor connors, come quick brenda got letter ringo starr, signed name said brenda biggest fan","wrote back. ringo wrote back doctor connors, come quick [unused1] got letter ringo starr, signed name said [unused1] biggest fan",[unused1],1,back|got|signed|wrote|come|said
+331,127,frank sitting across brenda cafeteria.,[unused0] sitting across [unused1] cafeteria.,[unused0],0,sitting
+332,127,brenda bought present. brenda hands wrapped present.,[unused1] bought present. [unused1] hands wrapped present.,[unused1],0,bought
+333,127,"youre walki nd hospital, youll feel lthe real thing. pins cadecus lapel, frank cant help smile.","youre walki nd hospital, youll feel lthe real thing. pins cadecus lapel, [unused0] cant help smile.",[unused1],-1,lthe|cadecus
+334,127,"brenda, frank want go away you. frank take anywhere want go.","[unused1], [unused0] want go away you. [unused0] take anywhere want go.",[unused0],1,anywhere|away|want|take|you
+335,127,brenda havent really anywhere.,[unused1] havent really anywhere.,[unused1],0,really|anywhere
+336,127,"name place, go. africa, egypt, doesnt matter.","name place, go. africa, egypt, doesnt matter.",[unused0],-1,
+337,127,go liverpool.,go liverpool.,[unused1],0,
+338,127,wheres liverpool,wheres liverpool,[unused0],0,liverpool
+339,127,beatles europe.,beatles europe.,[unused1],0,europe
+340,127,okay. well go liverpool.,okay. well go liverpool.,[unused0],1,well
+341,127,"youre joking, right. really going liverpool,","youre joking, right. really going liverpool,",[unused1],1,going|really|right
+342,127,"brenda, would like head nurse hospital","[unused1], would like head nurse hospital",[unused0],1,like
+343,127,im nurse. im candy striper.,im nurse. im candy striper.,[unused1],0,
+344,128,joe shaye eating slice pizza talks landlord apartment building.,[unused2] shaye eating slice pizza talks landlord apartment building.,[unused2],0,landlord|eating
+345,128,joe shaye need go inside take quick look around,[unused2] shaye need go inside take quick look around,[unused2],0,take|need
+346,129,"joe shaye walking two bedroom apartment. theres bed pushed wall, stacks drafting paper, envelopes, stationery supplies lying around room. see black white picture paula frank sr. sitting front u.s. army tank. joe takes frank sr.s black briefcase shelf flips open. reaches inside pulls stack postcards sent frank father. joe smiles flips postcard, stares picture clark gable","[unused2] shaye walking two bedroom apartment. theres bed pushed wall, stacks drafting paper, envelopes, stationery supplies lying around room. see black white picture paula [unused0] sr. sitting front u.s. army tank. [unused2] takes [unused0] sr.s black briefcase shelf flips open. reaches inside pulls stack postcards sent [unused0] father. [unused2] smiles flips postcard, stares picture clark gable",[unused2],-1,flips|see|drafting|bed|stares|lying|smiles|sitting|postcard|sent|walking|pushed|around|takes
+347,130,"joe inside phone booth, dropping dimes slot holding postcard.","[unused2] inside phone booth, dropping dimes slot holding postcard.",[unused2],0,slot|holding|dropping
+348,130,"hes atlan sean no, im coming back ashington. im going straight joe shaye meet team hit, im dimes. sean, im dimes","hes atlan sean no, im coming back ashington. im going straight [unused2] shaye meet team hit, im dimes. sean, im dimes",[unused2],-1,back|atlan|hit|coming|going
+349,131,"frank brenda lying bb�tc.�ther, staring ceiling mirrors.","[unused0] [unused1] lying bb�tc.�ther, staring ceiling mirrors.",[unused1],-1,staring|lying
+350,131,okay. dont cry.,okay. dont cry.,[unused0],1,
+351,131,"im sorry, brenda cant this.","im sorry, [unused1] cant this.",[unused1],-1,
+352,131,"brenda, okay. frank dont care virgin. frank wait.","[unused1], okay. [unused0] dont care virgin. [unused0] wait.",[unused0],-1,
+353,131,"brenda want sleep you. brenda really do. brenda sits up, starts getting dressed.","[unused1] want sleep you. [unused1] really do. [unused1] sits up, starts getting dressed.",[unused1],1,dressed|want|you|starts|getting|sits|really
+354,131,"narrator havent told truth. im virgin. narrator abortion two years ago. parents found kicked house. brenda covers face pillow, starts cry.","narrator havent told truth. im virgin. narrator abortion two years ago. parents found kicked house. [unused1] covers face pillow, starts cry.",[unused1],-1,found|face|covers|starts|kicked|ago|told
+355,131,"months ago apologized said brenda daughter, brenda couldnt come home awhile. im sorry, frank, please dont mad.","months ago apologized said [unused1] daughter, [unused1] couldnt come home awhile. im sorry, [unused0], please dont mad.",[unused1],1,apologized|please|come|said|ago
+356,131,"engaged doctor, would change anything brenda removes pillow face, stares frank.","engaged doctor, would change anything [unused1] removes pillow face, stares [unused0].",[unused0],1,engaged|change|stares
+357,131,"frank went parents, spoke father asked permission marry","[unused0] went parents, spoke father asked permission marry",[unused0],0,asked|spoke|went
+358,131,"dont tease me, frank.","dont tease me, [unused0].",[unused1],1,
+359,131,im teasing.,im teasing.,[unused0],1,
+360,131,would go home new orleans,would go home new orleans,[unused1],0,home
+361,131,"leave right now, never come back.","leave right now, never come back.",[unused0],-1,back|leave|never|now|right|come
+362,132,"ten fbnarrator agents burst doors franks apartment. joe shaye front, leading men inside guns drawn.","ten fbnarrator agents burst doors [unused0]s apartment. [unused2] shaye front, leading men inside guns drawn.",[unused2],0,leading|drawn|fbnarrator|franks
+363,134,"joe shaye leading army cops hallway, holding .narrator harvard diploma hand. make way front door marked. frank connors, m.d..","[unused2] shaye leading army cops hallway, holding .narrator harvard diploma hand. make way front door marked. frank connors, m.d..",[unused2],1,marked|make|leading|hallway|holding
+364,134,"okay. kick in. agents kick door, joe shaye walks office, stares electric typewriter humming desk.","okay. kick in. agents kick door, [unused2] shaye walks office, stares electric typewriter humming desk.",[unused2],1,stares|humming
+365,136,"frank, dressed plain white suit, sits dinner table brenda parents, robert carol strong. house old warm, table jammed food.","[unused0], dressed plain white suit, sits dinner table [unused1] parents, robert carol strong. house old warm, table jammed food.",[unused0],1,robert|jammed|sits|dressed
+366,136,"yes, sir. im lutheran.","yes, sir. im lutheran.",[unused0],1,
+367,136,"no, maam. first time. please, call frank.","no, maam. first time. please, call [unused0].",[unused0],1,call|please
+368,136,"two little mice fell bucket cream. first mouse gave drowned, second mouse struggled hard churned cream butter walked out. amen. lift heads, clearly impressed. robert turns frank smiles.","two little mice fell bucket cream. first mouse gave drowned, second mouse struggled hard churned cream butter walked out. amen. lift heads, clearly impressed. robert turns [unused0] smiles.",[unused0],1,clearly|walked|fell|churned|hard|drowned|struggled|bucket|turns|out|gave
+369,137,"right. thats good, sir.","right. thats good, sir.",[unused0],1,right
+370,137,"no, sir. artist.","no, sir. artist.",[unused0],-1,
+371,137,"honest, ive thinking getting back law.","honest, ive thinking getting back law.",[unused0],1,getting|back
+372,137,"frank went medical school frank passed bar california. frank practiced law year, decided try hand pediatrics.","[unused0] went medical school [unused0] passed bar california. [unused0] practiced law year, decided try hand pediatrics.",[unused0],1,decided|practiced|passed|went
+373,137,would give job,would give job,[unused0],0,give
+374,137,would frank take bar new orleans,would [unused0] take bar new orleans,[unused0],0,take
+375,139,look that. show movies planes now. whats next frank joe stare small movie screen thirty rows front them.,look that. show movies planes now. whats next [unused0] [unused2] stare small movie screen thirty rows front them.,[unused2],0,them|front|now|show|rows
+376,139,gonna eat eclair,gonna eat eclair,[unused0],0,eat
+377,139,yeah. im gonna eat later.,yeah. im gonna eat later.,[unused2],1,later
+378,139,want split,want split,[unused0],1,
+379,139,"no. joe moves eclair away frank. joe shaye contd know joe shaye could never figure out, frank cheated bar exam louisiana.","no. [unused2] moves eclair away [unused0]. [unused2] shaye contd know [unused2] shaye could never figure out, [unused0] cheated bar exam louisiana.",[unused2],-1,know|eclair|cheated|away|never|figure|out
+380,139,whats difference,whats difference,[unused0],0,
+381,139,somebody else take test,somebody else take test,[unused2],0,take
+382,139,"im going prison long time, joe whats difference","im going prison long time, [unused2] whats difference",[unused0],-1,going
+383,142,"frank four letters hand sent defendants apartment, ea one warning buildin sprayed insecticide, cover belonging honor, ladies gentleman jury, irrefutable evid tat defendant lying","[unused0] four letters hand sent defendants apartment, ea one warning buildin sprayed insecticide, cover belonging honor, ladies gentleman jury, irrefutable evid tat defendant lying",[unused0],1,lying|sprayed|ladies|sent|warning
+384,143,"case dismissed frank shakes roberts hand, robert pulls close gives hug. debbie zane","case dismissed [unused0] shakes roberts hand, robert pulls close gives hug. debbie zane",[unused0],1,gives|dismissed
+385,144,frank covering brendas eyes hands slowly walks toward front door large house.,[unused0] covering brendas eyes hands slowly walks toward front door large house.,[unused0],0,covering|hands|slowly
+386,144,okay. reach hand feel that. think brenda reaches touches doorknob.,okay. reach hand feel that. think [unused1] reaches touches doorknob.,[unused0],1,reaches|think
+387,144,"it, frank","it, [unused0]",[unused1],0,
+388,144,"front door. frank made offer today. frank removes hands, brenda looks giant, six bedroom house sits cul de sac.","front door. [unused0] made offer today. [unused0] removes hands, [unused1] looks giant, six bedroom house sits cul de sac.",[unused0],0,sits|made
+389,144,big. eq afford,big. eq afford,[unused1],0,
+390,144,"gonna all, brenda.","gonna all, [unused1].",[unused0],0,
+391,144,get money house like,get money house like,[unused1],1,get
+392,144,place everyone gets it. bank.,place everyone gets it. bank.,[unused0],0,gets
+393,145,frank parked front airport. turns brenda gives kiss.,[unused0] parked front airport. turns [unused1] gives kiss.,[unused0],1,turns|gives|parked
+394,145,frank agreed speak medical conference six months ago. father understands. frank grabs briefcase gets car.,[unused0] agreed speak medical conference six months ago. father understands. [unused0] grabs briefcase gets car.,[unused0],1,agreed|gets|ago
+395,145,cant brenda go,cant [unused1] go,[unused1],0,
+396,145,next time. frank promise.,next time. [unused0] promise.,[unused0],1,
+397,147,"frank opens briefcase, pulls pilots uniform.","[unused0] opens briefcase, pulls pilots uniform.",[unused0],0,opens|pulls
+398,150,twenty thousand checks year.,twenty thousand checks year.,[unused0],0,
+399,151,"starters, dont show make checks.","starters, dont show make checks.",[unused0],0,make
+400,152,"two delivery men carrying narrator tek camera small office, frank setting large paste board.","two delivery men carrying narrator tek camera small office, [unused0] setting large paste board.",[unused0],0,carrying|setting
+401,152,"put anywhere. set camera down, slowly pull back, see frank turned office print shop","put anywhere. set camera down, slowly pull back, see [unused0] turned office print shop",[unused0],0,anywhere|back|turned|down|set|slowly
+402,152,"frank make checks pan am. frank motions window, see pan building directly across street.","[unused0] make checks pan am. [unused0] motions window, see pan building directly across street.",[unused0],0,pan|building|see|directly
+403,153,"frank working paste board, making inch copy pan expense check. watch takes check places directly lens narrator tek ra.","[unused0] working paste board, making inch copy pan expense check. watch takes check places directly lens narrator tek ra.",[unused0],0,working|lens|making|directly|takes
+404,155,"super. november, large, smoked filled conference room, drapes closed block afternoon sun. joe shaye holds one franks new checks stands fbnarrator director marsh, sits head long table. deputy director deevers handles introductions.","super. november, large, smoked filled conference room, drapes closed block afternoon sun. [unused2] shaye holds one [unused0]s new checks stands fbnarrator director marsh, sits head long table. deputy director deevers handles introductions.",[unused2],1,long|closed|stands|handles|franks|head|smoked|filled|holds
+405,155,"director marsh, frank abagnale longer forging checks. hes moved counterfeiting, making pan expense checks scratch. next slide. slide changes. joe shaye contd amounts increased almost one thousand dollars per check, quality, see, virtually flawless.","director marsh, [unused0] abagnale longer forging checks. hes moved counterfeiting, making pan expense checks scratch. next slide. slide changes. [unused2] shaye contd amounts increased almost one thousand dollars per check, quality, see, virtually flawless.",[unused2],1,increased|longer|see|forging|almost|moved|virtually|scratch|making
+406,155,"sir, help joe shaye feel arrest could come time. believe could new orleans.","sir, help [unused2] shaye feel arrest could come time. believe could new orleans.",[unused2],1,believe|come
+407,156,"little music, dad","little music, dad",[unused0],0,
+408,156,frank sr. took job. government job. see im good lawyer,[unused0] sr. took job. government job. see im good lawyer,[unused0],1,see|took
+409,156,"dad, frank lawyer.","dad, [unused0] lawyer.",[unused0],0,
+410,156,"look letter. handing frank letter kicked out. took away membership rotary club. accused terrible things, made list lies keep out. im gonna sue them, lifetime membership frank sr. have. frank sr. plaque, letters congratulations.","look letter. handing [unused0] letter kicked out. took away membership rotary club. accused terrible things, made list lies keep out. im gonna sue them, lifetime membership [unused0] sr. have. [unused0] sr. plaque, letters congratulations.",[unused0],-1,them|accused|away|sue|out|made|kicked|lies|keep|lifetime|have|handing|took
+411,156,mom seen dressed like,mom seen dressed like,[unused0],1,seen|dressed
+412,156,mother doesnt know wants.,mother doesnt know wants.,[unused0],0,know|wants
+413,156,well go together get suit. new black suit. one manhattan eagle three button black pearls.,well go together get suit. new black suit. one manhattan eagle three button black pearls.,[unused0],1,together|well|get
+414,156,nice. well drink first.,nice. well drink first.,[unused0],1,well|first|drink
+415,156,"dad, im getting married two weeks im buying sixty thousand dollar house, new cadillac. im getting back, everything took us. frank wa mom come wedd ogether.","dad, im getting married two weeks im buying sixty thousand dollar house, new cadillac. im getting back, everything took us. [unused0] wa mom come wedd ogether.",[unused0],0,back|married|come|getting|took
+416,156,ask herd fight her. prom wont let see dressed this.,ask herd fight her. prom wont let see dressed this.,[unused0],-1,her|see|dressed|fight
+417,156,"wont come, baby. frank stares father long beat. frank sr. contd little girl. little girl.","wont come, baby. [unused0] stares father long beat. [unused0] sr. contd little girl. little girl.",[unused0],0,father|long
+418,157,"frank clearly upset sits jump seat, lost thought. pilot gets seat, turns back frank.","[unused0] clearly upset sits jump seat, lost thought. pilot gets seat, turns back [unused0].",[unused0],-1,clearly|gets|back|lost|thought|turns
+419,158,"joe sleeping chair office. phone rings, quickly answers.","[unused2] sleeping chair office. phone rings, quickly answers.",[unused2],0,quickly|sleeping
+420,160,"hello, joe. merry christmas. joe grabs pad pencil.","hello, [unused2]. merry christmas. [unused2] grabs pad pencil.",[unused0],1,
+421,160,joe shaye thought might call.,[unused2] shaye thought might call.,[unused2],0,thought|call
+422,160,"frank dont know, exactly. airport somewhere.","[unused0] dont know, exactly. airport somewhere.",[unused0],0,exactly|know|somewhere
+423,160,"want, doctor connors","want, doctor connors",[unused2],1,
+424,160,"joe, frank havent doctor connors months now.","[unused2], [unused0] havent doctor connors months now.",[unused0],0,now
+425,160,"fuck you. shaye fitting office eve, tell","fuck you. shaye fitting office eve, tell",[unused2],-1,you|shaye|tell
+426,160,"youve stolen four million dollars. think gonna call wedding present isnt something get walk away from, frank.","youve stolen four million dollars. think gonna call wedding present isnt something get walk away from, [unused0].",[unused2],-1,youve|get|call|think|stolen|away|walk
+427,160,frank want call truce,[unused0] want call truce,[unused0],1,want
+428,160,"truce. caught, go prison. think going","truce. caught, go prison. think going",[unused2],-1,think|going
+429,160,"please, leave alone, joe. frank dont want anymore. dont make anymore","please, leave alone, [unused2]. [unused0] dont want anymore. dont make anymore",[unused0],-1,alone|leave|want
+430,160,im close arent joe shaye youre scared im getting close. close,im close arent [unused2] shaye youre scared im getting close. close,[unused2],-1,scared|getting|close
+431,160,stop chasing,stop chasing,[unused0],-1,
+432,160,joe shaye cant stop. job.,[unused2] shaye cant stop. job.,[unused2],1,
+433,160,"okay, joe. frank thought id ask.","okay, [unused2]. [unused0] thought id ask.",[unused0],1,thought
+434,161,"mardnarrator gras full swing. crush people walking bourbon street. joe shaye pushing crowd people, amdursky fox next makes way crowd. joe motions behind hiwmfere twenty agents quickly split start walking thr ugh quarter.","mardnarrator gras full swing. crush people walking bourbon street. [unused2] shaye pushing crowd people, amdursky fox next makes way crowd. [unused2] motions behind hiwmfere twenty agents quickly split start walking thr ugh quarter.",[unused2],-1,pushing|quickly|makes|split|walking
+435,162,"engagement party going hundred people elaborate costumes gowns. brenda, dressed mask corset, standing girlfriends showing engagement ring. frank takes mask, see fear eyes walks brenda.","engagement party going hundred people elaborate costumes gowns. [unused1], dressed mask corset, standing girlfriends showing engagement ring. frank takes mask, see fear eyes walks [unused1].",[unused1],1,see|dressed|standing|showing|elaborate|going|takes
+436,162,come me. debbie zane,come me. debbie zane,[unused0],0,debbie|come
+437,163,"frank pulls brenda coat room. surrounded fur coats, expensive black overcoats, row black hats. brenda kisses him.","[unused0] pulls [unused1] coat room. surrounded fur coats, expensive black overcoats, row black hats. [unused1] kisses him.",[unused0],1,row|him|surrounded|kisses
+438,163,"frank, believe party us","[unused0], believe party us",[unused1],1,believe
+439,163,"leave, brenda. love me, right frank mean, would love matter","leave, [unused1]. love me, right [unused0] mean, would love matter",[unused0],1,love|right
+440,163,"frank poor, sick, different name. name means g, right name frank co �s. thats frank you. al secrets. sometimes frank tr use name frank williams r� secret.","[unused0] poor, sick, different name. name means g, right name [unused0] co �s. thats [unused0] you. al secrets. sometimes [unused0] tr use name [unused0] williams r� secret.",[unused0],-1,means|you|sometimes
+441,163,frank williams,[unused0] williams,[unused1],0,
+442,163,"means nothing frank williams, frank black im you, im frank connors thats matters.","means nothing [unused0] williams, [unused0] black im you, im [unused0] connors thats matters.",[unused0],1,you|thats
+443,163,"brenda, frank dont want lie anymore. im doctor. frank never went medical school. brenda smiles, thinks hes joking.","[unused1], [unused0] dont want lie anymore. im doctor. [unused0] never went medical school. [unused1] smiles, thinks hes joking.",[unused0],1,anymore|thinks|never|want|joking|went
+444,163,"stop teasing me, frank. youre frank connors, right youre frank connors youre years old. would lie brenda turns frank, trying get upset.","stop teasing me, [unused0]. youre [unused0] connors, right youre [unused0] connors youre years old. would lie [unused1] turns [unused0], trying get upset.",[unused1],-1,lie|youre|trying|upset|teasing
+445,163,"frank, whats name narrator want tell name.","[unused0], whats name narrator want tell name.",[unused0],1,name|want
+446,163,"well go liverpool. live there, brenda, frank live wherever want. frank money, enough rest lives. youre gonna ust me. trust ov, frank love you.","well go liverpool. live there, [unused1], [unused0] live wherever want. [unused0] money, enough rest lives. youre gonna ust me. trust ov, [unused0] love you.",[unused0],1,well|there|enough|you|live
+447,163,"matter what. even ave live liverpool, frank different name youll still love","matter what. even ave live liverpool, [unused0] different name youll still love",[unused0],1,still|even|love|ave
+448,163,well never tell anyone truth. cant tell parents.,well never tell anyone truth. cant tell parents.,[unused0],1,well|never|tell
+449,163,no. wont tell anyone. well go away. brenda dont care brenda ever see parents again. brenda want you.,no. wont tell anyone. well go away. [unused1] dont care [unused1] ever see parents again. [unused1] want you.,[unused1],-1,again|well|see|ever|away|want|wont|you
+450,163,well leave tonight.,well leave tonight.,[unused0],1,leave|well
+451,163,"wedding next month. planned. leave right reception, like honeymoon.","wedding next month. planned. leave right reception, like honeymoon.",[unused1],1,wedding|planned|leave
+452,163,"no, leave today. frank pick parents house two hours.","no, leave today. [unused0] pick parents house two hours.",[unused0],-1,leave
+453,163,well get married liverpool. would like,well get married liverpool. would like,[unused0],1,well|like|get
+454,163,"yes. brenda love you, frank. please, go tell name.","yes. [unused1] love you, [unused0]. please, go tell name.",[unused1],1,name|tell|yes|please|you
+455,164,"frank packing su hundred dollar bills. trying get sui close, sitting top money spilling s.","[unused0] packing su hundred dollar bills. trying get sui close, sitting top money spilling s.",[unused0],1,packing|get|trying|sitting|close|spilling
+456,164,"heavy rain falling fr es toward brendas parents house. turns ont street, sees five patrol cars parked front th use. neighbors lined street, two state troopers guarding front house shotguns. frank stops car, stares stunned disbelief police front house. sirens wailing distance frank puts head steering wheel closes eyes.","heavy rain falling fr es toward brendas parents house. turns ont street, sees five patrol cars parked front th use. neighbors lined street, two state troopers guarding front house shotguns. [unused0] stops car, stares stunned disbelief police front house. sirens wailing distance [unused0] puts head steering wheel closes eyes.",[unused0],-1,puts|parked|sees|front|steering|stunned|turns|sirens|wailing|falling|guarding|lined
+457,165,"robert carol sitting living room brenda, holding arms two police officers stand across them. brenda crying, holding cat joe shaye kneels front her.","robert carol sitting living room [unused1], holding arms two police officers stand across them. [unused1] crying, holding cat [unused2] shaye kneels front her.",[unused1],-1,them|front|her|sitting|holding|stand
+458,165,"hello, brenda. name joe shaye, im fbi.","hello, [unused1]. name [unused2] shaye, im fbi.",[unused2],0,
+459,165,joe shaye contd thats pretty cat. whats name,[unused2] shaye contd thats pretty cat. whats name,[unused2],1,name|pretty|cat
+460,165,"joe shaye know bit scary, joe shaye need tell frank going. lot people looking there, last thing want frank get hurt. joe shaye swear you, brenda, tell hes going joe shaye keep safe.","[unused2] shaye know bit scary, [unused2] shaye need tell [unused0] going. lot people looking there, last thing want [unused0] get hurt. [unused2] shaye swear you, [unused1], tell hes going [unused2] shaye keep safe.",[unused2],-1,know|get|tell|looking|want|there|you|shaye|bit|keep|hurt|going
+461,166,frank walking airpo rushes twa ticket counter closing night.,[unused0] walking airpo rushes twa ticket counter closing night.,[unused0],0,twa|walking
+462,166,flights tonight,flights tonight,[unused0],0,
+463,167,"joe shaye stands front twenty fbnarrator agents, pacing.","[unused2] shaye stands front twenty fbnarrator agents, pacing.",[unused2],0,pacing|stands
+464,167,"stop leaves country. joe shaye want everyone inside miami international. hes used airport before, knows","stop leaves country. [unused2] shaye want everyone inside miami international. hes used airport before, knows",[unused2],-1,leaves|shaye|used|want
+465,167,last six months hes gone harvard berkeley im betting get passport.,last six months hes gone harvard berkeley im betting get passport.,[unused2],0,get|hes|betting|gone
+466,167,no. miami hff exit point. tch him.,no. miami hff exit point. tch him.,[unused2],-1,tch|miami|him
+467,168,excuse me. death records,excuse me. death records,[unused0],-1,
+468,169,frank looking thick book. entries frank quickly scanning pages. stops sees following entry.,[unused0] looking thick book. entries [unused0] quickly scanning pages. stops sees following entry.,[unused0],-1,scanning|sees|looking|quickly|following
+469,170,frank walks window miamnarrator city hall smiles woman behind counter.,[unused0] walks window miamnarrator city hall smiles woman behind counter.,[unused0],1,smiles
+470,170,"hello. id like get copy birth certificate, please.","hello. id like get copy birth certificate, please.",[unused0],1,copy
+471,170,name frank taylor. frank born december tampa.,name [unused0] taylor. [unused0] born december tampa.,[unused0],0,
+472,171,frank walks window passport office.,[unused0] walks window passport office.,[unused0],0,window
+473,175,"see fbnarrator agents, uniformed cops, undercover cops local detectives taking positions around airport. looks like theyre preparing war, joe shaye middle all.","see fbnarrator agents, uniformed cops, undercover cops local detectives taking positions around airport. looks like theyre preparing war, [unused2] shaye middle all.",[unused2],-1,see|taking|middle|looks|preparing
+474,176,"judy, word abroad mean","judy, word abroad mean",[unused0],0,abroad|mean
+475,176,thank you.,thank you.,[unused0],1,you
+476,177,frank drawn picture airplane chalkboard. pointing various sections plane.,[unused0] drawn picture airplane chalkboard. pointing various sections plane.,[unused0],0,chalkboard|pointing|airplane
+477,177,"whats this, monica","whats this, monica",[unused0],0,
+478,177,good tail. excellent.,good tail. excellent.,[unused0],1,
+479,178,"moment truth. al webirls standing, frank reading list.","moment truth. al webirls standing, [unused0] reading list.",[unused0],1,
+480,178,"debra jo mcmillian. debra jo comes screaming sea girls, hugging friends crying ms. america pageant.","debra jo mcmillian. debra jo comes screaming sea girls, hugging friends crying ms. america pageant.",[unused0],1,comes|crying|screaming|hugging
+481,178,"heather shack. heather shack screams rushes debra jos arms, two girls screaming frank continues announce winners.","heather shack. heather shack screams rushes debra jos arms, two girls screaming [unused0] continues announce winners.",[unused0],-1,continues|debra|screaming
+482,179,"two cops watch eight beautiful college girls walk out, dressed flight attendants, holding luggage. cops never even glance frank, stands middle girls walk airport.","two cops watch eight beautiful college girls walk out, dressed flight attendants, holding luggage. cops never even glance [unused0], stands middle girls walk airport.",[unused0],1,even|watch|stands|never|holding|walk
+483,181,joe shaye sitting fee shop looks,[unused2] shaye sitting fee shop looks,[unused2],0,sitting|looks
+484,182,"mr. joe shaye white courtesy phone. mr. e, please pick white courtes one. distance, joe watches eight girls walk toward him. hesitates beat, walks back restaurant finds white phone.","mr. [unused2] shaye white courtesy phone. mr. e, please pick white courtes one. distance, [unused2] watches eight girls walk toward him. hesitates beat, walks back restaurant finds white phone.",[unused2],1,walks|back|him|beat|please|finds|shaye|walk
+485,183,thats charter terminal. see face,thats charter terminal. see face,[unused2],0,see|charter
+486,184,"joe shaye running airport, sprinting past frank college girls makes way outside.","[unused2] shaye running airport, sprinting past [unused0] college girls makes way outside.",[unused2],0,sprinting|makes|running
+487,185,forty fbnarrator agents miamnarrator police officers slowly approach white cadillac. joe shaye gun drawn.,forty fbnarrator agents miamnarrator police officers slowly approach white cadillac. [unused2] shaye gun drawn.,[unused2],-1,approach|slowly
+488,185,"frank, get car put hands hood theres place run, make easy car door opens, amd year old kid gets car, hands shaking ejtares joe pilots cap falling head.","[unused0], get car put hands hood theres place run, make easy car door opens, amd year old kid gets car, hands shaking ejtares [unused2] pilots cap falling head.",[unused2],-1,put|get|make|gets|opens|cap|hands|place|falling|shaking
+489,186,"snow falling outside joes office window, overlooks parking lot. joe sits desk staring counterfeit checks. secretary walks hands envelope.","snow falling outside [unused2]s office window, overlooks parking lot. [unused2] sits desk staring counterfeit checks. secretary walks hands envelope.",[unused2],-1,walks|falling|parking|overlooks|staring|sits
+490,187,"vineyards montpelier stretch across bas languedoc valley, tourists drive way mediterranean. frank eating ice cream walks main street, shops restaurants open busy summer. frank stops delivery boy bicycle.","vineyards montpelier stretch across bas languedoc valley, tourists drive way mediterranean. [unused0] eating ice cream walks main street, shops restaurants open busy summer. [unused0] stops delivery boy bicycle.",[unused0],-1,shops|drive|montpelier
+491,187,excuse me. know lavalier fa lives,excuse me. know lavalier fa lives,[unused0],1,lavalier|know
+492,188,"frank knocking dbe oo main house small vineyard. monique lavalier, answers front door holding baby.","[unused0] knocking dbe oo main house small vineyard. monique lavalier, answers front door holding baby.",[unused0],0,knocking|holding|front
+493,188,hello. speak english monique nods.,hello. speak english monique nods.,[unused0],0,
+494,189,"entire family sitting around dinner table, staring frank takes sip wine.","entire family sitting around dinner table, staring [unused0] takes sip wine.",[unused0],0,sitting|staring|takes
+495,189,good wine. family starts laugh him.,good wine. family starts laugh him.,[unused0],1,starts|him
+496,189,whats stretching,whats stretching,[unused0],0,stretching
+497,190,frank sitting living room staring photo album. sees old picture mother father sitting american tank.,[unused0] sitting living room staring photo album. sees old picture mother father sitting american tank.,[unused0],0,sitting|father|staring
+498,190,everyone says that.,everyone says that.,[unused0],0,says
+499,191,"name frank wagner, frank teaching summer session american history, course frank taught yale last year. dont open books chapter one, read quietly yourselves.","name [unused0] wagner, [unused0] teaching summer session american history, course [unused0] taught yale last year. dont open books chapter one, read quietly yourselves.",[unused0],0,read|teaching|quietly
+500,193,"frank working garden, surrounded roses. monique walks house.","[unused0] working garden, surrounded roses. monique walks house.",[unused0],0,working|surrounded
+501,194,frank thought family business wine,[unused0] thought family business wine,[unused0],0,thought
+502,196,ive read books machines. ive never seen one.,ive read books machines. ive never seen one.,[unused0],0,seen|never
+503,197,"press room empty except frank, stands one end machine, shirt off, working like man obsessed operates massive press thousands","press room empty except [unused0], stands one end machine, shirt off, working like man obsessed operates massive press thousands",[unused0],0,working|off|operates|stands|obsessed
+504,198,"frank reaches closet pulls pilots uniform. ps jacket, monique walks turns light. ees suitcase bed.","[unused0] reaches closet pulls pilots uniform. ps jacket, monique walks turns light. ees suitcase bed.",[unused0],1,turns|reaches|suitcase|uniform
+505,198,frank dont know.,[unused0] dont know.,[unused0],0,
+506,199,"joe shaye sitting office trying use electric pencil sharpener, broken. joe pulls half eaten pencil, fox amdursky walk holding envelope, big smiles faces.","[unused2] shaye sitting office trying use electric pencil sharpener, broken. [unused2] pulls half eaten pencil, fox amdursky walk holding envelope, big smiles faces.",[unused2],0,pulls|trying|sitting|half|faces|holding|broken
+507,200,singapore. australia. south america. egypt. hes also hit almost every major bank europe.,singapore. australia. south america. egypt. hes also hit almost every major bank europe.,[unused2],0,also|singapore|hit|almost
+508,200,"nobody called, sir. banks didnt know happening last week. think hes run five months.","nobody called, sir. banks didnt know happening last week. think hes run five months.",[unused2],0,know|think|run|happening|called|didnt
+509,200,"hes making real checks, sir. perfect, pan cashed all.","hes making real checks, sir. perfect, pan cashed all.",[unused2],1,making|pan|cashed
+510,200,"last check cashed paris week ago. hell stay another week moves on. go now, sir, today","last check cashed paris week ago. hell stay another week moves on. go now, sir, today",[unused2],-1,ago|now|cashed
+511,201,"english. speak english im american fbjoe shaye agent. hello shit joe slams phone, walks outof office. joe shaye contd anyone speak french. joe shaye need someone speaks french","english. speak english im american fb[unused2] shaye agent. hello shit [unused2] slams phone, walks outof office. [unused2] shaye contd anyone speak french. [unused2] shaye need someone speaks french",[unused2],-1,outof|shit|contd|shaye|speaks
+512,204,answered phone whats name.,answered phone whats name.,[unused2],0,answered
+513,204,thats fine. tell joe shaye proposition him. tell fbjoe shaye proposition him. oliver translates joe paces front him.,thats fine. tell [unused2] shaye proposition him. tell fb[unused2] shaye proposition him. oliver translates [unused2] paces front him.,[unused2],1,front|tell|him|fine|translates
+514,204,ask hed like catch greatest bank robber world ever known.,ask hed like catch greatest bank robber world ever known.,[unused2],1,ever|ask|known|hed
+515,205,lets go drive. frank need supplies. limo drives off. debbie zane,lets go drive. [unused0] need supplies. limo drives off. debbie zane,[unused0],0,off
+516,207,"joe sha �theres always one ba bigger richer ers. came for, hell watch days. hell know add security guard, bring new teller. sees anything place, new cleaning man, window shade thats instead down, hell move next one. thats luxury entire world mark.","[unused2] sha �theres always one ba bigger richer ers. came for, hell watch days. hell know add security guard, bring new teller. sees anything place, new cleaning man, window shade thats instead down, hell move next one. thats luxury entire world mark.",[unused2],-1,know|add|shade|always|cleaning|bigger|richer|hell|�theres|instead|came|down|bring
+517,210,"frank walks bank, takes leather case opens it, revealing checkbook. takes waldmann pen pocket, smiles female teller. hello. narrator need sh this. wife narrator goi oorway afternoon. frank turns check tees l. check teller, take it.","[unused0] walks bank, takes leather case opens it, revealing checkbook. takes waldmann pen pocket, smiles female teller. hello. narrator need sh this. wife narrator goi oorway afternoon. [unused0] turns check tees l. check teller, take it.",[unused0],1,takes|need|oorway|revealing|opens|smiles|turns|take|check|leather
+518,211,"joe, amdursky, fox half asleep, waiting fbnarrator conference room. clock wall reads a.m. phone finally rings. even picks up, joe shaye starts smile.","[unused2], amdursky, fox half asleep, waiting fbnarrator conference room. clock wall reads a.m. phone finally rings. even picks up, [unused2] shaye starts smile.",[unused2],1,even|picks|waiting|reads|starts|finally
+519,214,frank joe shaye sitting next back plane. window frank see skyline manhattan. amdursky fox smoking aisle.,[unused0] [unused2] shaye sitting next back plane. window [unused0] see skyline manhattan. amdursky fox smoking aisle.,[unused2],0,sitting|smoking|back
+520,214,"joe, let call father land frank want talk sees television.","[unused2], let call father land [unused0] want talk sees television.",[unused0],1,sees|call|father|want|let
+521,214,"father ead, frank. im sorry. frank turns joe. jou cont committed su �.cl didnt want one","father ead, [unused0]. im sorry. [unused0] turns [unused2]. jou cont committed su �.cl didnt want one",[unused2],1,father|committed|turns|want
+522,214,suicide. no. thats imps ibl,suicide. no. thats imps ibl,[unused0],-1,imps
+523,214,"found inside car, motor running, garage door shut.","found inside car, motor running, garage door shut.",[unused2],0,found
+524,214,think say something like,think say something like,[unused0],1,
+525,214,"okay, frank.","okay, [unused0].",[unused2],1,
+526,214,"joe, im gonna sick frank use bathroom. joe quickly takes franks handcuffs, jumps seat runs bathroom. joe stands aisle amdursky fox. debbie zane","[unused2], im gonna sick [unused0] use bathroom. [unused2] quickly takes [unused0]s handcuffs, jumps seat runs bathroom. [unused2] stands aisle amdursky fox. debbie zane",[unused0],-1,seat|stands|quickly|takes
+527,215,"frank knees, tears running face uses metal tip fork unscrew hard plastic plate toilet. screws come free, frank able pull entire toilet unit away wall. makes way tiny crawispace, pulls toilet back wall.","[unused0] knees, tears running face uses metal tip fork unscrew hard plastic plate toilet. screws come free, [unused0] able pull entire toilet unit away wall. makes way tiny crawispace, pulls toilet back wall.",[unused0],0,running|pulls|back|away|come|makes|uses
+528,216,joe shaye checks watch flight attendant walks past smiles.,[unused2] shaye checks watch flight attendant walks past smiles.,[unused2],1,watch
+529,216,frank.,[unused0].,[unused2],0,
+530,220,god heaven...,god heaven...,[unused2],1,
+531,221,"church choir singing come home jesus, paula sitting front row pale blue dress snow white hat. song ends, paula se frank enter large, empty church. dazed e, body still weak prison. mom... frank stumbles cent e, dropping knees fainting reach ter.","church choir singing come home jesus, paula sitting front row pale blue dress snow white hat. song ends, paula se [unused0] enter large, empty church. dazed e, body still weak prison. mom... [unused0] stumbles cent e, dropping knees fainting reach ter.",[unused0],-1,dazed|singing|still|dropping|sitting|ends|come|fainting
+532,222,didnt help,didnt help,[unused0],-1,
+533,222,promised. doesnt look back walks door.,promised. doesnt look back walks door.,[unused0],1,promised|back
+534,226,"frank wearing prs psuit hes led visitors room place chair faces bulletproof glass. joe shaye sittin qrdl,s him. pick phones.","[unused0] wearing prs psuit hes led visitors room place chair faces bulletproof glass. [unused2] shaye sittin qrdl,s him. pick phones.",[unused0],0,faces|led|him|wearing
+535,226,"merry christmas, frank.","merry christmas, [unused0].",[unused2],1,
+536,226,frank dont smoke. awkward moment joe puts cigarettes floor.,[unused0] dont smoke. awkward moment [unused2] puts cigarettes floor.,[unused0],1,cigarettes|puts
+537,226,say first year inside hardest.,say first year inside hardest.,[unused2],0,inside|first
+538,226,caught me. want,caught me. want,[unused0],1,want|caught
+539,226,joe shaye dont know. maybe bad idea. joe shaye go. joe starts put phone down.,[unused2] shaye dont know. maybe bad idea. [unused2] shaye go. [unused2] starts put phone down.,[unused2],-1,put|know|starts|down|maybe
+540,226,youre still wearing wedding ring.,youre still wearing wedding ring.,[unused0],0,wedding|still|wearing
+541,226,"yeah. truth is, im divorced joe shaye daughter whos nine.","yeah. truth is, im divorced [unused2] shaye daughter whos nine.",[unused2],1,divorced|whos
+542,226,whats name,whats name,[unused0],0,name
+543,226,counterfeit great lakes savings loan. see hes using a...,counterfeit great lakes savings loan. see hes using a...,[unused2],1,see|using
+544,226,teller bank.,teller bank.,[unused0],0,
+545,226,teller.debbie zane,teller.debbie zane,[unused0],0,
+546,226,"every bank uses hand stamps dates. get used over, theyre always worn down, numbers always cracking sixes nines go first. look date check ink worn flat, nines sixes cracking thats stamp teller, joe. looks like got inside job.","every bank uses hand stamps dates. get used over, theyre always worn down, numbers always cracking sixes nines go first. look date check ink worn flat, nines sixes cracking thats stamp teller, [unused2]. looks like got inside job.",[unused0],1,get|ink|always|got|first|used|look|cracking|worn|looks|down|stamp|uses
+547,227,"frank lying cell, staring darkness.","[unused0] lying cell, staring darkness.",[unused0],-1,staring|lying
+548,227,"eastern flight clear taxi runwaytwo zero four. thats big thank y, goodbye, newark. ladies eman, leveled att five thousand feet. sm gns turned designated smoki name captain frank sit back, relax, flight milan.","eastern flight clear taxi runwaytwo zero four. thats big thank y, goodbye, newark. ladies eman, leveled att five thousand feet. sm gns turned designated smoki name captain [unused0] sit back, relax, flight milan.",[unused0],1,back|leveled|eman|turned
+549,229,"frank sitting across joe director marsh, glass milk front him. two guards stand behind rifles. frank years old, still boyish face teenager.","[unused0] sitting across [unused2] director marsh, glass milk front him. two guards stand behind rifles. [unused0] years old, still boyish face teenager.",[unused0],0,front|still|him|sitting|stand
+550,229,"joe, one days get new jacket. material frank touches joes jacket.","[unused2], one days get new jacket. material [unused0] touches [unused2]s jacket.",[unused0],0,get
+551,229,isnt cashmere look lining. kind polyester. see tailor new york.,isnt cashmere look lining. kind polyester. see tailor new york.,[unused0],0,see|cashmere
+552,229,"frank, fbjoe shaye director marsh. wanted meet you.","[unused0], fb[unused2] shaye director marsh. wanted meet you.",[unused2],0,you|wanted
+553,229,"four morning fbfrank director marsh mr. abagnale, youve served five years eighteen year sentence","four morning fb[unused0] director marsh mr. abagnale, youve served five years eighteen year sentence",[unused0],1,served|marsh
+554,229,"theres perforated edge, means check hand cut, fed. paper double bonded, much heavy check. ink raised fingers instead flat. frank brings check nose, sniffs it.","theres perforated edge, means check hand cut, fed. paper double bonded, much heavy check. ink raised fingers instead flat. [unused0] brings check nose, sniffs it.",[unused0],-1,perforated|nose|ink|bonded|fed|means|raised|instead|check
+555,229,frank already job here. frank deliver mail.,[unused0] already job here. [unused0] deliver mail.,[unused0],0,already|here
+556,229,"no, frank. wed get out.","no, [unused0]. wed get out.",[unused2],-1,wed|out|get
+557,229,"saying this, joe caught me, isnt enough cant lea alone","saying this, [unused2] caught me, isnt enough cant lea alone",[unused0],-1,alone|saying|isnt|caught
+558,229,whose custody,whose custody,[unused0],0,
+559,230,im frank abagnale. im supposed start work today.,im [unused0] abagnale. im supposed start work today.,[unused0],0,supposed
+560,230,call frank.,call [unused0].,[unused0],0,
+561,231,"frank makes way long hallway, passing young men dark suits come offices see pass. frank sees joe shaye standing end hall.","[unused0] makes way long hallway, passing young men dark suits come offices see pass. [unused0] sees [unused2] shaye standing end hall.",[unused0],0,passing|see|sees|standing|come|makes
+562,231,"morning, joe. frank turns stares door marked fraud. casually walks inside.","morning, [unused2]. [unused0] turns stares door marked fraud. casually walks inside.",[unused0],-1,turns|stares|marked|casually
+563,232,"stack files sit franks desk. hundreds checks, mug shots, piles counterfeit money. frank looks window office, stares dallas","stack files sit [unused0]s desk. hundreds checks, mug shots, piles counterfeit money. [unused0] looks window office, stares dallas",[unused0],0,counterfeit|stares|looks|sit
+564,233,id rather stay hotel.,id rather stay hotel.,[unused0],0,rather
+565,233,thats possible. frank opens drapes looks police station sits across street apartment.,thats possible. [unused0] opens drapes looks police station sits across street apartment.,[unused2],0,looks
+566,233,one men gave check today. nine dollars.,one men gave check today. nine dollars.,[unused0],0,gave
+567,233,tomorrows christmas eve. would okay frank went work,tomorrows christmas eve. would okay [unused0] went work,[unused0],1,christmas|okay|went
+568,233,tomorrow night im flying chicago see daughter. joe shaye back work monday.,tomorrow night im flying chicago see daughter. [unused2] shaye back work monday.,[unused2],0,flying|see|back
+569,233,joe. .what frank monday,[unused2]. .what [unused0] monday,[unused0],0,
+570,234,"frank sits alone eating sandwich, looking book mug shots. stops sees mug shot, black white picture staring him. frank carefully rips mug shot book puts pocket.","[unused0] sits alone eating sandwich, looking book mug shots. stops sees mug shot, black white picture staring him. [unused0] carefully rips mug shot book puts pocket.",[unused0],-1,sees|looking|him|staring|mug|carefully|alone|eating|puts
+571,234,"frank walking stre carrying small bag groceries makes oh e. something store window catches eye, ,tands frozen corner, looking across window di","[unused0] walking stre carrying small bag groceries makes oh e. something store window catches eye, ,tands frozen corner, looking across window di",[unused0],0,looking|carrying|makes|walking|tands
+572,236,"thats nice uniform, frank. here, let get check. joe grabs check frank, puts money table. joe shaye contd know joe shaye recruited fbjoe shaye joe shaye still law school government said joe shaye best country offer, top class chased joe shaye said yes.","thats nice uniform, [unused0]. here, let get check. [unused2] grabs check [unused0], puts money table. [unused2] shaye contd know [unused2] shaye recruited fb[unused2] shaye [unused2] shaye still law school government said [unused2] shaye best country offer, top class chased [unused2] shaye said yes.",[unused2],1,best|get|know|still|let|recruited|said|chased|here|puts|check
+573,236,"im sorry, joe.","im sorry, [unused2].",[unused0],-1,
+574,236,"joe shaye spent four years arranging release. joe shaye convinced attorney general united states wouldnt run. frank gets fir, walks restaurant. joe follows throw h, irport. jo cont go back pe r�pd youll die papigone. run states back atlanta ars.","[unused2] shaye spent four years arranging release. [unused2] shaye convinced attorney general united states wouldnt run. [unused0] gets fir, walks restaurant. [unused2] follows throw h, irport. jo cont go back pe r�pd youll die papigone. run states back atlanta ars.",[unused2],1,gets|back|follows|convinced|run|shaye|arranging|atlanta|wouldnt
+575,236,frank never asked help.,[unused0] never asked help.,[unused0],1,asked|never
+576,236,"please, frank, leave im finished. joe shaye got out, joe shaye convinced let out.","please, [unused0], leave im finished. [unused2] shaye got out, [unused2] shaye convinced let out.",[unused2],1,finished|leave|got|convinced|let|out
+577,236,youre kid.,youre kid.,[unused2],0,
+578,236,im kid. im son. im nothing you. youre nothing me. frank walks toward american airlines ticket counter.,im kid. im son. im nothing you. youre nothing me. [unused0] walks toward american airlines ticket counter.,[unused0],0,youre|you
+579,236,"im gonna let fly tonight. joe shaye wont even try stop you, joe shaye know youll back monday.","im gonna let fly tonight. [unused2] shaye wont even try stop you, [unused2] shaye know youll back monday.",[unused2],-1,even|know|back|let|wont|try|you|fly
+580,236,would frank come back,would [unused0] come back,[unused0],0,come|back
+581,236,nobody chasing you. frank stares joe long beat.,nobody chasing you. [unused0] stares [unused2] long beat.,[unused2],0,chasing|you|long
+582,236,"two mice fell bucket cream. first mouse gave drowned, second mouse struggled hard churned cream butter crawled out.","two mice fell bucket cream. first mouse gave drowned, second mouse struggled hard churned cream butter crawled out.",[unused0],-1,fell|churned|hard|drowned|struggled|bucket|crawled|out|gave
+583,236,"one you, frank frank turns gin ar ticket counter.","one you, [unused0] [unused0] turns gin ar ticket counter.",[unused2],0,gin|you
+584,237,abagnale yet,abagnale yet,[unused2],0,yet
+585,238,"joe shaye using slide projector standing front ten agents, including special agent wilkes.","[unused2] shaye using slide projector standing front ten agents, including special agent wilkes.",[unused2],1,standing|using|including
+586,238,good morning. ive called emergency briefing discuss check,good morning. ive called emergency briefing discuss check,[unused2],-1,briefing|called|check
+587,238,"dont ask. briefing room door opens, frank walks in. joe spots darkness. joe shaye contd good. youre here. two men stare beat. joe shaye contd time id like point man fill in. frank, ready ake","dont ask. briefing room door opens, [unused0] walks in. [unused2] spots darkness. [unused2] shaye contd good. youre here. two men stare beat. [unused2] shaye contd time id like point man fill in. [unused0], ready ake",[unused2],1,opens|here
+588,239,"frank joe sitting next plane, holding magazines eating nuts. joe wearing brand new black suit. several agents plane, including amdursky fox.","[unused0] [unused2] sitting next plane, holding magazines eating nuts. [unused2] wearing brand new black suit. several agents plane, including amdursky fox.",[unused2],-1,including|wearing|sitting|holding|eating
+589,239,"joe, guys always fly coach","[unused2], guys always fly coach",[unused0],0,fly|always
+590,239,want talk someone see frank get us bumped first class,want talk someone see [unused0] get us bumped first class,[unused0],1,get|bumped
+591,239,hot. lets hope catch guy fast.,hot. lets hope catch guy fast.,[unused2],1,catch|fast|hope
+592,239,"joe, ever seen grand canyon","[unused2], ever seen grand canyon",[unused0],1,seen|ever
+593,239,looks good. get used it.,looks good. get used it.,[unused0],1,looks|used|get
+594,239,much say cost,much say cost,[unused2],0,
+595,239,eight hundred dollars.,eight hundred dollars.,[unused0],0,
+596,239,get eight hundred dollars,get eight hundred dollars,[unused2],0,get
+597,239,credit card.,credit card.,[unused0],1,
+598,239,"somebody gave credit card thats horrifying thought. two men sit silence beat, staring magazines, lost thought. joe shaye contd joe shaye ask something, frank","somebody gave credit card thats horrifying thought. two men sit silence beat, staring magazines, lost thought. [unused2] shaye contd [unused2] shaye ask something, [unused0]",[unused2],-1,thought|lost|staring|horrifying|sit|gave
+599,239,pass bar exam louisiana,pass bar exam louisiana,[unused2],0,
+600,239,frank studied every night two weeks.,[unused0] studied every night two weeks.,[unused0],0,studied
+601,239,"truth frank turns wipfor, slowly starts smile looks clouds. frank abagnale jr. qf mor years. three teenage sons, lives life tulsa, oklahoma.","truth [unused0] turns wipfor, slowly starts smile looks clouds. [unused0] abagnale jr. qf mor years. three teenage sons, lives life tulsa, oklahoma.",[unused2],1,turns|starts|lives|slowly
+602,239,"since release prison z, frank helped","since release prison z, [unused0] helped",[unused0],-1,helped
+603,239,counterfeiters. frank also developed many,counterfeiters. [unused0] also developed many,[unused0],0,also|developed
+604,239,frank makes royalty almost every check written,[unused0] makes royalty almost every check written,[unused0],0,written|makes|almost

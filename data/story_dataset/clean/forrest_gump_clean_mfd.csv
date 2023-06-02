@@ -1,0 +1,518 @@
+,chapter,text,mask_sent,char,mfd2,mfd_word
+0,1,hello. names forrest.,hello. names [unused0].,[unused0],X,X
+1,1,want chocolate,want chocolate,[unused0],X,X
+2,1,"forrest could eat million half these. momma always said, life like box chocolates. never know youre gonna get.","[unused0] could eat million half these. momma always said, life like box chocolates. never know youre gonna get.",[unused0],X,X
+3,1,must comfortable shoes. forrest bet could walk day shoes like feel thing. forrest wish forrest shoes like that.,must comfortable shoes. [unused0] bet could walk day shoes like feel thing. [unused0] wish [unused0] shoes like that.,[unused0],X,X
+4,1,momma always says theres awful lot could tell person shoes. theyre going. theyve been.,momma always says theres awful lot could tell person shoes. theyre going. theyve been.,[unused0],X,X
+5,1,black woman stares forrest looks shoes.,black woman stares [unused0] looks shoes.,[unused0],X,X
+6,1,ive worn lots shoes. forrest bet forrest think real hard forrest could remember first pair shoes.,ive worn lots shoes. [unused0] bet [unused0] think real hard [unused0] could remember first pair shoes.,[unused0],X,X
+7,1,momma said theyd take anywhere.,momma said theyd take anywhere.,[unused0],X,X
+8,2,forrest fitted orthopedic shoes metal leg braces.,[unused0] fitted orthopedic shoes metal leg braces.,[unused0],X,X
+9,5,forrest stops suddenly brace gets stuck. forrests brace caught gutter grate. mrs. gump bends tries free forrest. two old cronies sit front barber shop watch.,[unused0] stops suddenly brace gets stuck. [unused0]s brace caught gutter grate. mrs. gump bends tries free [unused0]. two old cronies sit front barber shop watch.,[unused0],X,X
+10,11,forrest sitting porch.,[unused0] sitting porch.,[unused0],X,X
+11,12,"momma, whats vacation mean","momma, whats vacation mean",[unused0],X,X
+12,12,daddy went,daddy went,[unused0],X,X
+13,14,"mrs. gump looks forrests room. hears singing coming another room walks closed door. mrs. gump opens door, revealing young man long sideburns plays guitar sings. forrest holds onto broom dances oddly. young man elvis presley.","mrs. gump looks [unused0]s room. hears singing coming another room walks closed door. mrs. gump opens door, revealing young man long sideburns plays guitar sings. [unused0] holds onto broom dances oddly. young man elvis presley.",[unused0],X,X
+14,14,forrests legs rock back forth guitar.,[unused0]s legs rock back forth guitar.,[unused0],X,X
+15,14,"forrest rocks braced legs, begins step.","[unused0] rocks braced legs, begins step.",[unused0],X,X
+16,16,forrest still sitting bus bench. black nurse looks him.,[unused0] still sitting bus bench. black nurse looks him.,[unused0],care.virtue,"nurse,nurses"
+17,16,"must hard king. know, funny remember things, things cant.","must hard king. know, funny remember things, things cant.",[unused0],X,X
+18,17,"forrest sure will, momma.","[unused0] sure will, momma.",[unused0],X,X
+19,17,momma said taking rides strangers.,momma said taking rides strangers.,[unused0],X,X
+20,17,im forrest.,im [unused0].,[unused0],X,X
+21,17,"well, aint strangers anymore.","well, aint strangers anymore.",[unused0],X,X
+22,17,bus driver smiles forrest steps bus.,bus driver smiles [unused0] steps bus.,[unused0],X,X
+23,20,young forrest still standing aisle bus.,young [unused0] still standing aisle bus.,[unused0],X,X
+24,20,"well, gonna sit down, arent ya","well, gonna sit down, arent ya",[unused1],X,X
+25,20,whats wrong legs,whats wrong legs,[unused1],X,X
+26,20,"um, nothing all, thank you. legs fine dandy.","um, nothing all, thank you. legs fine dandy.",[unused0],X,X
+27,20,momma said backs crooked like question mark. going make straight arrow. theyre magic shoes.,momma said backs crooked like question mark. going make straight arrow. theyre magic shoes.,[unused0],fairness.vice,crooked
+28,20,stupid something.,stupid something.,[unused1],X,X
+29,20,mommy says stupid stupid does.,mommy says stupid stupid does.,[unused0],care.virtue,mommy
+30,20,jenny puts hand toward forrest. forrest reaches shakes hand.,[unused1] puts hand toward forrest. forrest reaches shakes hand.,[unused1],X,X
+31,20,im jenny.,im [unused1].,[unused1],X,X
+32,20,im forrest. forrest.,im [unused0]. [unused0].,[unused0],X,X
+33,20,"day on, always together. jenny like peas carrots.","day on, always together. [unused1] like peas carrots.",[unused1],X,X
+34,21,young jenny forrest run toward large oak tree.,young [unused1] forrest run toward large oak tree.,[unused1],X,X
+35,21,"come on, forrest, it.","come on, [unused0], it.",[unused1],X,X
+36,21,...a good little monkey and...,...a good little monkey and...,[unused0],X,X
+37,21,forrest hangs upside branch swings back forth. forrests braces wedged tree.,[unused0] hangs upside branch swings back forth. [unused0]s braces wedged tree.,[unused0],X,X
+38,22,"silhouete oak tree, jenny forrest sit branch.","silhouete oak tree, [unused1] forrest sit branch.",[unused1],X,X
+39,22,mommas gonna worry me.,mommas gonna worry me.,[unused0],X,X
+40,22,jenny puts hand forrests hand.,[unused1] puts hand forrests hand.,[unused1],X,X
+41,22,stay little longer.,stay little longer.,[unused1],X,X
+42,22,"reason, jenny didnt never want go home.","reason, [unused1] didnt never want go home.",[unused1],X,X
+43,22,"okay, jenny. forrest stay.","okay, [unused1]. [unused0] stay.",[unused0],X,X
+44,23,"now, momma always told miracles happen every day. people dont think so, do.","now, momma always told miracles happen every day. people dont think so, do.",[unused0],X,X
+45,24,jenny forrest walk. dirt clod hits forrest back head. jenny looks forrest rubs head. three young boys get bikes pick rocks.,[unused1] [unused0] walk. dirt clod hits [unused0] back head. [unused1] looks [unused0] rubs head. three young boys get bikes pick rocks.,[unused0],sanctity.vice,dirt
+46,24,forrest hit eye another dirt clod. forrest falls backward onto ground boys glare him.,[unused0] hit eye another dirt clod. [unused0] falls backward onto ground boys glare him.,[unused0],sanctity.vice,dirt
+47,24,jenny helps forrest back up. boy boy throw dirt clods forrest.,[unused1] helps forrest back up. boy boy throw dirt clods forrest.,[unused1],"sanctity.vice,care.virtue","dirt,helps"
+48,24,"run away, forrest.","run away, [unused0].",[unused1],X,X
+49,24,"run, forrest","run, [unused0]",[unused1],X,X
+50,24,run away hurry,run away hurry,[unused1],X,X
+51,24,"run, forrest run","run, [unused0] run",[unused1],X,X
+52,24,"run, forrest","run, [unused0]",[unused1],X,X
+53,24,"run, forrest run","run, [unused0] run",[unused1],X,X
+54,25,forrest run like wind blows.,[unused0] run like wind blows.,[unused0],X,X
+55,25,"day on, forrest going somewhere, forrest running","day on, [unused0] going somewhere, [unused0] running",[unused0],X,X
+56,29,"remember narrator told jenny never seemed want go home well, lived house old alabama. momma gone heaven five daddy kind farmer.","remember narrator told [unused1] never seemed want go home well, lived house old alabama. momma gone heaven five daddy kind farmer.",[unused1],sanctity.virtue,"heavens,heaven"
+57,29,jenny jenny,[unused1] [unused1],[unused0],X,X
+58,29,forrest look around field left. notices jenny runs toward her.,forrest look around field left. notices [unused1] runs toward her.,[unused1],X,X
+59,29,"jenny, didnt come school today","[unused1], didnt come school today",[unused0],X,X
+60,29,hsh daddys takin nap.,hsh daddys takin nap.,[unused1],X,X
+61,29,"jenny grabs forrests hand runs field. jennys dad drunk, steps onto porch shouts.","[unused1] grabs [unused0]s hand runs field. [unused1]s dad drunk, steps onto porch shouts.",[unused0],X,X
+62,29,jennys dad steps toward field. jenny leads forrest thick tobacco field. jennys dad runs field searching jenny liquor bottle hand.,[unused1]s dad steps toward field. [unused1] leads forrest thick tobacco field. [unused1]s dad runs field searching [unused1] liquor bottle hand.,[unused1],X,X
+63,29,jenny forrest run corn field jennys dad tries chase her.,[unused1] forrest run corn field [unused1]s dad tries chase her.,[unused1],X,X
+64,29,"pray me, forrest. pray me.","pray me, [unused0]. pray me.",[unused1],sanctity.virtue,pray
+65,29,"dear god, make bird jenny fly far, far, far away here. dear god, make bird jenny fly far, far, far away here.","dear god, make bird [unused1] fly far, far, far away here. dear god, make bird [unused1] fly far, far, far away here.",[unused1],X,X
+66,30,"...he police say jenny didnt stay house more. went live grandma creekmore avenue, made happy cause close.","...he police say [unused1] didnt stay house more. went live grandma creekmore avenue, made happy cause close.",[unused1],authority.virtue,police
+67,31,jenny climbs second floor railing enters house.,[unused1] climbs second floor railing enters house.,[unused1],X,X
+68,31,"nights, jennyd sneak come house, cause said scared. scared what, narrator dont know...","nights, [unused1]d sneak come house, cause said scared. scared what, narrator dont know...",[unused1],X,X
+69,32,jenny lies bed next young forrest. hugs him.,[unused1] lies bed next young [unused0]. hugs him.,[unused1],care.virtue,hugs
+70,32,"...but narrator think grandmas dog. mean dog. anyway, jenny best friends...","...but narrator think grandmas dog. mean dog. anyway, [unused1] best friends...",[unused1],X,X
+71,33,forrest jenny teenagers now. walk along oaklined road.,forrest [unused1] teenagers now. walk along oaklined road.,[unused1],X,X
+72,33,teenage boy throws another rock pickup truck pulls behind him. jenny turns looks forrest.,teenage boy throws another rock pickup truck pulls behind him. [unused1] turns looks forrest.,[unused1],X,X
+73,33,"run, forrest, run","run, [unused0], run",[unused1],X,X
+74,33,"run, forrest","run, [unused0]",[unused1],X,X
+75,33,"run, forrest run","run, [unused0] run",[unused1],X,X
+76,34,"run, forrest","run, [unused0]",[unused1],X,X
+77,35,"now, used be, forrest ran get forrest goin. forrest never thought would take anywhere.","now, used be, [unused0] ran get [unused0] goin. [unused0] never thought would take anywhere.",[unused0],X,X
+78,36,truck speeds past forrest turns road runs onto high school football field. forrest runs across field football scrimmage.,truck speeds past [unused0] turns road runs onto high school football field. [unused0] runs across field football scrimmage.,[unused0],X,X
+79,37,forrest university alabama football uniform. looks cheering crowd teammate fields kickoff. teammate runs forrest hands ball.,[unused0] university alabama football uniform. looks cheering crowd teammate fields kickoff. teammate runs [unused0] hands ball.,[unused0],X,X
+80,37,"forrest cuts runs toward sidelines. two opposing players collide. football coach, assistants players motion forrest run toward end zone.","[unused0] cuts runs toward sidelines. two opposing players collide. football coach, assistants players motion [unused0] run toward end zone.",[unused0],X,X
+81,37,forrest turns sidelines runs toward end zone.,[unused0] turns sidelines runs toward end zone.,[unused0],X,X
+82,41,"earl, whats going","earl, whats going",[unused0],X,X
+83,41,"coons raccoons try get back porch, momma chase em broom.","coons raccoons try get back porch, momma chase em broom.",[unused0],X,X
+84,43,"maam, dropped book. maam.","maam, dropped book. maam.",[unused0],X,X
+85,45,didnt die.,didnt die.,[unused0],X,X
+86,45,nice talkin you.,nice talkin you.,[unused0],X,X
+87,45,"go girls college, girls boys together college","go girls college, girls boys together college",[unused0],loyalty.virtue,together
+88,45,cause jenny went college forrest couldnt go to. college girls.,cause [unused1] went college [unused0] couldnt go to. college girls.,[unused0],X,X
+89,46,"car pulls up. song heard radio. forrest, holding box chocolates, looks car. two people inside car begins kiss embrace other. jenny inside car boy. leans back passenger side door struggle get comfortable.","car pulls up. song heard radio. forrest, holding box chocolates, looks car. two people inside car begins kiss embrace other. [unused1] inside car boy. leans back passenger side door struggle get comfortable.",[unused1],X,X
+90,46,ouch hurts.,ouch hurts.,[unused1],X,X
+91,46,"forrest forrest forrest, stop stop","[unused0] [unused0] [unused0], stop stop",[unused1],X,X
+92,46,hurtin you.,hurtin you.,[unused0],X,X
+93,46,"jennys date, named billy, gets car angrily.","[unused1]s date, named billy, gets car angrily.",[unused1],X,X
+94,46,jenny turns looks billy. shoves jennys hands away him.,[unused1] turns looks billy. shoves [unused1]s hands away him.,[unused1],X,X
+95,46,"billy, im sorry.","billy, im sorry.",[unused1],X,X
+96,46,dont... wait second,dont... wait second,[unused1],X,X
+97,46,"dont go billy, wait second","dont go billy, wait second",[unused1],X,X
+98,46,doesnt know better,doesnt know better,[unused1],X,X
+99,46,"forrest, whyd","[unused0], whyd",[unused1],X,X
+100,46,forrest brought chocolates. im sorry. forrest go back college now.,[unused0] brought chocolates. im sorry. [unused0] go back college now.,[unused0],X,X
+101,46,"forrest, look come on. come on.","[unused0], look come on. come on.",[unused1],X,X
+102,47,jenny unlocks door step inside.,[unused1] unlocks door step inside.,[unused1],X,X
+103,48,"jenny pulls robe sleeping roommates bed. jenny hands robe forrest, sitting jennys bed.","[unused1] pulls robe sleeping roommates bed. [unused1] hands robe [unused0], sitting [unused1]s bed.",[unused1],X,X
+104,48,"ever dream, forrest, youre gonna","ever dream, [unused0], youre gonna",[unused1],X,X
+105,48,arent forrest going,arent [unused0] going,[unused0],X,X
+106,48,"well, youll always you, another kind you. know jenny want famous.","well, youll always you, another kind you. know [unused1] want famous.",[unused1],X,X
+107,48,"jenny picks towel, walks back toward forrest. jenny dries water hair.","[unused1] picks towel, walks back toward forrest. [unused1] dries water hair.",[unused1],X,X
+108,48,"jenny want singer like joan baez. jenny want empty stage guitar, voice... me.","[unused1] want singer like joan baez. [unused1] want empty stage guitar, voice... me.",[unused1],X,X
+109,48,jenny takes slip sits bed next him.,[unused1] takes slip sits bed next him.,[unused1],X,X
+110,48,"jenny want reach people personal level. jenny want able say things, one one.","[unused1] want reach people personal level. [unused1] want able say things, one one.",[unused1],X,X
+111,48,forrest looks jennys breasts. jenny realizes looking her.,forrest looks [unused1]s breasts. [unused1] realizes looking her.,[unused1],X,X
+112,48,"ever girl, forrest","ever girl, [unused0]",[unused1],X,X
+113,48,forrest sit next home economics class time.,[unused0] sit next home economics class time.,[unused0],X,X
+114,48,"forrest looks jenny removes bra. forrest looks away, bit shamed. jenny takes hand guides breast.","forrest looks [unused1] removes bra. forrest looks away, bit shamed. [unused1] takes hand guides breast.",[unused1],authority.virtue,guides
+115,48,ohh... oh... im sorry. sorry.,ohh... oh... im sorry. sorry.,[unused0],X,X
+116,48,forrest breathes heavily. jenny puts bra back on.,forrest breathes heavily. [unused1] puts bra back on.,[unused1],X,X
+117,48,jenny leans puts head forrests shoulder.,[unused1] leans puts head forrests shoulder.,[unused1],X,X
+118,48,"oh, im dizzy.","oh, im dizzy.",[unused0],X,X
+119,48,song coming radio. jenny hugs forrest.,song coming radio. [unused1] hugs forrest.,[unused1],care.virtue,hugs
+120,48,jenny bet never happened home ec.,[unused1] bet never happened home ec.,[unused1],X,X
+121,48,"jenny laughs kisses forrest cheek. forrest jenny hug bed jennys roommate pretends asleep, listening, horrified, eyes open.","[unused1] laughs kisses forrest cheek. forrest [unused1] hug bed [unused1]s roommate pretends asleep, listening, horrified, eyes open.",[unused1],care.virtue,"hugs,hug"
+122,48,forrest think forrest ruined roommates bathrobe.,[unused0] think [unused0] ruined roommates bathrobe.,[unused0],X,X
+123,48,"jenny dont care. jenny dont like her, anyway.","[unused1] dont care. [unused1] dont like her, anyway.",[unused1],X,X
+124,50,forrest gotta pee.,[unused0] gotta pee.,[unused0],X,X
+125,51,years that...,years that...,[unused0],X,X
+126,52,must hard brothers. forrest wouldnt know.,must hard brothers. [unused0] wouldnt know.,[unused0],X,X
+127,53,students caps gowns step forward podium receive diplomas. forrests name called. steps accepts diploma.,students caps gowns step forward podium receive diplomas. [unused0]s name called. steps accepts diploma.,[unused0],X,X
+128,53,dean shakes forrests hand vigorously. forrest looks crowd.,dean shakes [unused0]s hand vigorously. [unused0] looks crowd.,[unused0],authority.virtue,dean
+129,54,...forrest.,...[unused0].,[unused0],X,X
+130,54,"forrest sit first available seat, recruit sitting refuses forrest.","[unused0] sit first available seat, recruit sitting refuses [unused0].",[unused0],authority.vice,refuses
+131,54,"large black recruit strange look face, much like forrests, looks seat. name bubba.","large black recruit strange look face, much like [unused0]s, looks seat. name bubba.",[unused0],X,X
+132,54,"bubba moves case over, making room forrest sit down.","bubba moves case over, making room [unused0] sit down.",[unused0],X,X
+133,54,"no, forrest real big boat.","no, [unused0] real big boat.",[unused0],X,X
+134,54,names forrest. people call forrest.,names [unused0]. people call [unused0].,[unused0],X,X
+135,58,drill sergeant forrests face forrest stands line recruits.,drill sergeant [unused0]s face [unused0] stands line recruits.,[unused0],X,X
+136,58,"whatever tell me, drill sergeant","whatever tell me, drill sergeant",[unused0],X,X
+137,58,"done, drill sergeant","done, drill sergeant",[unused0],X,X
+138,58,"told to, drill sergeant.","told to, drill sergeant.",[unused0],X,X
+139,58,"forrest pick magazine turns page, revealing jenny poses school sweater on, thats all.","forrest pick magazine turns page, revealing [unused1] poses school sweater on, thats all.",[unused1],X,X
+140,58,"turns out, jenny gotten trouble over... photos college sweater. thrown school.","turns out, [unused1] gotten trouble over... photos college sweater. thrown school.",[unused1],X,X
+141,59,"emcee walks back stage curtain opens, revealing jenny sits stool stage. holds guitar begins play. topless.","emcee walks back stage curtain opens, revealing [unused1] sits stool stage. holds guitar begins play. topless.",[unused1],X,X
+142,59,"sings yes, many seas must white dove said, sleeps sand.","sings yes, many seas must white dove said, sleeps sand.",[unused1],X,X
+143,59,"sings yes, many times must cannonballs fly theyre forever banned.","sings yes, many times must cannonballs fly theyre forever banned.",[unused1],X,X
+144,59,"sings answer, friend blowing wind. answer blowing in...","sings answer, friend blowing wind. answer blowing in...",[unused1],X,X
+145,59,"jenny kicks hand. yells angrily sits back down, tosses drink her.","[unused1] kicks hand. yells angrily sits back down, tosses drink her.",[unused1],X,X
+146,59,"hey hey stupid jerk im singing song here. polly, get","hey hey stupid jerk im singing song here. polly, get",[unused1],X,X
+147,59,"shut oh, shut","shut oh, shut",[unused1],X,X
+148,59,"forrest,","[unused0],",[unused1],X,X
+149,59,"forrest, let","[unused0], let",[unused1],X,X
+150,59,jenny struggles frees forrest. forrest steps back surprise. jenny shoves guitar forrest. jenny walks forrest holds guitar. follows her.,[unused1] struggles frees [unused0]. [unused0] steps back surprise. [unused1] shoves guitar [unused0]. [unused1] walks [unused0] holds guitar. follows her.,[unused1],X,X
+151,60,"cant keep this, forrest. cant keep tryin rescue time.","cant keep this, [unused0]. cant keep tryin rescue time.",[unused1],care.virtue,"rescues,rescue"
+152,60,tryin grab you.,tryin grab you.,[unused0],X,X
+153,60,lot people try grab me. cant keep time,lot people try grab me. cant keep time,[unused1],X,X
+154,60,forrest cant help it. forrest love you.,[unused0] cant help it. [unused0] love you.,[unused0],care.virtue,"help,loves,love,helps"
+155,60,"forrest, dont know love is.","[unused0], dont know love is.",[unused1],care.virtue,"loves,love"
+156,60,jenny turns looks bridge.,[unused1] turns looks bridge.,[unused1],X,X
+157,60,"remember time prayed, forrest prayed god turn bird jenny could fly far, far away","remember time prayed, [unused0] prayed god turn bird [unused1] could fly far, far away",[unused1],sanctity.virtue,"gods,prayed,god"
+158,60,"yes, forrest do.","yes, [unused0] do.",[unused0],X,X
+159,60,think jenny fly bridge,think [unused1] fly bridge,[unused1],X,X
+160,60,"mean, jenny","mean, [unused1]",[unused0],X,X
+161,60,jenny turns looks light approaching vehicle.,[unused1] turns looks light approaching vehicle.,[unused1],X,X
+162,60,jenny gotta get outta here.,[unused1] gotta get outta here.,[unused1],X,X
+163,60,wait. jenny,wait. [unused1],[unused0],X,X
+164,60,"forrest, stay away me, okay stay away me, please.","[unused0], stay away me, okay stay away me, please.",[unused1],X,X
+165,60,jenny ride,[unused1] ride,[unused1],X,X
+166,60,jenny dont care.,[unused1] dont care.,[unused1],X,X
+167,60,"bye bye, jenny. sendin vietnam. whole country.","bye bye, [unused1]. sendin vietnam. whole country.",[unused0],X,X
+168,60,hang minute.,hang minute.,[unused1],X,X
+169,60,jenny walks forrest.,[unused1] walks forrest.,[unused1],X,X
+170,60,"listen, promise something, okay youre ever trouble, dont try brave, run, okay run away.","listen, promise something, okay youre ever trouble, dont try brave, run, okay run away.",[unused1],X,X
+171,60,"okay. jenny, forrest write time.","okay. [unused1], [unused0] write time.",[unused0],X,X
+172,60,"jenny takes last look forrest, climbs truck. forrest watches jenny pickup drives away.","[unused1] takes last look forrest, climbs truck. forrest watches [unused1] pickup drives away.",[unused1],X,X
+173,63,must f.n.g.s.,must f.n.g.s.,[unused2],X,X
+174,63,ho get hands down. salute me. goddamned snipers around area would love grease officer. im lieutenant dan taylor. welcome fourth platoon.,ho get hands down. salute me. goddamned snipers around area would love grease officer. im lieutenant dan taylor. welcome fourth platoon.,[unused2],care.virtue,"loves,love"
+175,63,whats wrong lips,whats wrong lips,[unused2],X,X
+176,63,"yeah, well, better tuck in. gonna get caught trip wire. boys world","yeah, well, better tuck in. gonna get caught trip wire. boys world",[unused2],X,X
+177,63,"no, relations, sir.","no, relations, sir.",[unused0],X,X
+178,63,"look, pretty basic here.","look, pretty basic here.",[unused2],X,X
+179,63,"stick me, learn guys country awhile, youll right. one item g.i. gear difference live grunt dead grunt.","stick me, learn guys country awhile, youll right. one item g.i. gear difference live grunt dead grunt.",[unused2],loyalty.virtue,"countries,country"
+180,63,"socks, cushion, sole, o.d. green. try keep feet dry humpin. lt. dan want boys remember change socks wherever stop. mekong eat grunts feet right legs.","socks, cushion, sole, o.d. green. try keep feet dry humpin. [unused2] want boys remember change socks wherever stop. mekong eat grunts feet right legs.",[unused2],fairness.virtue,rights
+181,63,"sergeant sims goddamnit, sling rope lt. dan told order.","sergeant sims goddamnit, sling rope [unused2] told order.",[unused2],X,X
+182,63,"yeah, yeah, yeah, well call sonabitches again, call again. lt. dan dont care much takes...","yeah, yeah, yeah, well call sonabitches again, call again. [unused2] dont care much takes...",[unused2],care.virtue,"cares,care"
+183,67,"goddamnit, kick ass","goddamnit, kick ass",[unused2],X,X
+184,67,"so, boys arkansas, huh well, ive there. little rocks fine town. now, go shake gear, see platoon sergeant, draw need field.","so, boys arkansas, huh well, ive there. little rocks fine town. now, go shake gear, see platoon sergeant, draw need field.",[unused2],X,X
+185,67,"boys hungry, got steaks burnin right here.","boys hungry, got steaks burnin right here.",[unused2],fairness.virtue,rights
+186,67,"two standing orders platoon. one, take good care feet. two, try anything stupid, like gettin killed.","two standing orders platoon. one, take good care feet. two, try anything stupid, like gettin killed.",[unused2],"authority.vice,care.virtue","cares,care,orders"
+187,67,forrest sure hope forrest dont let down.,[unused0] sure hope [unused0] dont let down.,[unused0],X,X
+188,69,"ah, nothin. fourth platoon, feet still got ten clicks go river.","ah, nothin. fourth platoon, feet still got ten clicks go river.",[unused2],X,X
+189,69,"right, move comin out. look alive there.","right, move comin out. look alive there.",[unused2],X,X
+190,70,mount em up.,mount em up.,[unused2],X,X
+191,72,hey bubba...,hey bubba...,[unused0],X,X
+192,72,thats fine idea.,thats fine idea.,[unused0],X,X
+193,72,"narrator even wrote jenny told it. narrator sent letters. every day, almost. narrator told narrator doin asked doing, narrator told narrator thought always.","narrator even wrote [unused1] told it. narrator sent letters. every day, almost. narrator told narrator doin asked doing, narrator told narrator thought always.",[unused1],X,X
+194,75,forrest looks sun suddenly appears. forrests platoon attacked. bullet kills soldier standing next forrest. bombs explode around soldiers scramble ground.,[unused0] looks sun suddenly appears. [unused0]s platoon attacked. bullet kills soldier standing next [unused0]. bombs explode around soldiers scramble ground.,[unused0],care.vice,kills
+195,75,take cover,take cover,[unused2],X,X
+196,75,"get pig here, goddammit","get pig here, goddammit",[unused2],X,X
+197,75,"...strongarm, please advised...","...strongarm, please advised...",[unused2],X,X
+198,75,"strongarm, leg lima","strongarm, leg lima",[unused2],X,X
+199,75,"roger, strongarm, advised incoming treeline point blue plus two. a.ks rockets...","roger, strongarm, advised incoming treeline point blue plus two. a.ks rockets...",[unused2],X,X
+200,75,"goddammit, mac get pig unfucked get treeline","goddammit, mac get pig unfucked get treeline",[unused2],X,X
+201,75,"radio ah, jesus unit hard hurting pulling back blue line, leg lima pull back pull back","radio ah, jesus unit hard hurting pulling back blue line, leg lima pull back pull back",[unused2],"sanctity.virtue,care.vice","hurting,jesus"
+202,75,"run, goddammit, run","run, goddammit, run",[unused2],X,X
+203,75,"narrator ran ran, like jenny told to.","narrator ran ran, like [unused1] told to.",[unused1],X,X
+204,75,rockets explode jungle forrest runs toward clearing.,rockets explode jungle [unused0] runs toward clearing.,[unused0],X,X
+205,75,"forrest reaches picks tex ground. forrest pulls tex shoulder, runs.","[unused0] reaches picks tex ground. [unused0] pulls tex shoulder, runs.",[unused0],X,X
+206,75,"radio roger, strongarm, lt. dan know position danger close got charlie area lt. dan gotta fast movers","radio roger, strongarm, [unused2] know position danger close got charlie area [unused2] gotta fast movers",[unused2],X,X
+207,75,"lieutenant dan, colemans dead","lieutenant dan, colemans dead",[unused0],X,X
+208,75,lt. dan know hes dead whole goddamned platoon wiped,[unused2] know hes dead whole goddamned platoon wiped,[unused2],X,X
+209,75,goddammit leave get away. leave get,goddammit leave get away. leave get,[unused2],X,X
+210,75,"ah, something bit","ah, something bit",[unused0],X,X
+211,75,"dink son bitch lt. dan cant leave platoon lt. dan told leave there, gump. forget me. get hear lt. dan said goddammit, pull get ass","dink son bitch [unused2] cant leave platoon [unused2] told leave there, gump. forget me. get hear [unused2] said goddammit, pull get ass",[unused2],X,X
+212,75,"lt. dan didnt ask pull there, goddamn hell think youre going","[unused2] didnt ask pull there, goddamn hell think youre going",[unused2],sanctity.vice,hell
+213,75,get bubba.,get bubba.,[unused0],X,X
+214,75,lt. dan got air strike inbound right now. theyre gonna nape whole area.,[unused2] got air strike inbound right now. theyre gonna nape whole area.,[unused2],fairness.virtue,rights
+215,75,"gump, stay here, goddammit thats order","gump, stay here, goddammit thats order",[unused2],"authority.virtue,authority.vice","order,orders"
+216,75,forrest gotta find bubba,[unused0] gotta find bubba,[unused0],X,X
+217,75,forrest runs jungle searching bubba. forrest slows looks around carefully.,[unused0] runs jungle searching bubba. [unused0] slows looks around carefully.,[unused0],X,X
+218,75,"oh, bubba, no...","oh, bubba, no...",[unused0],X,X
+219,75,come on. come on. come here...,come on. come on. come here...,[unused0],X,X
+220,75,"helos inbound. pop smoke, get","helos inbound. pop smoke, get",[unused2],X,X
+221,75,"hey, bubba...","hey, bubba...",[unused0],X,X
+222,75,thats forrest say that.,thats [unused0] say that.,[unused0],X,X
+223,75,"oh, yes sir. bit directly buttocks. said million dollar wound, army must keep money, cause forrest still aint seen nickel million dollars. good thing wounded buttocks...","oh, yes sir. bit directly buttocks. said million dollar wound, army must keep money, cause [unused0] still aint seen nickel million dollars. good thing wounded buttocks...",[unused0],care.vice,wounded
+224,76,forrests butt sticks bandaged. forrest looks lt. dan lying bed. forrest holds ice cream cone lt. dan.,[unused0]s butt sticks bandaged. [unused0] looks lt. dan lying bed. [unused0] holds ice cream cone lt. dan.,[unused0],fairness.vice,lying
+225,76,"lieutenant dan, forrest got ice cream. lieutenant dan, ice cream.","lieutenant dan, [unused0] got ice cream. lieutenant dan, ice cream.",[unused0],X,X
+226,76,im forrest.,im [unused0].,[unused0],X,X
+227,77,"now, listen me. destiny. nothing happens, part plan. lt. dan died men now, im nothing goddamned cripple legless freak. look look look see know like able use legs","now, listen me. destiny. nothing happens, part plan. [unused2] died men now, im nothing goddamned cripple legless freak. look look look see know like able use legs",[unused2],X,X
+228,77,"well... yes, sir, forrest do.","well... yes, sir, [unused0] do.",[unused0],X,X
+229,77,"hear lt. dan said cheated me. lt. dan destiny. lt. dan supposed die field honor destiny cheated understand im saying, gump wasnt supposed happen. me. lt. dan destiny. lt. dan lieutenant dan tyler.","hear [unused2] said cheated me. [unused2] destiny. [unused2] supposed die field honor destiny cheated understand im saying, gump wasnt supposed happen. me. [unused2] destiny. [unused2] lieutenant dan tyler.",[unused2],"fairness.vice,care.vice,authority.virtue","die,cheated,honors,honor"
+230,77,yo youre still lieutenant dan.,yo youre still lieutenant dan.,[unused0],X,X
+231,77,look me. lt. dan gonna lt. dan gonna,look me. [unused2] gonna [unused2] gonna,[unused2],X,X
+232,79,"guess what, lieutenant dan, want give me...","guess what, lieutenant dan, want give me...",[unused0],X,X
+233,79,"maam, whatd lieutenant dan","maam, whatd lieutenant dan",[unused0],X,X
+234,80,color footage revealing president johnson places award around forrests neck shakes hands.,color footage revealing president johnson places award around [unused0]s neck shakes hands.,[unused0],authority.virtue,"presidents,president"
+235,80,"buttocks, sir.","buttocks, sir.",[unused0],X,X
+236,80,president johnson leans whispers forrests ear.,president johnson leans whispers [unused0]s ear.,[unused0],authority.virtue,"presidents,president"
+237,82,war vietnam,war vietnam,[unused0],loyalty.virtue,war
+238,82,...there one thing forrest could say war vietnam.,...there one thing [unused0] could say war vietnam.,[unused0],loyalty.virtue,war
+239,82,vietnam war...,vietnam war...,[unused0],X,X
+240,82,"forrests amplified voice becomes inaudible. forrest continues speak microphone, even though one hear saying. hilary looks notices policeman. hilary rushes toward audio board, pushes policeman away grabs night stick. another protester grabs policeman pulls away.","[unused0]s amplified voice becomes inaudible. [unused0] continues speak microphone, even though one hear saying. hilary looks notices policeman. hilary rushes toward audio board, pushes policeman away grabs night stick. another protester grabs policeman pulls away.",[unused0],X,X
+241,82,...and thats forrest say that.,...and thats [unused0] say that.,[unused0],X,X
+242,82,forrest looks massive crowd. silent. abbie hoffman steps forrest pats shoulder.,[unused0] looks massive crowd. silent. abbie hoffman steps [unused0] pats shoulder.,[unused0],X,X
+243,82,name forrest. forrest gump.,name [unused0]. [unused0] gump.,[unused0],X,X
+244,82,screaming forrest forrest,screaming [unused0] [unused0],[unused1],X,X
+245,82,jenny wades reflection pool waves hand air. forrest recognizes her.,[unused1] wades reflection pool waves hand air. forrest recognizes her.,[unused1],X,X
+246,82,forrest rushes stage jenny makes way pool.,forrest rushes stage [unused1] makes way pool.,[unused1],X,X
+247,82,forrest jumps crowd runs. jenny smiles tries run water. crowd parts forrest runs pool. jenny rushes toward him.,[unused0] jumps crowd runs. [unused1] smiles tries run water. crowd parts [unused0] runs pool. [unused1] rushes toward him.,[unused1],X,X
+248,83,"jenny peas carrots again. showed around, even introduced me...","[unused1] peas carrots again. showed around, even introduced me...",[unused1],X,X
+249,84,another black panther named masanarrator grabs forrest pats down.,another black panther named masanarrator grabs [unused0] pats down.,[unused0],X,X
+250,84,"hey man, hes cool. hes cool. hes one us. hes one us.","hey man, hes cool. hes cool. hes one us. hes one us.",[unused1],X,X
+251,84,jenny ran friend.,[unused1] ran friend.,[unused1],X,X
+252,84,"good friend jenny told about. forrest. forrest, wesley. wesley jenny live together berkeley, hes president berkeley chapter s.d.s.","good friend [unused1] told about. [unused0]. [unused0], wesley. wesley [unused1] live together berkeley, hes president berkeley chapter s.d.s.",[unused1],"authority.virtue,loyalty.virtue","together,president,presidents"
+253,84,"okay, but...","okay, but...",[unused1],X,X
+254,84,fucking asshole,fucking asshole,[unused1],sanctity.vice,fucking
+255,84,wesley hits jenny across face. slow motion jenny falls back. slow motion forrest steps forward rage.,wesley hits [unused1] across face. slow motion [unused1] falls back. slow motion forrest steps forward rage.,[unused1],X,X
+256,84,slow motion wesley turns looks forrest. forrest tackles wesley slams onto table. jenny turns looks masai pulls gun.,slow motion wesley turns looks forrest. forrest tackles wesley slams onto table. [unused1] turns looks masai pulls gun.,[unused1],X,X
+257,84,forrest quit quit forrest stop,[unused0] quit quit [unused0] stop,[unused1],X,X
+258,84,jenny rushes forrest pulls forrest wesley.,[unused1] rushes [unused0] pulls [unused0] wesley.,[unused1],X,X
+259,84,"jenny tries help wesley moans floor. wesley knocks jennys hand away. gets up, holding bloody lip.","[unused1] tries help wesley moans floor. wesley knocks [unused1]s hand away. gets up, holding bloody lip.",[unused1],"sanctity.virtue,care.virtue","help,bloody,helps"
+260,84,"hitting you, jenny.","hitting you, [unused1].",[unused0],X,X
+261,84,"come on, forrest.","come on, [unused0].",[unused1],X,X
+262,84,jenny steps door forrest picks hat.,jenny steps door [unused0] picks hat.,[unused0],X,X
+263,84,sorry forrest fight middle black panther party.,sorry [unused0] fight middle black panther party.,[unused0],care.vice,"fight,fights"
+264,85,doesnt mean things like this. doesnt.,doesnt mean things like this. doesnt.,[unused1],X,X
+265,85,"forrest would never hurt you, jenny.","[unused0] would never hurt you, [unused1].",[unused0],care.vice,"hurts,hurt"
+266,85,"jenny know wouldnt, forrest.","[unused1] know wouldnt, [unused0].",[unused1],X,X
+267,85,forrest wanted boyfriend.,[unused0] wanted boyfriend.,[unused0],X,X
+268,85,walk silence. jenny touches forrests uniform.,walk silence. jenny touches [unused0]s uniform.,[unused0],X,X
+269,85,"uniform trip, forrest. look handsome it. do.","uniform trip, [unused0]. look handsome it. do.",[unused1],X,X
+270,85,im glad together national capitol.,im glad together national capitol.,[unused0],loyalty.virtue,together
+271,85,"too, forrest. jenny much tell you, wont believe whats going on...","too, [unused0]. [unused1] much tell you, wont believe whats going on...",[unused1],X,X
+272,88,star name jean harlow sidewalk. jenny two girls sing sidewalk collect change passersby. jenny plays guitar.,star name jean harlow sidewalk. [unused1] two girls sing sidewalk collect change passersby. [unused1] plays guitar.,[unused1],X,X
+273,88,"sings smile brother, everybody get together, try love another right","sings smile brother, everybody get together, try love another right",[unused1],"fairness.virtue,care.virtue","rights,loves,love"
+274,88,jenny go.,[unused1] go.,[unused1],X,X
+275,89,forrest jenny walk park.,forrest [unused1] walk park.,[unused1],X,X
+276,90,jenny carries backpack prepares board bus back berkeley.,[unused1] carries backpack prepares board bus back berkeley.,[unused1],X,X
+277,90,"forrest wish wouldnt go, jenny.","[unused0] wish wouldnt go, [unused1].",[unused0],X,X
+278,90,"jenny to, forrest.","[unused1] to, [unused0].",[unused1],X,X
+279,90,know forrest think forrest think go home greenbow. alabama,know [unused0] think [unused0] think go home greenbow. alabama,[unused0],X,X
+280,90,"forrest, different lives, know.","[unused0], different lives, know.",[unused1],X,X
+281,90,forrest looks jenny. pulls medal honor around neck.,forrest looks [unused1]. pulls medal honor around neck.,[unused1],authority.virtue,"honors,honor"
+282,90,forrest want this.,[unused0] want this.,[unused0],X,X
+283,90,forrest places medal honor jennys hand. jenny looks him.,forrest places medal honor [unused1]s hand. [unused1] looks him.,[unused1],authority.virtue,"honors,honor"
+284,90,"forrest, jenny cant keep this.","[unused0], [unused1] cant keep this.",[unused1],X,X
+285,90,forrest got told do.,[unused0] got told do.,[unused0],X,X
+286,90,whyre good,whyre good,[unused1],X,X
+287,90,youre girl.,youre girl.,[unused0],X,X
+288,90,jenny always girl.,[unused1] always girl.,[unused1],X,X
+289,90,jenny turns walks wesley. walk toward entrance bus. forrest smiles jenny looks her.,[unused1] turns walks wesley. walk toward entrance bus. forrest smiles [unused1] looks her.,[unused1],X,X
+290,90,jenny climbs bus. wesley glares forrest.,[unused1] climbs bus. wesley glares forrest.,[unused1],X,X
+291,90,"forrest gives wesley evil eye. jenny near window bus, knocks window. forrest turns looks. jenny waves forrest. forrest looks smiles sadly. jenny gives forrest peace sign bus pulls away. sign back bus reads berkeley d.c. forrest gives jenny peace sign.","[unused0] gives wesley evil eye. [unused1] near window bus, knocks window. [unused0] turns looks. [unused1] waves [unused0]. [unused0] looks smiles sadly. [unused1] gives [unused0] peace sign bus pulls away. sign back bus reads berkeley d.c. [unused0] gives [unused1] peace sign.",[unused1],X,X
+292,91,...ping pong. forrest good years later...,...ping pong. [unused0] good years later...,[unused0],X,X
+293,92,...forrest national celebrity. famouser even captain kangaroo.,...[unused0] national celebrity. famouser even captain kangaroo.,[unused0],authority.virtue,"captain,captains"
+294,92,"well, land china, people hardly got nothing all.","well, land china, people hardly got nothing all.",[unused0],X,X
+295,92,"china, never go church.","china, never go church.",[unused0],X,X
+296,93,gave congressional medal honor.,gave congressional medal honor.,[unused2],X,X
+297,93,thats lieutenant dan. lieutenant dan,thats lieutenant dan. lieutenant dan,[unused0],X,X
+298,93,gave congressional medal honor,gave congressional medal honor,[unused2],authority.virtue,"honors,honor"
+299,93,"yes sir, sure did.","yes sir, sure did.",[unused0],X,X
+300,93,"gave imbecile, moron goes television makes fool front whole damn country, congressional medal honor.","gave imbecile, moron goes television makes fool front whole damn country, congressional medal honor.",[unused2],sanctity.vice,"damn,damns"
+301,93,"well, then, thats perfect yeah, well lt. dan got one thing say that. goddamn bless america.","well, then, thats perfect yeah, well [unused2] got one thing say that. goddamn bless america.",[unused2],sanctity.virtue,bless
+302,93,lieutenant dan,lieutenant dan,[unused0],X,X
+303,94,"take right, take right.","take right, take right.",[unused2],X,X
+304,94,taxi driver honks horn forrest wheels lt. dan front taxi.,taxi driver honks horn [unused0] wheels lt. dan front taxi.,[unused0],X,X
+305,94,"new york, lieutenant dan","new york, lieutenant dan",[unused0],X,X
+306,94,im living government tit. sucking dry.,im living government tit. sucking dry.,[unused2],X,X
+307,94,"hey hey hey blind im walking ah, get out...","hey hey hey blind im walking ah, get out...",[unused2],X,X
+308,94,"come on, go go go","come on, go go go",[unused2],X,X
+309,95,"found jesus yet, gump","found jesus yet, gump",[unused2],sanctity.virtue,jesus
+310,95,"forrest didnt know forrest supposed looking him, sir.","[unused0] didnt know [unused0] supposed looking him, sir.",[unused0],X,X
+311,95,"thats cripples, about.","thats cripples, about.",[unused2],X,X
+312,95,"jesus jesus that. lt. dan found jesus even priest come talk me. said god listening, lt. dan help myself. now, lt. dan accept jesus heart, lt. dan get walk beside kingdom heaven.","jesus jesus that. [unused2] found jesus even priest come talk me. said god listening, [unused2] help myself. now, [unused2] accept jesus heart, [unused2] get walk beside kingdom heaven.",[unused2],"sanctity.virtue,care.virtue","help,god,priest,helps,priests,jesus,gods"
+313,95,"hear lt. dan said walk beside kingdom heaven. well, kiss crippled ass. god listening. crock shit.","hear [unused2] said walk beside kingdom heaven. well, kiss crippled ass. god listening. crock shit.",[unused2],sanctity.virtue,"gods,god"
+314,95,"im going heaven, lieutenant dan.","im going heaven, lieutenant dan.",[unused0],X,X
+315,95,"huh ah, well, go, dont get ass corner get us another bottle wine.","huh ah, well, go, dont get ass corner get us another bottle wine.",[unused2],X,X
+316,96,hells bayou la batre,hells bayou la batre,[unused2],X,X
+317,96,shrimpin boats.,shrimpin boats.,[unused0],X,X
+318,96,shrimpin boats gives shit shrimpin boats,shrimpin boats gives shit shrimpin boats,[unused2],sanctity.vice,"shit,shits"
+319,96,"forrest gotta buy one shrimpin boats soon forrest money. forrest made promise bubba vietnam, soon war over, wed go partners. hed captain shrimpin boat id first mate. hes dead, means forrest gotta captain.","[unused0] gotta buy one shrimpin boats soon [unused0] money. [unused0] made promise bubba vietnam, soon war over, wed go partners. hed captain shrimpin boat id first mate. hes dead, means [unused0] gotta captain.",[unused0],"authority.virtue,loyalty.virtue","captain,captains,war"
+320,96,shrimp boat captain.,shrimp boat captain.,[unused2],X,X
+321,96,"yes, sir. promise promise, lieutenant dan.","yes, sir. promise promise, lieutenant dan.",[unused0],X,X
+322,96,"hear private gump gonna shrimp boat captain. well, lt. dan tell what, gilligan, day shrimp boat captain, lt. dan come first mate.","hear private gump gonna shrimp boat captain. well, [unused2] tell what, gilligan, day shrimp boat captain, [unused2] come first mate.",[unused2],X,X
+323,96,"youre ever shrimp boat captain, thats day im astronaut.","youre ever shrimp boat captain, thats day im astronaut.",[unused2],X,X
+324,96,"name forrest, forrest.","name [unused0], [unused0].",[unused0],X,X
+325,96,"cunning carla, long limbs lenore.","cunning carla, long limbs lenore.",[unused2],X,X
+326,96,"well, well, lt. dan had, uh, company.","well, well, [unused2] had, uh, company.",[unused2],X,X
+327,96,lenore leans speaks forrests ear.,lenore leans speaks [unused0]s ear.,[unused0],X,X
+328,97,jenny fills bag belongings.,[unused1] fills bag belongings.,[unused1],X,X
+329,98,"happy new year, lieutenant dan","happy new year, lieutenant dan",[unused0],X,X
+330,99,"carla removes top sits top dan wheelchair. kiss play around. forrest sits chair. lenore leaps begins kiss forrest. reaches forrests crotch. forrest stands nervously, causing lenore fall floor. lenore stands up, angry.","carla removes top sits top dan wheelchair. kiss play around. [unused0] sits chair. lenore leaps begins kiss [unused0]. reaches [unused0]s crotch. [unused0] stands nervously, causing lenore fall floor. lenore stands up, angry.",[unused0],X,X
+331,99,hey dont call stupid,hey dont call stupid,[unused2],X,X
+332,99,shut dont ever call stupid,shut dont ever call stupid,[unused2],X,X
+333,99,get hell go,get hell go,[unused2],sanctity.vice,hell
+334,99,go get get,go get get,[unused2],X,X
+335,99,"im sorry forrest ruined new years eve party, lieutenant dan. tastes like cigarettes.","im sorry [unused0] ruined new years eve party, lieutenant dan. tastes like cigarettes.",[unused0],X,X
+336,99,happy new year.,happy new year.,[unused2],X,X
+337,100,...a months later invited ping pong team visit white house. forrest went again. forrest met president united states again.,...a months later invited ping pong team visit white house. [unused0] went again. [unused0] met president united states again.,[unused0],"authority.virtue,loyalty.virtue","presidents,president,united"
+338,101,called hotel ebbott.,called hotel ebbott.,[unused0],X,X
+339,102,"yeah, sir, might want send maintenance man office across way. lights off, must looking fuse box something, cause flashlights theyre, theyre keeping awake.","yeah, sir, might want send maintenance man office across way. lights off, must looking fuse box something, cause flashlights theyre, theyre keeping awake.",[unused0],X,X
+340,102,thank you.,thank you.,[unused0],X,X
+341,102,good night.,good night.,[unused0],X,X
+342,103,forrest playing ping pong gymnasium. officer steps him.,[unused0] playing ping pong gymnasium. officer steps him.,[unused0],X,X
+343,103,mean forrest cant play ping pong,mean [unused0] cant play ping pong,[unused0],X,X
+344,104,"im home, momma.","im home, momma.",[unused0],X,X
+345,105,"oh, momma. forrest like using paddle. hi, miss louise.","oh, momma. [unused0] like using paddle. hi, miss louise.",[unused0],X,X
+346,106,"stupid stupid does, mrs. blue.","stupid stupid does, mrs. blue.",[unused0],X,X
+347,107,"hey, bubba, me, forrest. forrest remember everything said, forrest got figured out.","hey, bubba, me, [unused0]. [unused0] remember everything said, [unused0] got figured out.",[unused0],X,X
+348,107,"im taking twenty four thousand, five hundred six two dollars forty seven cents forrest got...","im taking twenty four thousand, five hundred six two dollars forty seven cents [unused0] got...",[unused0],X,X
+349,108,"stupid stupid does, sir.","stupid stupid does, sir.",[unused0],X,X
+350,109,"well, thats whats left saying, forrest china america ping pong team, forrest loved playing ping pong flex ping pong paddle. everybody knows isnt true, momma says little white lie wouldnt hurt nobody. so, anyway, im putting gas, ropes new nets brand new shrimpin boat.","well, thats whats left saying, [unused0] china america ping pong team, [unused0] loved playing ping pong flex ping pong paddle. everybody knows isnt true, momma says little white lie wouldnt hurt nobody. so, anyway, im putting gas, ropes new nets brand new shrimpin boat.",[unused0],"care.vice,care.virtue","hurts,loved,hurt"
+351,110,forrest unleashes nets catch day drops deck. bunch garbage shells. forrest picks one shrimp.,[unused0] unleashes nets catch day drops deck. bunch garbage shells. [unused0] picks one shrimp.,[unused0],sanctity.vice,garbage
+352,111,forrest caught five.,[unused0] caught five.,[unused0],X,X
+353,114,drug paraphernalia large wad cash spread table. man drops syringe table. reaches touches jenny. pale dark lines eyes.,drug paraphernalia large wad cash spread table. man drops syringe table. reaches touches [unused1]. pale dark lines eyes.,[unused1],sanctity.vice,"drugs,drug"
+354,115,jenny smears lines cocaine mirror. looks mirror.,[unused1] smears lines cocaine mirror. looks mirror.,[unused1],X,X
+355,116,jenny steps onto high rise balcony. steps table stands edge balcony. busy street lies many stories below. jenny looks intersection below.,[unused1] steps onto high rise balcony. steps table stands edge balcony. busy street lies many stories below. [unused1] looks intersection below.,[unused1],X,X
+356,116,jenny grabs hold ledge carefully climbs down.,[unused1] grabs hold ledge carefully climbs down.,[unused1],X,X
+357,118,"lieutenant dan,","lieutenant dan,",[unused0],X,X
+358,118,"well, lt. dan thought id try sea legs.","well, [unused2] thought id try sea legs.",[unused2],X,X
+359,118,"well, aint got legs, lieutenant dan.","well, aint got legs, lieutenant dan.",[unused0],X,X
+360,118,"well, well, captain forrest. lt. dan see myself. lt. dan told ever shrimp boat captain, id first mate. well, lt. dan am. lt. dan man word.","well, well, captain [unused0]. [unused2] see myself. [unused2] told ever shrimp boat captain, id first mate. well, [unused2] am. [unused2] man word.",[unused2],authority.virtue,"captain,captains"
+361,118,"yeah, dont thinking im gonna calling sir.","yeah, dont thinking im gonna calling sir.",[unused2],X,X
+362,118,"forrests boat glides, crushing dock. forrest lt. dan look it.","[unused0]s boat glides, crushing dock. [unused0] lt. dan look it.",[unused0],X,X
+363,118,thats boat.,thats boat.,[unused0],X,X
+364,119,forrests shrimping boat alone gulf waters.,[unused0]s shrimping boat alone gulf waters.,[unused0],X,X
+365,119,"lt. dan feeling head east, well find shrimp. so, take left. take left.","[unused2] feeling head east, well find shrimp. so, take left. take left.",[unused2],X,X
+366,119,"theyre get, get wheel take left","theyre get, get wheel take left",[unused2],X,X
+367,119,"gump, take left left thats gonna find shrimp, boy thats well find em.","gump, take left left thats gonna find shrimp, boy thats well find em.",[unused2],X,X
+368,119,"still shrimp, lieutenant dan.","still shrimp, lieutenant dan.",[unused0],X,X
+369,119,"okay, lt. dan wrong.","okay, [unused2] wrong.",[unused2],X,X
+370,119,"well, gonna find","well, gonna find",[unused0],X,X
+371,119,"well, maybe pray shrimp.","well, maybe pray shrimp.",[unused2],sanctity.virtue,pray
+372,122,youll never sink boat,youll never sink boat,[unused2],X,X
+373,122,come call storm,come call storm,[unused2],X,X
+374,122,"blow, son bitch blow time showdown me. im right here. come get youll never sink boat","blow, son bitch blow time showdown me. im right here. come get youll never sink boat",[unused2],fairness.virtue,rights
+375,125,forrests boat comes river.,[unused0]s boat comes river.,[unused0],X,X
+376,125,forrests boat day,[unused0]s boat day,[unused0],X,X
+377,126,"...and boat left standing bubba gump shrimps got. got whole bunch boats. twelve jennys, big ol warehouse, even hats says bubba gump em. bubba gump shrimp. household name.","...and boat left standing bubba gump shrimps got. got whole bunch boats. twelve [unused1]s, big ol warehouse, even hats says bubba gump em. bubba gump shrimp. household name.",[unused0],X,X
+378,126,"yes, sir. weve got money davy crocket.","yes, sir. weve got money davy crocket.",[unused0],X,X
+379,126,would like see lieutenant dan looks like,would like see lieutenant dan looks like,[unused0],X,X
+380,126,forrest shows cover fortune magazine forrest lt. dan cover.,[unused0] shows cover fortune magazine [unused0] lt. dan cover.,[unused0],X,X
+381,126,thats right there.,thats right there.,[unused0],fairness.virtue,rights
+382,126,let tell something lieutenant dan.,let tell something lieutenant dan.,[unused0],X,X
+383,127,"forrest, lt. dan never thanked saving life.","[unused0], [unused2] never thanked saving life.",[unused2],X,X
+384,128,"jenny one, go margo.","[unused1] one, go margo.",[unused2],X,X
+385,128,"yeah, well youll tell call back. indisposed moment.","yeah, well youll tell call back. indisposed moment.",[unused2],X,X
+386,129,forrest carries suitcase runs road. forrest runs past row mailboxes turns drive.,[unused0] carries suitcase runs road. [unused0] runs past row mailboxes turns drive.,[unused0],X,X
+387,129,wheres momma,wheres momma,[unused0],X,X
+388,130,"whats matter, momma","whats matter, momma",[unused0],X,X
+389,130,"dyin, momma","dyin, momma",[unused0],X,X
+390,130,"good, momma.","good, momma.",[unused0],X,X
+391,130,"whats destiny, momma","whats destiny, momma",[unused0],X,X
+392,131,thats forrest say that.,thats [unused0] say that.,[unused0],X,X
+393,131,didnt say waiting number seven bus,didnt say waiting number seven bus,[unused0],X,X
+394,131,"now, forrest football star, war hero, national celebrity, shrimpin boat captain, college graduate, city fathers greenbow, alabama, decided get together offered fine job.","now, [unused0] football star, war hero, national celebrity, shrimpin boat captain, college graduate, city fathers greenbow, alabama, decided get together offered fine job.",[unused0],"authority.virtue,loyalty.virtue","together,fathers,war"
+395,134,"forrest said, thats good. one less thing.","[unused0] said, thats good. one less thing.",[unused0],X,X
+396,139,know what...,know what...,[unused0],X,X
+397,143,"hello, forrest.","hello, [unused0].",[unused1],X,X
+398,143,"hello, jenny.","hello, [unused1].",[unused0],X,X
+399,143,jenny came back stayed me.,[unused1] came back stayed me.,[unused1],X,X
+400,144,jenny lies asleep bed.,[unused1] lies asleep bed.,[unused1],X,X
+401,145,...big ol gobs rain little bitty stinging rain rain...,...big ol gobs rain little bitty stinging rain rain...,[unused0],X,X
+402,145,jenny suddenly heaves rock angrily house. throws things house.,[unused1] suddenly heaves rock angrily house. throws things house.,[unused1],X,X
+403,145,breaks window. jenny collapses ground sobs.,breaks window. [unused1] collapses ground sobs.,[unused1],X,X
+404,148,"okay, open eyes.","okay, open eyes.",[unused1],X,X
+405,148,new shoes.,new shoes.,[unused0],X,X
+406,148,make running.,make running.,[unused1],X,X
+407,149,"windows, forrest jenny dancing rains outside.","windows, forrest [unused1] dancing rains outside.",[unused1],X,X
+408,150,jenny places arms around forrest.,[unused1] places arms around forrest.,[unused1],X,X
+409,151,forrest jenny watching th july celebration,forrest [unused1] watching th july celebration,[unused1],X,X
+410,151,done watching,done watching,[unused1],X,X
+411,151,jenny stands kisses forrest cheek.,[unused1] stands kisses [unused0] cheek.,[unused1],X,X
+412,151,im going bed.,im going bed.,[unused1],X,X
+413,151,jenny turns tv walks outside. forrest stands puts dr. pepper. jenny walks toward stairs.,[unused1] turns tv walks outside. forrest stands puts dr. pepper. [unused1] walks toward stairs.,[unused1],X,X
+414,151,"marry id make good husband, jenny.","marry id make good husband, [unused1].",[unused0],sanctity.virtue,marry
+415,151,"would, forrest.","would, [unused0].",[unused1],X,X
+416,151,wont marry me.,wont marry me.,[unused0],sanctity.virtue,marry
+417,151,dont want marry me.,dont want marry me.,[unused1],sanctity.virtue,marry
+418,151,"dont love me, jenny im smart man, forrest know love is.","dont love me, [unused1] im smart man, [unused0] know love is.",[unused0],care.virtue,"loves,love"
+419,151,forrest turns walks toward door. jenny turns walks stairs. forrest stands outside.,forrest turns walks toward door. [unused1] turns walks stairs. forrest stands outside.,[unused1],X,X
+420,153,"forrest, jenny love you.","[unused0], [unused1] love you.",[unused1],care.virtue,"loves,love"
+421,153,jenny forrest kiss. jenny takes nightgown make love.,[unused1] forrest kiss. [unused1] takes nightgown make love.,[unused1],X,X
+422,154,jenny carries purse walks toward waiting cab.,[unused1] carries purse walks toward waiting cab.,[unused1],X,X
+423,154,im running.,im running.,[unused1],X,X
+424,155,cab drives away forrest asleep bed. congressional medal lies table ping pong paddle.,cab drives away [unused0] asleep bed. congressional medal lies table ping pong paddle.,[unused0],X,X
+425,155,forrest holds glass milk wears bathrobe. looks medal give jenny. jennys bed made. forrest stands doorway looking room bed jenny been.,forrest holds glass milk wears bathrobe. looks medal give [unused1]. [unused1]s bed made. forrest stands doorway looking room bed [unused1] been.,[unused1],X,X
+426,159,"particular reason, forrest kept going. forrest ran clear ocean.","particular reason, [unused0] kept going. [unused0] ran clear ocean.",[unused0],X,X
+427,162,"forrest go, know, forrest went.","[unused0] go, know, [unused0] went.",[unused0],X,X
+428,163,forrest running along highway. forrest runs road field wheat. mountain river. forrest runs across cobble stone bridge. rocky mountains behind distance. forrest runs meadowland.,[unused0] running along highway. [unused0] runs road field wheat. mountain river. [unused0] runs across cobble stone bridge. rocky mountains behind distance. [unused0] runs meadowland.,[unused0],X,X
+429,165,jenny fills customers coffee cups.,[unused1] fills customers coffee cups.,[unused1],X,X
+430,165,jenny damned. forrest...,[unused1] damned. [unused0]...,[unused1],X,X
+431,166,forrest felt like running.,[unused0] felt like running.,[unused0],X,X
+432,167,forrest left like running.,[unused0] left like running.,[unused0],X,X
+433,169,"now, reason forrest seemed make sense people.","now, reason [unused0] seemed make sense people.",[unused0],X,X
+434,170,forrest runs slope high mountain road. group people jogging behind him.,[unused0] runs slope high mountain road. group people jogging behind him.,[unused0],loyalty.virtue,"groups,group"
+435,171,"...it gave people hope. now... now, forrest dont know anything that, but...","...it gave people hope. now... now, [unused0] dont know anything that, but...",[unused0],X,X
+436,171,sometimes.,sometimes.,[unused0],X,X
+437,172,truck splashes mud onto forrest goes by. man hands forrest yellow shirt use rag wipe mud off.,truck splashes mud onto [unused0] goes by. man hands [unused0] yellow shirt use rag wipe mud off.,[unused0],sanctity.vice,mud
+438,173,im pretty tired. forrest think forrest go home now.,im pretty tired. [unused0] think [unused0] go home now.,[unused0],X,X
+439,173,forrest walks toward group. group parts forrest walks middle road.,[unused0] walks toward group. group parts [unused0] walks middle road.,[unused0],loyalty.virtue,"groups,group"
+440,174,"oh, thank you, miss, miss louise.","oh, thank you, miss, miss louise.",[unused0],X,X
+441,175,"...wondering forrest could come savannah see her, thats im here. saw tv, running, im supposed go number nine bus richmond street get go one block left henry street, apartment","...wondering [unused0] could come savannah see her, thats im here. saw tv, running, im supposed go number nine bus richmond street get go one block left henry street, apartment",[unused0],X,X
+442,175,nice talking you.,nice talking you.,[unused0],X,X
+443,175,"forrest runs, elderly woman shouts bus stop bench. truck honks horn forrest runs across street past truck.","[unused0] runs, elderly woman shouts bus stop bench. truck honks horn [unused0] runs across street past truck.",[unused0],authority.virtue,elderly
+444,176,jenny opens door.,[unused1] opens door.,[unused1],X,X
+445,176,hey forrest,hey [unused0],[unused1],X,X
+446,176,come in. come in.,come in. come in.,[unused1],X,X
+447,176,forrest got letter.,[unused0] got letter.,[unused0],X,X
+448,176,"oh, jenny wondering that.","oh, [unused1] wondering that.",[unused1],X,X
+449,176,jenny shuts door. forrest looks around.,[unused1] shuts door. forrest looks around.,[unused1],X,X
+450,176,"yeah, messy right now. jenny got work.","yeah, messy right now. [unused1] got work.",[unused1],fairness.virtue,rights
+451,176,nice. got air conditioning.,nice. got air conditioning.,[unused0],X,X
+452,176,thank you.,thank you.,[unused1],X,X
+453,176,forrest ate some.,[unused0] ate some.,[unused0],X,X
+454,176,jenny picks scrapbook turns pages.,[unused1] picks scrapbook turns pages.,[unused1],X,X
+455,176,"hey, jenny kept, jenny kept scrapbook your, clippings everything. are. this, jenny got running.","hey, [unused1] kept, [unused1] kept scrapbook your, clippings everything. are. this, [unused1] got running.",[unused1],X,X
+456,176,forrest ran long way. long time.,[unused0] ran long way. long time.,[unused0],X,X
+457,176,"there. listen, forrest. jenny dont know say this. um, jenny just... jenny want apologize anything jenny ever you, cause jenny messed long time, and...","there. listen, [unused0]. [unused1] dont know say this. um, [unused1] just... [unused1] want apologize anything [unused1] ever you, cause [unused1] messed long time, and...",[unused1],X,X
+458,176,jenny grabs young boy.,[unused1] grabs young boy.,[unused1],X,X
+459,176,"hey, you. old friend alabama.","hey, you. old friend alabama.",[unused1],X,X
+460,176,"ah, listen, next week schedule changes, jenny able to... thanks picking up.","ah, listen, next week schedule changes, [unused1] able to... thanks picking up.",[unused1],X,X
+461,176,"thanks. good friend, mr. gump. say hi","thanks. good friend, mr. gump. say hi",[unused1],X,X
+462,176,"yes, can. keep low.","yes, can. keep low.",[unused1],X,X
+463,176,"youre momma, jenny.","youre momma, [unused1].",[unused0],X,X
+464,176,im momma. name forrest.,im momma. name [unused0].,[unused1],X,X
+465,176,jenny named daddy.,[unused1] named daddy.,[unused1],X,X
+466,176,"got daddy named forrest,","got daddy named [unused0],",[unused0],X,X
+467,176,"youre daddy, forrest.","youre daddy, [unused0].",[unused1],X,X
+468,176,"hey, forrest, look me. look me, forrest. theres nothing need do, okay didnt anything wrong. okay","hey, [unused0], look me. look me, [unused0]. theres nothing need do, okay didnt anything wrong. okay",[unused1],X,X
+469,176,jenny turns looks forrest jr. room.,[unused1] turns looks forrest jr. room.,[unused1],X,X
+470,176,isnt beautiful,isnt beautiful,[unused1],X,X
+471,176,"hes beautiful thing ive ever seen. but... is, smart, he...","hes beautiful thing ive ever seen. but... is, smart, he...",[unused0],X,X
+472,176,hes smart. hes one smartest class.,hes smart. hes one smartest class.,[unused1],X,X
+473,176,"yeah, okay. go talk him.","yeah, okay. go talk him.",[unused1],X,X
+474,177,"forrest, im sick.","[unused0], im sick.",[unused1],X,X
+475,177,"what, cough due cold","what, cough due cold",[unused0],fairness.virtue,dues
+476,177,"jenny kind virus. doctors dont, dont know is. isnt anything it.","[unused1] kind virus. doctors dont, dont know is. isnt anything it.",[unused1],X,X
+477,177,"could come home me. jenny, little forrest could come stay house greenbow. forrest take care youre sick.","could come home me. [unused1], little [unused0] could come stay house greenbow. [unused0] take care youre sick.",[unused0],care.virtue,"cares,care"
+478,177,"would marry me, forrest","would marry me, [unused0]",[unused1],sanctity.virtue,marry
+479,178,jenny walks house. forrest walks greet her. wears white dress. walks forrest adjusts necktie.,[unused1] walks house. [unused0] walks greet her. wears white dress. walks [unused0] adjusts necktie.,[unused0],X,X
+480,178,lieutenant dan lieutenant dan,lieutenant dan lieutenant dan,[unused0],X,X
+481,178,"hello, forrest.","hello, [unused0].",[unused2],X,X
+482,178,jenny walks forrest lt. dan.,[unused1] walks [unused0] lt. dan.,[unused1],X,X
+483,178,got new legs. new legs,got new legs. new legs,[unused0],X,X
+484,178,"yeah, lt. dan got new legs.","yeah, [unused2] got new legs.",[unused2],X,X
+485,178,custom made titanium alloy. use space shuttle.,custom made titanium alloy. use space shuttle.,[unused2],X,X
+486,178,magic legs.,magic legs.,[unused0],X,X
+487,178,"fiancee, susan.","fiancee, susan.",[unused2],X,X
+488,178,lieutenant dan,lieutenant dan,[unused0],X,X
+489,178,"lieutenant dan, jenny.","lieutenant dan, [unused1].",[unused0],X,X
+490,178,"hey, nice meet you, finally.","hey, nice meet you, finally.",[unused1],X,X
+491,179,forrest steps jennys bedroom. carries tray breakfast it. forrest looks jenny sleeps.,forrest steps [unused1]s bedroom. carries tray breakfast it. forrest looks [unused1] sleeps.,[unused1],X,X
+492,179,"forrest sets tray next jenny sits bed. forrest opens window, sits next bed.","forrest sets tray next [unused1] sits bed. forrest opens window, sits next bed.",[unused1],X,X
+493,179,"hey, forrest, scared vietnam","hey, [unused0], scared vietnam",[unused1],X,X
+494,179,"yes. well, i, forrest dont know.","yes. well, i, [unused0] dont know.",[unused0],X,X
+495,182,"clear, jenny. looks like two skies, one top other. desert, sun comes up...","clear, [unused1]. looks like two skies, one top other. desert, sun comes up...",[unused1],X,X
+496,184,forrest looks jenny. jenny looks window.,forrest looks [unused1]. [unused1] looks window.,[unused1],X,X
+497,184,jenny wish jenny could you.,[unused1] wish [unused1] could you.,[unused1],X,X
+498,184,jenny reaches takes forrests hand.,[unused1] reaches takes forrests hand.,[unused1],X,X
+499,184,jenny love you.,[unused1] love you.,[unused1],care.virtue,"loves,love"
+500,185,forrest stands old oak tree jenny buried.,forrest stands old oak tree [unused1] buried.,[unused1],X,X
+501,185,forrest placed tree.,[unused0] placed tree.,[unused0],X,X
+502,185,forrest house fathers bulldozed ground.,[unused0] house fathers bulldozed ground.,[unused0],authority.virtue,fathers
+503,186,forrest watches jennys dads house knocked bulldozer.,forrest watches [unused1]s dads house knocked bulldozer.,[unused1],X,X
+504,187,...always said dyin part life.,...always said dyin part life.,[unused0],X,X
+505,187,"jennys grave marker reads. jenny gump july march beloved mother, wife friend","[unused1]s grave marker reads. [unused1] gump july march beloved mother, wife friend",[unused1],loyalty.virtue,wife
+506,187,"forrest sure wish wasnt. little forrest, hes fine.","[unused0] sure wish wasnt. little [unused0], hes fine.",[unused0],X,X
+507,189,...every day. forrest make sure combs hair brushes teeth every day. teaching play ping pong.,...every day. [unused0] make sure combs hair brushes teeth every day. teaching play ping pong.,[unused0],X,X
+508,190,"forrest, go.","[unused0], go.",[unused0],X,X
+509,192,"every night, read book. hes smart, jenny. youd proud him. forrest am. he, uh, wrote letter, says forrest cant read it. im supposed to, forrest leave you.","every night, read book. hes smart, [unused1]. youd proud him. [unused0] am. he, uh, wrote letter, says [unused0] cant read it. im supposed to, [unused0] leave you.",[unused0],X,X
+510,192,"jenny, forrest dont know momma right if, lieutenant dan. forrest dont know destiny, floating around accidental like breeze, i, forrest think maybe both. maybe happening time. forrest miss you, jenny. theres anything need, forrest wont far away.","[unused1], [unused0] dont know momma right if, lieutenant dan. [unused0] dont know destiny, floating around accidental like breeze, i, [unused0] think maybe both. maybe happening time. [unused0] miss you, [unused1]. theres anything need, [unused0] wont far away.",[unused0],fairness.virtue,rights
+511,193,heres bus. okay.,heres bus. okay.,[unused0],X,X
+512,193,"hey, forrest know this.","hey, [unused0] know this.",[unused0],X,X
+513,193,favorite book.,favorite book.,[unused0],X,X
+514,193,"...okay. hey, go.","...okay. hey, go.",[unused0],X,X
+515,193,"hey, forrest. dont... forrest wanted tell forrest love you.","hey, [unused0]. dont... [unused0] wanted tell [unused0] love you.",[unused0],care.virtue,"loves,love"
+516,193,forrest right get back.,[unused0] right get back.,[unused0],fairness.virtue,rights

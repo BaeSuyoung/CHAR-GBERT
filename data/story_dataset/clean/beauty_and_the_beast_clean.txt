@@ -1,0 +1,380 @@
+,chapter,text,mask_sent,char,sentiment,keywords
+0,8,"little town, quiet village every day like one little town full little people waking say...","little town, quiet village every day like one little town full little people waking say...",[unused0],1,waking
+1,8,belle looks clock church counting am.wait it.,[unused0] looks clock church counting am.wait it.,[unused0],0,looks|counting
+2,9,"old vagrant one notice belle, smiling heras hes tossed inside holding tank two gendarmes.","old vagrant one notice [unused0], smiling heras hes tossed inside holding tank two gendarmes.",[unused0],1,smiling|holding|tossed
+3,9,"belle weaves villagers, making invisible. passes harried baker, buys baguette","[unused0] weaves villagers, making invisible. passes harried baker, buys baguette",[unused0],-1,making|weaves|buys|harried
+4,9,goes baker tray like always old bread rolls sell,goes baker tray like always old bread rolls sell,[unused0],1,goes|baker|sell|always
+5,9,"belle approaches jean, potter, tending mule.","[unused0] approaches jean, potter, tending mule.",[unused0],0,jean|tending
+6,9,"good morning, monsieur jean.have lost something","good morning, monsieur jean.have lost something",[unused0],1,lost
+7,9,return book pere robert. two lovers fair verona.,return book pere robert. two lovers fair verona.,[unused0],1,pere
+8,9,must provincial life,must provincial life,[unused0],0,provincial
+9,10,belle escapes peace serenity country church. jolly pere robert looks enters. pere robert well isnt bookwormin town. run tothis week,[unused0] escapes peace serenity country church. jolly pere robert looks enters. pere robert well isnt bookwormin town. run tothis week,[unused0],1,well|peace|run|jolly|looks
+10,10,two cities northern italy.belle didnt want come back.,two cities northern italy.[unused0] didnt want come back.,[unused0],-1,come|back|want
+11,10,"belle hands romeo juliet pere robert, dutifully returns shelves towns library. couple dozen books total. remains hopeful.","[unused0] hands romeo juliet pere robert, dutifully returns shelves towns library. couple dozen books total. remains hopeful.",[unused0],1,returns|romeo|remains|dutifully|library
+12,10,"thank you, pere robert. library almost makes small corner theworld feel big.","thank you, pere robert. library almost makes small corner theworld feel big.",[unused0],1,theworld|almost|feel|pere|makes|you
+13,10,smiles.belle picks new book smiles back.,smiles.[unused0] picks new book smiles back.,[unused0],1,back|picks|smiles
+14,11,"crowded market set up. bellepasses tom, dick, stanleyall burly, tough guys.","crowded market set up. [unused0]passes tom, dick, stanleyall burly, tough guys.",[unused0],-1,set|burly|stanleyall|tom
+15,11,belle buys jam glides past apothecarys open cart.,[unused0] buys jam glides past apothecarys open cart.,[unused0],0,buys
+16,11,"behind her, florists pass huge bouquets. glorious parade belle remains oblivious continues read...belle oh... isnt amazing favorite part youll see heres meets prince charming wont discover til chapter three","behind her, florists pass huge bouquets. glorious parade [unused0] remains oblivious continues read...[unused0] oh... isnt amazing favorite part youll see heres meets prince charming wont discover til chapter three",[unused0],1,continues|florists|her|read|remains|charming|heres|pass
+17,11,belle slips crowd.,[unused0] slips crowd.,[unused0],0,crowd
+18,12,"looking village gaston, dashingly handsomewar hero clad dazzling gold breastplate. thingbigger muscles ego. strapped saddle musket spoils hunt. rabbit, fox, fowl. riding beside gastons long suffering aide de camp devoted best friend lefou.","looking village [unused2], dashingly handsomewar hero clad dazzling gold breastplate. thingbigger muscles ego. strapped saddle musket spoils hunt. rabbit, fox, fowl. riding beside [unused2]s long suffering aide de camp devoted best friend lefou.",[unused2],1,suffering|dazzling|looking|long|ego|dashingly|riding|strapped|devoted
+19,12,"look her, lefou. future wife. belle beautiful girl village. makes best.","look her, lefou. future wife. [unused0] beautiful girl village. makes best.",[unused2],1,her|makes
+20,12,"yes, ever since war ive missing something. shes girl ive met gives sense of...","yes, ever since war ive missing something. shes girl ive met gives sense of...",[unused2],-1,missing|ever|girl|gives
+21,12,gastondont know means.,[unused2]dont know means.,[unused2],0,means|know
+22,13,"singing right moment gaston met her, saw gaston said shes gorgeous gaston fell town theres beautiful im making plans woo marry belle","singing right moment [unused2] met her, saw [unused2] said shes gorgeous [unused2] fell town theres beautiful im making plans woo marry [unused0]",[unused2],1,singing|fell|her|marry|making|said|met|saw
+23,13,"gaston dismounts, lasses get splattered mud horses hooves. lefou shoots look, whispers.","[unused2] dismounts, lasses get splattered mud horses hooves. lefou shoots look, whispers.",[unused2],0,lasses|get|horses|look|splattered
+24,13,"noticing belle crossing market, gaston starts pursuit. grabs flowers perfume stall makes bouquet. make way market.","noticing [unused0] crossing market, [unused2] starts pursuit. grabs flowers perfume stall makes bouquet. make way market.",[unused0],-1,perfume|make|noticing|crossing|starts|makes
+25,13,"slightly breath, gaston finally catches belle.","slightly breath, [unused2] finally catches belle.",[unused2],0,slightly|catches|finally
+26,13,"good morning, bellewonderful book youhave there.","good morning, [unused0]wonderful book youhave there.",[unused2],1,there|youhave
+27,13,youve read,youve read,[unused0],0,
+28,13,"well, one. but, know.books.hands flowers dinner table. shall gaston join eveningbellesorry, tonight.","well, one. but, know.books.hands flowers dinner table. shall [unused2] join evening[unused0]sorry, tonight.",[unused2],1,well|dinner
+29,13,"no, lefou. ones play hard get always thesweetest prey.","no, lefou. ones play hard get always thesweetest prey.",[unused2],-1,thesweetest|play|always
+30,13,"outrageously attractive, isntit","outrageously attractive, isntit",[unused2],1,outrageously
+31,13,gaston looks village lasses standing outside tavern. give eye. gaston saunters over.,[unused2] looks village lasses standing outside tavern. give eye. [unused2] saunters over.,[unused2],0,standing|give|looks
+32,14,belle hears tinkle sweet music box tune wafting ofher fathers basement workshop.,[unused0] hears tinkle sweet music box tune wafting ofher fathers basement workshop.,[unused0],1,ofher|tinkle|wafting
+33,15,belle descends fathers dusty work room. sunlightspotlights maurice hunched workspace. belle quietly watches sings along music box theme.,[unused0] descends fathers dusty work room. sunlightspotlights maurice hunched workspace. [unused0] quietly watches sings along music box theme.,[unused0],0,hunched|descends|quietly
+34,15,"goes back tinkering. belle gazes music boxes, small work art, depicting famous landmarks around world.","goes back tinkering. [unused0] gazes music boxes, small work art, depicting famous landmarks around world.",[unused0],0,tinkering|back|goes|depicting|gazes
+35,15,"papa, think im odd","papa, think im odd",[unused0],-1,think
+36,15,belle dont know. people talk.,[unused0] dont know. people talk.,[unused0],0,talk|know
+37,15,"tell one thing her.maurice turns music box change subject. looking back belles eagerness, relents.","tell one thing her.maurice turns music box change subject. looking back [unused0]s eagerness, relents.",[unused0],1,turns|tell|looking|back
+38,16,rose like one painting.,rose like one painting.,[unused0],1,rose
+39,16,"every year, bring it.","every year, bring it.",[unused0],0,bring
+40,16,bellewill see tomorrow,[unused0]will see tomorrow,[unused0],0,see
+41,16,"maurice rides away, belles warmth gives way concern.","maurice rides away, [unused0]s warmth gives way concern.",[unused0],1,away|rides|warmth|gives
+42,16,stay safe...,stay safe...,[unused0],0,
+43,17,"surrounded design sketches, belles workbench features small model washing machine prototype. belle placesthe miniature barrel position... fastens rope leather strap... shaves chips block soap... collectsthe soap chips small sack... rushes out.","surrounded design sketches, [unused0]s workbench features small model washing machine prototype. [unused0] placesthe miniature barrel position... fastens rope leather strap... shaves chips block soap... collectsthe soap chips small sack... rushes out.",[unused0],-1,fastens|workbench|surrounded|rushes|shaves|out|washing|rope|leather
+44,18,"smile, belle points rotating barrel, resembles early whirlpool washing machine. belle takesher book quietly begins read. moment, looksup find washer girl staring her, speechless.","smile, [unused0] points rotating barrel, resembles early whirlpool washing machine. [unused0] takesher book quietly begins read. moment, looksup find washer girl staring her, speechless.",[unused0],1,begins|resembles|her|read|find|quietly|rotating|staring|washing
+45,18,belle waves girl join her.,[unused0] waves girl join her.,[unused0],1,her|girl|join
+46,19,...over dark wood.,...over dark wood.,[unused0],0,
+47,19,"belle locks eyes headmaster, turns back girl. headmaster seethes.","[unused0] locks eyes headmaster, turns back girl. headmaster seethes.",[unused0],0,eyes|turns|back
+48,20,"belles washing machine hauled laverie anddumped onto ground. collects laundry dirt, trying remain poised gawking crowd.","[unused0]s washing machine hauled laverie anddumped onto ground. collects laundry dirt, trying remain poised gawking crowd.",[unused0],-1,gawking|trying|poised|washing|anddumped|hauled
+49,21,"gaston shakes head laughs, absolutely smitten.","[unused2] shakes head laughs, absolutely smitten.",[unused2],1,absolutely|smitten|head
+50,21,"wildest, beautiful thing ive ever seen. one deserves you, least gaston know children beautiful.","wildest, beautiful thing ive ever seen. one deserves you, least [unused2] know children beautiful.",[unused2],1,know|ever|seen|you|deserves
+51,21,oh well. hero time. reflectionim done yet.,oh well. hero time. reflectionim done yet.,[unused2],1,done|yet|well|reflectionim
+52,22,gaston follows belle back cottage.,[unused2] follows belle back cottage.,[unused2],0,follows|back
+53,22,"belle heard little trouble headmaster. never likedme, either. gastongive littleadvice villagers, thoughtheyre never going trust kind change trying bring.","[unused0] heard little trouble headmaster. never likedme, either. [unused2]give littleadvice villagers, thoughtheyre never going trust kind change trying bring.",[unused2],-1,never|trying|either|heard|going
+54,22,belle wanted teach child toread.,[unused0] wanted teach child toread.,[unused0],0,wanted
+55,22,children concern are... own.,children concern are... own.,[unused2],0,are
+56,22,belle looks way out.she doesnt like going. belle im ready children.,[unused0] looks way out.she doesnt like going. [unused0] im ready children.,[unused0],1,looks|going
+57,22,maybe havent met right man.,maybe havent met right man.,[unused2],0,maybe|met
+58,22,"small village, gaston. ive met all.","small village, [unused2]. ive met all.",[unused0],0,met
+59,22,maybe take another look.some us changed.,maybe take another look.some us changed.,[unused2],0,changed|take|maybe
+60,22,climbs steps cottage door.gaston follows close behind.,climbs steps cottage door.[unused2] follows close behind.,[unused2],0,cottage|follows|close
+61,22,"gaston, could never make happy. one change much.","[unused2], could never make happy. one change much.",[unused0],-1,make|never|much
+62,22,"belle, know happens spinsters village theirfathers die","[unused0], know happens spinsters village theirfathers die",[unused2],-1,die|happens|know
+63,22,"gaston motions street, find agathe, aspinster, late s, dirty homeless, rattling cup.alms poor","[unused2] motions street, find agathe, aspinster, late s, dirty homeless, rattling cup.alms poor",[unused2],-1,rattling|aspinster|find
+64,22,"belle might farm girl, im notsimple. im sorry, belle never marry you, gaston.","[unused0] might farm girl, im notsimple. im sorry, [unused0] never marry you, [unused2].",[unused0],-1,farm|marry|you|never
+65,22,gaston keeps gallant smile plastered shuts doorin face.,[unused2] keeps gallant smile plastered shuts doorin face.,[unused2],1,plastered|keeps
+66,23,belle watches gaston leave.she opens door.,[unused0] watches [unused2] leave.she opens door.,[unused0],0,opens
+67,23,"imagine me, wife boorish, brainless...","imagine me, wife boorish, brainless...",[unused0],0,imagine
+68,24,"belle races hills outskirts town. reaches highest point, circle around reveal town spread beneath her.","[unused0] races hills outskirts town. reaches highest point, circle around reveal town spread beneath her.",[unused0],1,reaches|her|hills
+69,24,belle want adventure great wide somewhere belle want belle tell might grand someone understand belle want much theyve got planned,[unused0] want adventure great wide somewhere [unused0] want [unused0] tell might grand someone understand [unused0] want much theyve got planned,[unused0],1,understand|got|want|somewhere|planned
+70,34,"cant go home empty handed... narrator promised belle rose, didnt narrator narrator think safe...","cant go home empty handed... narrator promised [unused0] rose, didnt narrator narrator think safe...",[unused0],1,rose|promised|think|handed
+71,36,"sun fresh horizon, belle already up. whinny disturbs her. looks find philippe, thirsty exhausted.","sun fresh horizon, [unused0] already up. whinny disturbs her. looks find philippe, thirsty exhausted.",[unused0],-1,her|looks|already|exhausted
+72,36,belle puts strokes horses neck drinks deeply trough.,[unused0] puts strokes horses neck drinks deeply trough.,[unused0],0,deeply|puts|neck
+73,36,"belle goes still. notices philippes torn straps tattered reins. dread, gaze darts woods.","[unused0] goes still. notices philippes torn straps tattered reins. dread, gaze darts woods.",[unused0],-1,goes|tattered|philippes|still
+74,38,"belle races enchanted woods, coming upon mauricestipped wagon. sees broken chest scatteredmusic boxes.","[unused0] races enchanted woods, coming upon mauricestipped wagon. sees broken chest scatteredmusic boxes.",[unused0],-1,mauricestipped|enchanted|sees|coming
+75,39,"belle dismounts philippe. finding thick branch, wields like club, bravely crosses castle enters.","[unused0] dismounts philippe. finding thick branch, wields like club, bravely crosses castle enters.",[unused0],1,philippe|crosses|finding|bravely
+76,40,"club held high, ready defend herself, belle cautiously eases door open peeks inside.","club held high, ready defend herself, [unused0] cautiously eases door open peeks inside.",[unused0],1,defend|held|herself|eases|cautiously
+77,40,belle reacts.quickly moves towards voices,[unused0] reacts.quickly moves towards voices,[unused0],0,
+78,40,"belle reaches spot heard voices. one there. clock candelabra. suddenly, cough echoesthrough castle. belle grabs candelabra climbs along staircase. clock shudders dread.","[unused0] reaches spot heard voices. one there. clock candelabra. suddenly, cough echoesthrough castle. [unused0] grabs candelabra climbs along staircase. clock shudders dread.",[unused0],-1,suddenly|dread|reaches|there|spot
+79,41,belle follows cough labyrinth stairs reaches dark prison tower grated iron door.,[unused0] follows cough labyrinth stairs reaches dark prison tower grated iron door.,[unused0],-1,reaches|grated|follows
+80,41,"belle sees maurice grate door.he looksterribly pale sick, coughing.","[unused0] sees maurice grate door.he looksterribly pale sick, coughing.",[unused0],-1,looksterribly|coughing|maurice
+81,41,belle puts candelabra clutches hands.,[unused0] puts candelabra clutches hands.,[unused0],0,puts
+82,41,"oh, hands ice.we need get home. maurice belle, must leave once. castle alive go, finds","oh, hands ice.we need get home. maurice [unused0], must leave once. castle alive go, finds",[unused0],1,castle|get|leave|once|hands
+83,41,"beast roars. belle spins quickly, swinging club strike, figure jumps onto another staircase. belle searches shadows. voice circles her.","beast roars. [unused0] spins quickly, swinging club strike, figure jumps onto another staircase. [unused0] searches shadows. voice circles her.",[unused0],-1,her|shadows|quickly|circles|swinging
+84,41,ive come father.,ive come father.,[unused0],0,
+85,41,father thief.,father thief.,[unused1],-1,father
+86,41,stole rose.,stole rose.,[unused1],0,rose
+87,41,"belle asked rose.punish me, nothim","[unused0] asked rose.punish me, nothim",[unused0],0,asked|nothim
+88,41,life sentence rose,life sentence rose,[unused0],1,rose
+89,41,beast received eternal damnation one. im merely locking away. now... doyou still wish take fathers place,beast received eternal damnation one. im merely locking away. now... doyou still wish take fathers place,[unused1],-1,still|received|away|now|merely|take|place|locking
+90,41,come light.,come light.,[unused0],0,
+91,41,"figure remains still. belle grabs hold lumiere thrusts candle forward, illuminating hideous horned face. belles eyes go wide clearly sees beast. part seems human eyes. blue. deep. soulful.and flicked pain sees belles revulsion.","figure remains still. [unused0] grabs hold lumiere thrusts candle forward, illuminating hideous horned face. [unused0]s eyes go wide clearly sees beast. part seems human eyes. blue. deep. soulful.and flicked pain sees [unused0]s revulsion.",[unused0],-1,illuminating|clearly|still|flicked|beast|seems|remains|forward|candle|horned
+92,41,"alright, papa. belle leave. beast belle need minute alone him.","alright, papa. [unused0] leave. beast [unused0] need minute alone him.",[unused0],-1,need|leave|him|alone|minute
+93,41,"intrigued defiance, beast moves toward her, reaching massive paw. belle closes eyes, bracing retaliation. instead, hearsclang.","intrigued defiance, beast moves toward her, reaching massive paw. [unused0] closes eyes, bracing retaliation. instead, hearsclang.",[unused0],1,intrigued|bracing|closes|her|instead|reaching
+94,41,"belle opens eyes find eye eye beasts chest. reached high head pull iron lever, unlocking door.","[unused0] opens eyes find eye eye beasts chest. reached high head pull iron lever, unlocking door.",[unused0],1,opens|beasts|find|reached
+95,41,"door closes, open again.","door closes, open again.",[unused1],0,again
+96,42,belle rushes embraces father.,[unused0] rushes embraces father.,[unused0],0,embraces
+97,42,belle you.,[unused0] you.,[unused0],0,you
+98,42,forget everything belleam becauseof you.,forget everything [unused0]am becauseof you.,[unused0],-1,forget|you
+99,42,took place.,took place.,[unused1],0,took
+100,42,hes fool. you.,hes fool. you.,[unused1],-1,fool|you
+101,42,"alone, belle cannot help herself. slumps floor tears come. fade out.","alone, [unused0] cannot help herself. slumps floor tears come. fade out.",[unused0],-1,fade|herself|help|come|out|alone|not
+102,43,belle huddles corner. cell door swings opens.,[unused0] huddles corner. cell door swings opens.,[unused0],0,opens|corner
+103,43,roombut belle thought,roombut [unused0] thought,[unused0],0,thought
+104,43,"belle bounds cell, raising stool hit grown man. instead, sees... candelabra wave her.","[unused0] bounds cell, raising stool hit grown man. instead, sees... candelabra wave her.",[unused0],0,her|raising|wave|hit|instead
+105,43,"like seeing mouse, belle bashes candelabra. grunts clatters stone floor. candles extinguished.","like seeing mouse, [unused0] bashes candelabra. grunts clatters stone floor. candles extinguished.",[unused0],1,extinguished|candelabra|stone|seeing
+106,43,"whooshthe first candle relights. whooshthe second.illuminated two arm candles, belle makes eyes rudimentary face design.","whooshthe first candle relights. whooshthe second.illuminated two arm candles, [unused0] makes eyes rudimentary face design.",[unused0],0,makes|first
+107,44,"holding lumi�re, belle follows cogsworth across stone walkway high grounds. eyes dart, looking escape route. instead, sees vast castle woods are.","holding lumi�re, [unused0] follows cogsworth across stone walkway high grounds. eyes dart, looking escape route. instead, sees vast castle woods are.",[unused0],1,looking|walkway|follows|are|instead|holding|vast
+108,44,would belle startledim talking candle.,would [unused0] startledim talking candle.,[unused0],0,startledim|talking
+109,44,"why, whats west wing","why, whats west wing",[unused0],0,wing|whats|why
+110,44,belle looks back spooky tower west wing.,[unused0] looks back spooky tower west wing.,[unused0],0,looks|back
+111,46,its... beautiful.,its... beautiful.,[unused0],1,its
+112,46,"everything alive picks hair brushhello, whats name","everything alive picks hair brushhello, whats name",[unused0],1,name
+113,46,"belle hears loud snore behind her, turns see thedresser bursting open operatic laaaaaa belle shrieks steps back.","[unused0] hears loud snore behind her, turns see thedresser bursting open operatic laaaaaa [unused0] shrieks steps back.",[unused0],0,see|bursting|shrieks|back|her|loud|turns
+114,46,garderobes gilded arms stroke belles shoulder face.,garderobes gilded arms stroke [unused0]s shoulder face.,[unused0],0,stroke|shoulder|gilded
+115,46,im princess.,im princess.,[unused0],0,
+116,46,"garderobe places large hoop belles head, proceedsto create outfit using fabric pinking shear hands.froufrou, piano stool, runs in, barking like dog.come here, froufrou. come help mama","garderobe places large hoop [unused0]s head, proceedsto create outfit using fabric pinking shear hands.froufrou, piano stool, runs in, barking like dog.come here, froufrou. come help mama",[unused0],1,barking|using|come|mama|head|froufrou|pinking|runs|here
+117,46,belle looks around room one thing mind. escape. quickly moves window. opens it. looks downat foot drop leading grounds.,[unused0] looks around room one thing mind. escape. quickly moves window. opens it. looks downat foot drop leading grounds.,[unused0],-1,moves|opens|leading|quickly|looks
+118,46,"belle turns back room, gazes dress.an idea taking shape.","[unused0] turns back room, gazes dress.an idea taking shape.",[unused0],0,turns|gazes|taking|back
+119,48,"picture it, lefoua rustic cabin. latest kill roasting fire. adorable children running around us love rubs tired feet. belle say gaston nevermarry you, gaston.","picture it, lefoua rustic cabin. latest kill roasting fire. adorable children running around us love rubs tired feet. [unused0] say [unused2] nevermarry you, [unused2].",[unused2],-1,lefoua|running|roasting|you|around|love
+120,48,"ones slick gaston ones quick gaston ones necks incredibly thick gaston theres man town half manly perfect, pure paragon ask tom, dick stanley theyll tell whose team prefer","ones slick [unused2] ones quick [unused2] ones necks incredibly thick [unused2] theres man town half manly perfect, pure paragon ask tom, dick stanley theyll tell whose team prefer",[unused2],1,incredibly|slick|manly|thick
+121,48,"confidence growing specimen, yes, im intimidating","confidence growing specimen, yes, im intimidating",[unused2],1,growing
+122,48,"gaston stands, clasps lefou gratitude...","[unused2] stands, clasps lefou gratitude...",[unused2],0,stands
+123,48,"gaston needed encouragement. thank you, lefou lefou well, theres one easy bolster","[unused2] needed encouragement. thank you, lefou lefou well, theres one easy bolster",[unused2],1,theres|well|lefou|you|needed
+124,48,"gastonhunt, gastonsneak quiver beasts field say prayer first gastoncarefully aim liver gastonshoot behind","[unused2]hunt, [unused2]sneak quiver beasts field say prayer first [unused2]carefully aim liver [unused2]shoot behind",[unused2],0,gastoncarefully|first
+125,48,"gaston leaps onto bar, handed huge blunderbuss, mimes shooting lefou.","[unused2] leaps onto bar, handed huge blunderbuss, mimes shooting lefou.",[unused2],1,shooting|leaps|handed
+126,48,gaston dont care,[unused2] dont care,[unused2],-1,
+127,48,gaston fires rifle ceilingplaster rains down.,[unused2] fires rifle ceilingplaster rains down.,[unused2],0,rifle|down
+128,48,im especially good expectorating,im especially good expectorating,[unused2],1,especially
+129,48,"gaston spits big gloppy mess spittoon. bullseyethen, moves around inn, holding court.","[unused2] spits big gloppy mess spittoon. bullseyethen, moves around inn, holding court.",[unused2],-1,spits|holding
+130,48,"one shoulder, gaston lifts pretty village girl.on other, lifts lefou.","one shoulder, [unused2] lifts pretty village girl.on other, lifts lefou.",[unused2],1,village|pretty
+131,48,make endless refrains like gaston,make endless refrains like [unused2],[unused2],1,make
+132,48,gaston tromps table.he arrives wall animal heads antlers.,[unused2] tromps table.he arrives wall animal heads antlers.,[unused2],0,arrives
+133,48,villagers cheer gaston returns seat.gaston slaps,villagers cheer [unused2] returns seat.[unused2] slaps,[unused2],1,cheer
+134,48,"ah lefou, youre best. girl snatched yet lefou ive told im clingy, gaston really dont get it...","ah lefou, youre best. girl snatched yet lefou ive told im clingy, [unused2] really dont get it...",[unused2],1,yet|get|snatched|told|really
+135,48,"ever opportunist gaston help you, maurice","ever opportunist [unused2] help you, maurice",[unused2],1,ever|you|maurice
+136,48,winks lefou everyone stop making fun man,winks lefou everyone stop making fun man,[unused2],1,lefou
+137,48,"maurice exits.gaston follows, gesturing lefou.","maurice exits.[unused2] follows, gesturing lefou.",[unused2],0,follows|gesturing
+138,51,youre making dinner,youre making dinner,[unused1],0,
+139,51,gave bedroom,gave bedroom,[unused1],0,gave
+140,51,thats ridiculous idea ive ever heard charm prisoner.,thats ridiculous idea ive ever heard charm prisoner.,[unused1],-1,ever|heard
+141,51,shes daughter common thief.what kind person think makes,shes daughter common thief.what kind person think makes,[unused1],1,daughter|makes|think
+142,52,knock. knock. beast stands belles door servants stand side play cyrano.,knock. knock. beast stands [unused0]s door servants stand side play cyrano.,[unused0],1,beast|door|stand
+143,52,join dinner thats request.,join dinner thats request.,[unused1],1,request
+144,53,"actually, belle actively planning escape. makeshift rope fabric hangs feet window. knock. knock.","actually, [unused0] actively planning escape. makeshift rope fabric hangs feet window. knock. knock.",[unused0],1,actually|planning|actively|window
+145,54,join dinner,join dinner,[unused1],1,
+146,55,youve taken prisoner youwant dinner youinsane,youve taken prisoner youwant dinner youinsane,[unused0],-1,youve|taken
+147,55,beast told come dinner.,beast told come dinner.,[unused1],0,told
+148,55,belle hits back.whamwhamwham,[unused0] hits back.whamwhamwham,[unused0],0,
+149,55,belle told,[unused0] told,[unused0],0,told
+150,55,id starve belle ever ate,id starve [unused0] ever ate,[unused0],-1,ever|ate
+151,55,"well guest go ahead starve leaves doesnt eat me, doesnt eat","well guest go ahead starve leaves doesnt eat me, doesnt eat",[unused1],-1,starve|well|ahead|eat|doesnt
+152,56,show girl.,show girl.,[unused1],0,
+153,59,belle throws makeshift rope bedroom window.,[unused0] throws makeshift rope bedroom window.,[unused0],0,throws|makeshift
+154,60,belle looks downthe rope feet ground. almost there. knock door.,[unused0] looks downthe rope feet ground. almost there. knock door.,[unused0],0,there|looks|knock|almost
+155,60,belle told go away.,[unused0] told go away.,[unused0],0,away|told
+156,60,"belle tries block view escape rope, mrs. potts sharp.its long journey. let fix go. narrator found troubles seem less troubling bracing cup tea.","[unused0] tries block view escape rope, mrs. potts sharp.its long journey. let fix go. narrator found troubles seem less troubling bracing cup tea.",[unused0],-1,found|seem|bracing|troubling|less|let|block
+157,60,belle picks chip brings mouth. little chip finds face face beautiful girl ever seen. takes sip.,[unused0] picks chip brings mouth. little chip finds face face beautiful girl ever seen. takes sip.,[unused0],1,ever|seen|finds|brings|takes
+158,60,im worried him. hes never own.,im worried him. hes never own.,[unused0],-1,never|him|worried|own
+159,60,"said, doesnt eat me, doesnt eat all.","said, doesnt eat me, doesnt eat all.",[unused0],0,said|doesnt
+160,62,"belle reaches try it, gone can.","[unused0] reaches try it, gone can.",[unused0],1,reaches|try|gone
+161,62,"small guillotine table drops, slicing baguette. menus fly overhead, buzzing disgruntled cogsworth. belle reaches grabs one.","small guillotine table drops, slicing baguette. menus fly overhead, buzzing disgruntled cogsworth. [unused0] reaches grabs one.",[unused0],1,disgruntled|slicing|reaches|buzzing
+162,62,belle reaches food stopped lumi�res melodramatic histrionics. wraps napkin full martha graham effect.,[unused0] reaches food stopped lumi�res melodramatic histrionics. wraps napkin full martha graham effect.,[unused0],-1,reaches|stopped
+163,62,"belle tries stab bite food moves past her, conveyer belt. sliding past her, cogsworth wobbles.","[unused0] tries stab bite food moves past her, conveyer belt. sliding past her, cogsworth wobbles.",[unused0],-1,sliding|stab|bite|her
+164,64,"table clears itself, whooshing back kitchen,lumi�re whirls toward belle, finally presenting","table clears itself, whooshing back kitchen,lumi�re whirls toward [unused0], finally presenting",[unused0],1,itself|presenting|back|clears|whooshing|finally
+165,65,surely youre trapped belleam.dont ever want escape,surely youre trapped [unused0]am.dont ever want escape,[unused0],1,surely|ever|want|trapped
+166,65,lumiere mentioned something west wing...,lumiere mentioned something west wing...,[unused0],0,lumiere|mentioned
+167,65,good night.,good night.,[unused0],1,
+168,66,belle sticks shadows.she walks massive wooden doorslightly ajar.,[unused0] sticks shadows.she walks massive wooden doorslightly ajar.,[unused0],0,ajar|doorslightly
+169,67,"start, belle wheels findthe eyes belong royal portrait. subject seems teenage boy face slashed beyond recognition.","start, [unused0] wheels findthe eyes belong royal portrait. subject seems teenage boy face slashed beyond recognition.",[unused0],-1,seems|findthe|slashed
+170,67,belle leans study painting. royal family stands bythe castle. fathers image slashed. queen remains pristine. kind. beautiful.,[unused0] leans study painting. royal family stands bythe castle. fathers image slashed. queen remains pristine. kind. beautiful.,[unused0],1,stands|study|slashed|remains|painting
+171,67,belle turns sees glow coming glass jar open window leading balcony. inside jarthe enchanted rose.,[unused0] turns sees glow coming glass jar open window leading balcony. inside jarthe enchanted rose.,[unused0],1,enchanted|rose|leading|turns|coming
+172,67,"mesmerized, belle approaches rose. lifts jar, leaving rose unprotected. reaches touch rose. shadow cuts across belles face. beast herewhat","mesmerized, [unused0] approaches rose. lifts jar, leaving rose unprotected. reaches touch rose. shadow cuts across [unused0]s face. beast herewhat",[unused0],-1,face|touch|leaving|rose|mesmerized
+173,67,"beast bears belle, backing up.she puts bell jar.","beast bears [unused0], backing up.she puts bell jar.",[unused0],1,backing|bell
+174,67,realize could done could damned us get go,realize could done could damned us get go,[unused1],-1,done|get|damned
+175,68,"belle appears, racing west wing staircase.","[unused0] appears, racing west wing staircase.",[unused0],0,wing|racing|appears
+176,68,"belle snatches cloak bewildered chapeau, andshimmies doggie door.","[unused0] snatches cloak bewildered chapeau, andshimmies doggie door.",[unused0],0,cloak|doggie|bewildered
+177,70,"belle forges onthe wolves bothering hide anymore, theyve emerged trees take preyclosing fast","[unused0] forges onthe wolves bothering hide anymore, theyve emerged trees take preyclosing fast",[unused0],-1,anymore|forges|fast|emerged|bothering|take|preyclosing|onthe
+178,70,"belle pushes undergrowth find reacheda frozen pond. philippe doesnt hesitate. gallops onto theice, across pond. sound ice cracking hishooves deep low. increasing.","[unused0] pushes undergrowth find reacheda frozen pond. philippe doesnt hesitate. gallops onto theice, across pond. sound ice cracking hishooves deep low. increasing.",[unused0],-1,cracking|deep|find|increasing
+179,70,"wolfs jaws snap philippes thigh. another. thehorse bucks wildlycausing belle makes controlledleap onto snow bank. seizes thick branch wields clubas wolves surround her, jaws slavering","wolfs jaws snap philippes thigh. another. thehorse bucks wildlycausing [unused0] makes controlledleap onto snow bank. seizes thick branch wields clubas wolves surround her, jaws slavering",[unused0],0,jaws|thigh|seizes|her|surround|controlledleap|slavering|makes|snap|clubas|wildlycausing
+180,70,"belle swings club one wolf lunges her, bared teeth like razors. beats away. turns confront anotherit bites branch clean hands.","[unused0] swings club one wolf lunges her, bared teeth like razors. beats away. turns confront anotherit bites branch clean hands.",[unused0],1,lunges|her|away|beats|turns|bared|club
+181,70,"belle turns, looks upon rock promontory, scarred alpha wolf take diving leap onto her. jumps, flinchesbut wolf makes horrible landing","[unused0] turns, looks upon rock promontory, scarred alpha wolf take diving leap onto her. jumps, flinchesbut wolf makes horrible landing",[unused0],-1,landing|diving|scarred|her|take|looks|makes
+182,70,"tight bellewatching beast whimpers pain. shoulders slump. collapses snow. chance. belle could run. looks past philippe, woodstofreedom. turns back, slowly approaches wounded","tight [unused0]watching beast whimpers pain. shoulders slump. collapses snow. chance. [unused0] could run. looks past philippe, woodstofreedom. turns back, slowly approaches wounded",[unused0],-1,back|pain|slump|run|turns|snow|looks|bellewatching|wounded|slowly
+183,70,"belle covers beast blanket.he stirs.one eye opens. belle help me... stand...the beast slumped across philippes saddle. belle takesthe reins begins long walk back castle, rise sky, see border separates enchanted woods outside world, and...","[unused0] covers beast blanket.he stirs.one eye opens. [unused0] help me... stand...the beast slumped across philippes saddle. [unused0] takesthe reins begins long walk back castle, rise sky, see border separates enchanted woods outside world, and...",[unused0],1,slumped|begins|see|enchanted|back|opens|saddle|covers|border|stand
+184,71,"wolves howl. gastons carriage moves scary woods, lefou squeezed back behind gaston maurice.","wolves howl. [unused2]s carriage moves scary woods, lefou squeezed back behind [unused2] maurice.",[unused2],-1,carriage|squeezed|back
+185,71,"look, enough enough.we turnback.","look, enough enough.we turnback.",[unused2],0,
+186,71,angry gaston steps approaches maurice.,angry [unused2] steps approaches maurice.,[unused2],-1,approaches
+187,71,im done playing game yours. belle,im done playing game yours. [unused0],[unused2],1,done|playing
+188,71,"dont turn around go backto villeneuve im sure belle home, cooking lovely dinner...","dont turn around go backto villeneuve im sure [unused0] home, cooking lovely dinner...",[unused2],1,around|cooking|lovely
+189,71,gaston want marry daughter lets go home.,[unused2] want marry daughter lets go home.,[unused2],1,want
+190,71,"say beast one time, gaston feed wolves","say beast one time, [unused2] feed wolves",[unused2],0,
+191,71,gaston holds fist strike maurice across face. lefou runs intervene.,[unused2] holds fist strike maurice across face. lefou runs intervene.,[unused2],-1,runs|holds
+192,71,"please, forgive me, old bean. thats way talk future father law,","please, forgive me, old bean. thats way talk future father law,",[unused2],1,thats
+193,71,"beat.without word, gaston hits maurice, knocking out.","beat.without word, [unused2] hits maurice, knocking out.",[unused2],0,knocking|out
+194,72,maurice tied tree. gaston secures knot walks carriage. darkness come gaston.,maurice tied tree. [unused2] secures knot walks carriage. darkness come [unused2].,[unused2],1,tied|secures
+195,72,"maurice wont give blessing, way. wolves finished him, belle one take care me.","maurice wont give blessing, way. wolves finished him, [unused0] one take care me.",[unused2],1,finished|wont|him
+196,72,gaston climbs carriage.,[unused2] climbs carriage.,[unused2],0,climbs
+197,72,"gaston lefou ride off, leaving maurice die.","[unused2] lefou ride off, leaving maurice die.",[unused2],-1,leaving|ride|off
+198,73,rooooaarrrr ow hurts,rooooaarrrr ow hurts,[unused1],-1,
+199,73,"held still, wouldnt hurt much.","held still, wouldnt hurt much.",[unused0],1,still|much
+200,73,"hadnt run away, none thiswould happened.","hadnt run away, none thiswould happened.",[unused1],0,happened|away|run
+201,73,"well hadnt frightened me, bellewouldnt run away.","well hadnt frightened me, [unused0]wouldnt run away.",[unused0],1,frightened|away|well|run
+202,73,well shouldnt thewest wing.,well shouldnt thewest wing.,[unused1],1,well|shouldnt
+203,73,well learn control temper.the beast momentarily silenced. belle looks wound dabbing. worse thought.,well learn control temper.[unused1] momentarily silenced. [unused0] looks wound dabbing. worse thought.,[unused0],-1,well|momentarily|learn|silenced|dabbing|looks|worse
+204,73,cursed somehow.off silence nothing.,cursed somehow.off silence nothing.,[unused0],0,cursed
+205,73,belle notes shame hear first notes beautiful melody coming ballroom downstairs. beasts lullabydays sun.,[unused0] notes shame hear first notes beautiful melody coming ballroom downstairs. beasts lullabydays sun.,[unused0],1,shame|lullabydays|coming
+206,77,"belle turns window, sings.","[unused0] turns window, sings.",[unused0],0,turns
+207,77,"midst sorrow much hope love endurebelle innocent certain im wiser unsurebelle cant go back mydays past childhood ah precious daysone father madecouldnt last secure ohhold closerbelle feel change meim stronger stillnot free window, pan across castle, horizonwhere sun rising.","midst sorrow much hope love endure[unused0] innocent certain im wiser unsure[unused0] cant go back mydays past childhood ah precious daysone father madecouldnt last secure ohhold closer[unused0] feel change meim stronger stillnot free window, pan across castle, horizonwhere sun rising.",[unused0],1,ohhold|mydays|stronger|back
+208,78,"glass jar, petal drops floating melody. belle crosses it.","glass jar, petal drops floating melody. [unused0] crosses it.",[unused0],0,floating|crosses
+209,78,happens last petal falls,happens last petal falls,[unused0],0,
+210,78,belle want help you. must way lift curse. staff exchange looks.,[unused0] want help you. must way lift curse. staff exchange looks.,[unused0],-1,looks|you|lift|want
+211,81,love transpose form anddignity. love looks eyesbut mind. therefore,love transpose form anddignity. love looks eyesbut mind. therefore,[unused0],1,love|looks
+212,81,"belle looks up, surprised.","[unused0] looks up, surprised.",[unused0],1,looks|surprised
+213,81,know shakespeare,know shakespeare,[unused0],0,shakespeare
+214,81,beasthad expensive education.,beasthad expensive education.,[unused1],0,beasthad
+215,81,"actually, romeo juliet myfavorite play.","actually, romeo juliet myfavorite play.",[unused0],1,actually
+216,81,heartache pining beastly shudderthere many better things toread.,heartache pining beastly shudderthere many better things toread.,[unused1],1,beastly|pining|shudderthere|better
+217,82,something startwith...,something startwith...,[unused1],0,
+218,82,wonderful.,wonderful.,[unused0],1,
+219,82,"oh. yes, beast suppose is... well, like much, yours.","oh. yes, beast suppose is... well, like much, yours.",[unused1],1,well
+220,82,really read every one books beastnot them. greek.,really read every one books beastnot them. greek.,[unused0],0,read|beastnot|really|them
+221,82,jokeare making jokesnow,jokeare making jokesnow,[unused0],0,making
+222,82,belle shakes head also charmed.the beast turnsand strides out.,[unused0] shakes head also charmed.the beast turnsand strides out.,[unused0],0,also|out|strides
+223,83,"beast eats table, reading book sits stand. looks see belle sit end three books. picks spoon starts eat. beast plants face bowl. looks second later inhaled soup, half dripping fur. belle attempts smile. something begins.","beast eats table, reading book sits stand. looks see [unused0] sit end three books. picks spoon starts eat. beast plants face bowl. looks second later inhaled soup, half dripping fur. [unused0] attempts smile. something begins.",[unused0],1,face|dripping|begins|see|end|starts|looks|inhaled|smile|later|stand|reading
+224,84,air blue keen cold frozen sheath enrolled,air blue keen cold frozen sheath enrolled,[unused0],1,enrolled|blue
+225,84,"beast stops.belle, savoring words, keeps walking.","beast stops.[unused0], savoring words, keeps walking.",[unused0],0,walking|savoring|keeps
+226,84,"belle notices shes walking alone.she turns back, sees beast staring soulfully.","[unused0] notices shes walking alone.she turns back, sees beast staring soulfully.",[unused0],0,back|beast|soulfully|turns|staring|walking
+227,84,"follows gaze, reveal splendidly desolatelandscape. thing belle described, spread her.","follows gaze, reveal splendidly desolatelandscape. thing [unused0] described, spread her.",[unused0],1,described|splendidly|her|follows|reveal|spread
+228,85,"fresh snow, belle brushes philippes coat. beast looks belleshe nodsand pets horse. philippereacts skittishly, causing beast withdraw. belle takeshis hand places philippe. then, turns away","fresh snow, [unused0] brushes philippes coat. beast looks [unused0]she nodsand pets horse. philippereacts skittishly, causing beast withdraw. [unused0] takeshis hand places philippe. then, turns away",[unused0],1,then|skittishly|away|causing|turns|looks|philippes
+229,85,theres something sweet almost kind mean coarse unrefined,theres something sweet almost kind mean coarse unrefined,[unused0],1,sweet|unrefined|almost
+230,86,"belle reads end long dining table. looks sees beast looking her. may narrator nods, goes back book. walks length table. beast glanced way narrator thought narrator saw touched didnt shudder paw no, cant narrator ignore shes never looked way","[unused0] reads end long dining table. looks sees beast looking her. may narrator nods, goes back book. walks length table. beast glanced way narrator thought narrator saw touched didnt shudder paw no, cant narrator ignore shes never looked way",[unused0],1,looking|long|back|her|glanced|thought|never|dining|goes|end|looks|touched|length|looked|narrator
+231,87,new bit alarming whod ever thought could,new bit alarming whod ever thought could,[unused0],-1,ever|thought|alarming
+232,88,"belle stands ladder, pulling book book, handing beast. staff watches corner.","[unused0] stands ladder, pulling book book, handing beast. staff watches corner.",[unused0],0,stands|ladder|handing|pulling|watches
+233,89,guinevere lancelot.,guinevere lancelot.,[unused0],0,guinevere
+234,89,"well actually, king arthur round table. knights, men, swords things...","well actually, king arthur round table. knights, men, swords things...",[unused1],1,actually|well|king
+235,89,still... romance.,still... romance.,[unused0],1,still
+236,89,right. beast felt like change.belle beast never thanked saving life.,right. beast felt like change.[unused0] beast never thanked saving life.,[unused1],1,beast|saving|never|right|thanked
+237,89,well beast never thanked you... notleaving eaten wolves.,well beast never thanked you... notleaving eaten wolves.,[unused1],-1,well|beast|notleaving|never|thanked|you
+238,89,"belle laughs. quiet charged moment, ends theshouts laughter servants castle. belle beast cant help smile.","[unused0] laughs. quiet charged moment, ends theshouts laughter servants castle. [unused0] beast cant help smile.",[unused0],1,ends|laughs|castle
+239,89,know good time.,know good time.,[unused0],1,know
+240,89,"yes. beast enter room,laughter dies.","yes. beast enter room,laughter dies.",[unused1],1,yes
+241,89,"me, too. villagers say im funny girl, belle dont think theymean compliment.","me, too. villagers say im funny girl, [unused0] dont think theymean compliment.",[unused0],1,too|think
+242,89,im sorry. village sounds terrible.,im sorry. village sounds terrible.,[unused1],-1,sounds
+243,89,almost lonely castle.,almost lonely castle.,[unused0],-1,lonely|almost
+244,89,say run away,say run away,[unused1],0,away|run
+245,89,belle surprised suggestion.,[unused0] surprised suggestion.,[unused0],1,surprised
+246,90,another little gift enchantress...,another little gift enchantress...,[unused1],1,
+247,90,belle moves closer find pen ink drawing alive. waves lap beaches. green trees sway invisible wind.belle amazing.,[unused0] moves closer find pen ink drawing alive. waves lap beaches. green trees sway invisible wind.[unused0] amazing.,[unused0],1,sway|closer|find|drawing
+248,90,cruelest trick all. outside world place acreature like me. you.,cruelest trick all. outside world place acreature like me. you.,[unused1],-1,you
+249,90,beast offers hand belle takes it.he gentlymoves hand book.,beast offers hand [unused0] takes it.he gentlymoves hand book.,[unused0],1,takes
+250,91,"oh, beast love paris. would like see first notre dame champs elys�es touristy","oh, beast love paris. would like see first notre dame champs elys�es touristy",[unused1],1,elys�es|see|like
+251,91,much smaller belle imagined.,much smaller [unused0] imagined.,[unused0],0,imagined|smaller
+252,91,"beast watches belle walk childhood home...the artists garret maurice recreated signaturemusic box. abandoned years ago, room crumbling.belle finds remains fathers easel. tarnished wall mirror. broken crib.","beast watches [unused0] walk childhood home...the artists garret maurice recreated signaturemusic box. abandoned years ago, room crumbling.[unused0] finds remains fathers easel. tarnished wall mirror. broken crib.",[unused0],-1,tarnished|garret|recreated|remains|finds|ago|abandoned|easel|walk
+253,91,belle notices something tucked corner crib.she pries loose. babys rattle carved theshape rose. beast focuses it.,[unused0] notices something tucked corner crib.she pries loose. babys rattle carved theshape rose. beast focuses it.,[unused0],-1,rose|tucked|focuses|babys|loose
+254,91,happened mother,happened mother,[unused1],0,happened
+255,91,thats story papa could never bring tell. belle knew better ask...,thats story papa could never bring tell. [unused0] knew better ask...,[unused0],1,knew|bring|better|never
+256,91,revelation lands belles face.she looks around.,revelation lands [unused0]s face.she looks around.,[unused0],0,around|looks|lands
+257,91,"belle glimpses must happened. doctor stands doorway, face covered mask.","[unused0] glimpses must happened. doctor stands doorway, face covered mask.",[unused0],0,happened|stands|doorway|covered
+258,91,"bag hastily packed, belles younger father barely seentaking necessary. stops gaze belles mother, lies deathbed, surrounded medicines.","bag hastily packed, [unused0]s younger father barely seentaking necessary. stops gaze [unused0]s mother, lies deathbed, surrounded medicines.",[unused0],-1,deathbed|surrounded|father|younger|packed|barely|lies|mother|seentaking|hastily
+259,91,belle stares rattle.,[unused0] stares rattle.,[unused0],0,stares
+260,91,beast sorry beast ever called father athief.,beast sorry beast ever called father athief.,[unused1],-1,ever|called
+261,91,"belle lifts head, wet eyes look him. belle lets go home.","[unused0] lifts head, wet eyes look him. [unused0] lets go home.",[unused0],0,lets|him|look
+262,93,lefou realizes shouldnt happy tamps hissmile. maurice gaston lock eyes. gaston quicklyassesses situation.,lefou realizes shouldnt happy tamps hissmile. maurice [unused2] lock eyes. [unused2] quicklyassesses situation.,[unused2],-1,shouldnt|quicklyassesses|realizes
+263,93,"think gaston might run fight deny, smileswarmly.","think [unused2] might run fight deny, smileswarmly.",[unused2],-1,smileswarmly|think|run|fight
+264,93,"oh, maurice thank heavens. ive spentthe last five days trying find you.","oh, maurice thank heavens. ive spentthe last five days trying find you.",[unused2],1,ive|you|trying
+265,93,"maurice, one thing rave delusions. another accuse attempted murder. gastons argument lands.the gentle maurice feels room slipping away him.","maurice, one thing rave delusions. another accuse attempted murder. [unused2]s argument lands.the gentle maurice feels room slipping away him.",[unused2],-1,slipping|away|him|argument|attempted
+266,93,"agathe youd hang accusation testimony filthy hag agathe offense, agathe.","agathe youd hang accusation testimony filthy hag agathe offense, agathe.",[unused2],-1,
+267,93,youre right. dont take word it.,youre right. dont take word it.,[unused2],0,dont
+268,93,"crowd reacts. maurice crestfallen. gaston won. maurice lunges gastonwho catches flying fist, easilysubduing him.","crowd reacts. maurice crestfallen. [unused2] won. maurice lunges [unused2]who catches flying fist, easilysubduing him.",[unused2],1,easilysubduing|him|gastonwho|flying|won
+269,93,"maurice, pains say this, youve become danger others. wonder belle ran away. youneed help, sir. place heal troubled mind. gaston signals tom, dick, stanleyand maurice turns see block exit. gaston places large hand maurices shoulderand squeezes. maurice winces.","maurice, pains say this, youve become danger others. wonder [unused0] ran away. youneed help, sir. place heal troubled mind. [unused2] signals tom, dick, stanleyand maurice turns see block exit. [unused2] places large hand maurices shoulderand squeezes. maurice winces.",[unused2],-1,shoulderand|youve|see|away|become|ran|turns|troubled|wonder|youneed|tom
+270,94,beast feel like fool. never love me.,beast feel like fool. never love me.,[unused1],-1,never
+271,94,beastwish youd stop saying thatthe beast plops seat front mirror.,beastwish youd stop saying that[unused1] plops seat front mirror.,[unused1],-1,seat|saying
+272,95,"garderobe sweeps arm, gold dust magically whooshes down, settling belles gown, completing it.","garderobe sweeps arm, gold dust magically whooshes down, settling [unused0]s gown, completing it.",[unused0],0,gown|magically|settling|completing|down|whooshes
+273,96,belle breathtaking revealed upper landing.,[unused0] breathtaking revealed upper landing.,[unused0],1,revealed|breathtaking
+274,96,"beast belle meet center landing descend thestaircase. arm arm, enter","beast [unused0] meet center landing descend thestaircase. arm arm, enter",[unused0],0,landing
+275,97,"world exists except other. despite bulk, beast careful, gentle, graceful. lights ballroom grow dimas lifts her, spinning. belle swept away.","world exists except other. despite bulk, beast careful, gentle, graceful. lights ballroom grow dimas lifts her, spinning. [unused0] swept away.",[unused0],1,her|away|lifts|exists|spinning|grow|swept
+276,98,belle beast stand together stars.,[unused0] beast stand together stars.,[unused0],0,together|stand
+277,98,beast havent danced years.id almost forgotten feeling.,beast havent danced years.id almost forgotten feeling.,[unused1],-1,danced|almost
+278,98,belledont know...,[unused0]dont know...,[unused0],0,know
+279,98,really think could happy,really think could happy,[unused1],1,think|happy|really
+280,98,could anyone happy theyre free,could anyone happy theyre free,[unused0],1,
+281,98,must miss him.,must miss him.,[unused1],-1,miss|him
+282,98,"thinks, decides would like see","thinks, decides would like see",[unused1],1,see|like
+283,99,id like see father.,id like see father.,[unused0],1,father|see
+284,99,pained must go him.,pained must go him.,[unused1],-1,him
+285,99,must go him. time waste. belle looks beast never done beforewith gratitude appreciation. moves return mirror.,must go him. time waste. [unused0] looks beast never done beforewith gratitude appreciation. moves return mirror.,[unused1],-1,beast|never|him|return|looks|done
+286,99,thank you.,thank you.,[unused0],1,you
+287,101,beast let go.,beast let go.,[unused1],0,
+288,101,no. ive set free. im sorry beast couldnt you.,no. ive set free. im sorry beast couldnt you.,[unused1],1,you
+289,102,beast never shake away painthe beast close eyes shes still beast let steal melancholyheart beast bear,beast never shake away pain[unused1] close eyes shes still beast let steal melancholyheart beast bear,[unused1],-1,still|away|beast|never|shake|melancholyheart
+290,102,"beast climbs higher higher, keep belle sight asshe gets away.","beast climbs higher higher, keep [unused0] sight asshe gets away.",[unused0],0,gets|away|higher|keep|climbs
+291,102,"beast climbs, belle riding, reaches highest turret castle. narrator rage trials love narrator curse fading lightthough shes already flown far beyond reachshes never sight narrator know shell never leave even fades viewshe still torment me, part everything narrator dowasting lonely towerwaiting open doornarrator fool shell walk right long long nights begin narrator think might beenwaiting evermore","beast climbs, [unused0] riding, reaches highest turret castle. narrator rage trials love narrator curse fading lightthough shes already flown far beyond reachshes never sight narrator know shell never leave even fades viewshe still torment me, part everything narrator dowasting lonely towerwaiting open doornarrator fool shell walk right long long nights begin narrator think might beenwaiting evermore",[unused0],-1,know|lonely|right|far|sight|evermore|walk|even|long|leave|dowasting|love|already|viewshe|beenwaiting|fading|still|torment|reaches|towerwaiting|never|begin|flown
+292,102,beast stands edge turret belle finally disappears castle gates.,beast stands edge turret [unused0] finally disappears castle gates.,[unused0],-1,finally|disappears|edge
+293,103,gaston leans wagon. gathering crowd loud enough mask private plea maurice...,[unused2] leans wagon. gathering crowd loud enough mask private plea maurice...,[unused2],0,gathering|enough|leans
+294,103,"ever seen inside mad house, maurice wouldnt last week. give daughtershand, gaston set free.","ever seen inside mad house, maurice wouldnt last week. give daughtershand, [unused2] set free.",[unused2],1,seen|ever|set
+295,103,gaston clenches jaw locks door clank.,[unused2] clenches jaw locks door clank.,[unused2],0,jaw
+296,103,belles voice cuts crowd.they turn gape,[unused0]s voice cuts crowd.they turn gape,[unused0],-1,turn
+297,103,crowd parts dismounts philippe moves wagon. whisper passesvillagers belle... come belle... look dress...,crowd parts dismounts philippe moves wagon. whisper passesvillagers [unused0]... come [unused0]... look dress...,[unused0],0,whisper|philippe|come|wagon
+298,103,"belle fearlessly strides right front wagon. horses jump up, startled. belle runs locked door.","[unused0] fearlessly strides right front wagon. horses jump up, startled. [unused0] runs locked door.",[unused0],1,jump|fearlessly|strides|startled|runs
+299,103,belle sees father injured floor wagon.,[unused0] sees father injured floor wagon.,[unused0],-1,father|sees
+300,103,open door hes hurt,open door hes hurt,[unused0],-1,hurt
+301,103,fathers crazygaston... tell,fathers crazy[unused2]... tell,[unused0],0,crazygaston
+302,103,"belle, know loyal gaston family, father making unbelievable claims.","[unused0], know loyal [unused2] family, father making unbelievable claims.",[unused2],1,father|know|making
+303,103,belle come castle beast,[unused0] come castle beast,[unused0],0,come
+304,103,"admire devotion father, youd say anything free him. word hardly proof.","admire devotion father, youd say anything free him. word hardly proof.",[unused2],1,hardly|him
+305,103,want proof show beast,want proof show beast,[unused0],1,
+306,103,"mirror, beast sits slumped turret wall.the villagers gasp. gastons face registers shock. proof","mirror, beast sits slumped turret wall.the villagers gasp. [unused2]s face registers shock. proof",[unused2],-1,turret|slumped|face|gasp|shock
+307,103,gaston snatches mirror belle holds villagers.,[unused2] snatches mirror [unused0] holds villagers.,[unused2],0,mirror|holds
+308,103,"no, dont afraid.he gentle kind.","no, dont afraid.he gentle kind.",[unused0],-1,dont
+309,103,"monster put spellif gaston didnt know better, id say even cared him.","monster put spellif [unused2] didnt know better, id say even cared him.",[unused2],1,even|put|know|cared|him|better
+310,103,"hes monster, gaston. are. appeals everyonethe beast would never hurt anyone.","hes monster, [unused2]. are. appeals everyone[unused1] would never hurt anyone.",[unused0],1,hurt|never|are|everyonethe
+311,103,"gaston heard effects dark magic, never seen eyes threat existence","[unused2] heard effects dark magic, never seen eyes threat existence",[unused2],1,seen|never
+312,103,raucous cries gaston gaston gaston rise.gaston holds mirror up.,raucous cries [unused2] [unused2] [unused2] rise.[unused2] holds mirror up.,[unused2],-1,mirror|holds
+313,103,"isnt gaston, youll see","isnt [unused2], youll see",[unused0],0,
+314,104,horse.gaston hops onto back wagon addresses thecrowd. mob song begins move thefrightened villagers,horse.[unused2] hops onto back wagon addresses thecrowd. mob song begins move thefrightened villagers,[unused2],0,thecrowd|begins|hops|thefrightened
+315,104,"time take action, boys time follow","time take action, boys time follow",[unused2],0,follow|take
+316,104,gaston grabs torch villager tosses barrel pitch. flames rise sky.,[unused2] grabs torch villager tosses barrel pitch. flames rise sky.,[unused2],0,rise|barrel|torch
+317,104,"gaston lights clothildes torch, clasps shoulder ofmonsieur darque, watches helplessly asylum wagonhorses commandeered mob.","[unused2] lights clothildes torch, clasps shoulder ofmonsieur darque, watches helplessly asylum wagonhorses commandeered mob.",[unused2],-1,helplessly|commandeered|watches|torch
+318,104,screw courage sticking place,screw courage sticking place,[unused2],1,sticking
+319,105,gaston lefou crash woods full gallop.,[unused2] lefou crash woods full gallop.,[unused2],-1,lefou
+320,105,call war call threatyou bet follow times like theyll justas gaston say,call war call threatyou bet follow times like theyll justas [unused2] say,[unused2],-1,bet|call
+321,105,gaston holds mirror.,[unused2] holds mirror.,[unused2],0,holds
+322,105,show castle,show castle,[unused2],0,
+323,105,mirrorgaston sees hidden path castle.,mirror[unused2] sees hidden path castle.,[unused2],0,sees
+324,110,"belle gazes prison bars, sees darque pacing thefountain. whispers maurice","[unused0] gazes prison bars, sees darque pacing thefountain. whispers maurice",[unused0],-1,darque|gazes|pacing|maurice
+325,110,belle warn beast,[unused0] warn beast,[unused0],-1,
+326,110,"let go, papa. sent back you.","let go, papa. sent back you.",[unused0],0,sent|you|back
+327,110,took there. belle know whathappened maman.,took there. [unused0] know whathappened maman.,[unused0],0,there|know|whathappened|took
+328,110,belle understand.,[unused0] understand.,[unused0],0,
+329,111,shes coming back.,shes coming back.,[unused1],0,coming|back
+330,111,doesnt matter now.just let come.,doesnt matter now.just let come.,[unused1],-1,come
+331,117,"dont lose nerve, lefou.","dont lose nerve, lefou.",[unused2],1,lose
+332,117,gaston approaches west wing stairs.lefou brings face tea pot teacup.,[unused2] approaches west wing stairs.lefou brings face tea pot teacup.,[unused2],0,face|wing|approaches
+333,117,"chapeau spins gaston around land blow whengaston grabs lefou puts line fire. lefou becomes human punching bag cadenza approaches rearsup hind legs. shadow falls across gaston, whodives wayleaving lefou exposed.","chapeau spins [unused2] around land blow when[unused2] grabs lefou puts line fire. lefou becomes human punching bag cadenza approaches rearsup hind legs. shadow falls across [unused2], whodives wayleaving lefou exposed.",[unused2],-1,becomes|exposed|spins|wayleaving|lefou|punching|rearsup|whodives|puts|falls
+334,117,"gaston looks lefou enchanted mirror, thegrand staircase.","[unused2] looks lefou enchanted mirror, thegrand staircase.",[unused2],1,lefou|looks
+335,117,"sorry, old friend.its hero time.","sorry, old friend.its hero time.",[unused2],1,
+336,117,gaston rushes staircase.lefou passes out.,[unused2] rushes staircase.lefou passes out.,[unused2],0,out|passes
+337,120,"gaston finds landing two staircases. unsure one leads beast, holds mirror, illuminates right way. gaston bounds them.","[unused2] finds landing two staircases. unsure one leads beast, holds mirror, illuminates right way. [unused2] bounds them.",[unused2],-1,them|landing|leads|finds|bounds|holds
+338,124,belle rides philippe towards castle. kicks hisflanks double speed.,[unused0] rides philippe towards castle. kicks hisflanks double speed.,[unused0],0,philippe|hisflanks
+339,125,"gaston steps slowly onto beasts turret. beast senses presence, turns. lock eyes. gaston cocks pistol.","[unused2] steps slowly onto beasts turret. beast senses presence, turns. lock eyes. [unused2] cocks pistol.",[unused2],0,turret|pistol|turns|slowly
+340,125,"hello, beast. gaston gaston.belle sent me.","hello, beast. [unused2] [unused2].[unused0] sent me.",[unused2],0,sent
+341,126,belle races stairs turret.,[unused0] races stairs turret.,[unused0],0,stairs
+342,127,love youhonestly think shed want,love youhonestly think shed want,[unused2],1,think|youhonestly|want|love|shed
+343,127,gaston looks edge turret. pulls hiscrossbow reaches back shoulder draw arrow quiverbut theres nothing there.,[unused2] looks edge turret. pulls hiscrossbow reaches back shoulder draw arrow quiverbut theres nothing there.,[unused2],1,theres|back|there|looks|hiscrossbow|shoulder
+344,127,"gaston spins see belle, arrows gripped hands.","[unused2] spins see belle, arrows gripped hands.",[unused2],0,arrows|see
+345,127,"that, belle snaps gastons arrows knee, andtosses away. gaston grabs arm.","that, [unused0] snaps [unused2]s arrows knee, andtosses away. [unused2] grabs arm.",[unused2],0,andtosses|away|knee
+346,127,"return village, marry me, beasts head hang wall","return village, marry me, beasts head hang wall",[unused2],0,marry|beasts
+347,127,pulls awayand uses pivot grab barrel gastons pistol. struggle.,pulls awayand uses pivot grab barrel [unused2]s pistol. struggle.,[unused2],-1,pivot|pistol|awayand
+348,127,"gaston back foot split second, belle yanks pistol hard. gaston, letting go, swings it, seeking balance loose stone, drops side turret","[unused2] back foot split second, belle yanks pistol hard. [unused2], letting go, swings it, seeking balance loose stone, drops side turret",[unused2],-1,letting|back|hard|pistol|seeking
+349,127,"gastons reflexes quick. lets go pistol, grabbing gargoyle swinging window turret. lands spiral staircase.","[unused2]s reflexes quick. lets go pistol, grabbing gargoyle swinging window turret. lands spiral staircase.",[unused2],0,lands|pistol|grabbing|reflexes|swinging
+350,127,"gastons pistol, meantime, clatters down, coming reston landing stone footbridge below.","[unused2]s pistol, meantime, clatters down, coming reston landing stone footbridge below.",[unused2],0,landing|meantime|pistol|coming|down
+351,128,"im coming you, beast","im coming you, beast",[unused2],0,beast|you|coming
+352,128,"gaston continues reaches bottom thespiral staircase. drops window box below, jumps sideways onto another.","[unused2] continues reaches bottom thespiral staircase. drops window box below, jumps sideways onto another.",[unused2],1,sideways|continues|window
+353,128,"belle reaches landing bottom spiral staircase, leaps onto another adjacent landing. looks out, trying see beast turrets.","[unused0] reaches landing bottom spiral staircase, leaps onto another adjacent landing. looks out, trying see beast turrets.",[unused0],1,landing|trying|reaches|looks|leaps|out
+354,128,"finally, belle reaches point see beast faraway turret. screams grip slips.","finally, [unused0] reaches point see beast faraway turret. screams grip slips.",[unused0],-1,see|point|finally
+355,128,roarsbelle came back,roars[unused0] came back,[unused0],0,came|back
+356,128,belletried stop,[unused0]tried stop,[unused0],-1,belletried
+357,128,stay im coming,stay im coming,[unused1],0,coming
+358,128,"belle descends stairs, finally reaching beasts lair.","[unused0] descends stairs, finally reaching beasts lair.",[unused0],1,descends|reaching|finally
+359,128,"beast lands gargoyle walk gaston jumps out, bringing club cracking beasts back. beast roars pain. pushes past gaston.","beast lands gargoyle walk [unused2] jumps out, bringing club cracking beasts back. beast roars pain. pushes past [unused2].",[unused2],-1,back|pain|bringing|lands|cracking|out
+360,128,"gaston landing blow blow beasts back, beast staggers set stairs onto landing stone footbridge gastons pistol came rest earlier.","[unused2] landing blow blow beasts back, beast staggers set stairs onto landing stone footbridge [unused2]s pistol came rest earlier.",[unused2],0,landing|back|rest|earlier|pistol|came|set
+361,128,"stop gaston,","stop [unused2],",[unused0],-1,stop
+362,128,belle watches beast lumbering across footbridgewhich crumbles mighty footfall.,[unused0] watches beast lumbering across footbridgewhich crumbles mighty footfall.,[unused0],0,footfall|mighty|lumbering
+363,128,gaston lifts club deliver death blowwhen beast snatches it. yanks club away hurls far wall.,[unused2] lifts club deliver death blowwhen beast snatches it. yanks club away hurls far wall.,[unused2],-1,hurls|away|far|deliver|club
+364,128,"snarl, beasts paw around gastons throat. lifts gaston swings edge landing.","snarl, beasts paw around [unused2]s throat. lifts [unused2] swings edge landing.",[unused2],0,paw|beasts|edge|throat
+365,128,"snivelling no. dont let go. please. dont hurt me, beast. gaston anything.","snivelling no. dont let go. please. dont hurt me, beast. [unused2] anything.",[unused2],-1,dont|snivelling|hurt
+366,128,"gaston scrambles feet, beast lunges, chasing away outer staircase cupola.","[unused2] scrambles feet, beast lunges, chasing away outer staircase cupola.",[unused2],0,scrambles|away|chasing
+367,129,"belle gazes proudly beasts eyes, across final chasm separates them.","[unused0] gazes proudly beasts eyes, across final chasm separates them.",[unused0],1,separates|beasts|proudly|them
+368,130,"belle cradles beasts head. anguished. lies there, breathing heavily. softly, beast rests paw belles hand. fading, eyes look perfect love.","[unused0] cradles beasts head. anguished. lies there, breathing heavily. softly, beast rests paw [unused0]s hand. fading, eyes look perfect love.",[unused0],1,softly|anguished|breathing|heavily|look|there|head|paw
+369,130,came back.,came back.,[unused1],0,came|back
+370,130,course belle came back.belle never leave again.,course [unused0] came back.[unused0] never leave again.,[unused0],1,never|leave|again|came
+371,130,im afraid turn leave.,im afraid turn leave.,[unused1],-1,leave
+372,130,together now.its going befine. youll see. beast least belle got see one last time.,together now.its going befine. youll see. beast least [unused0] got see one last time.,[unused0],0,see|beast|got|together|going
+373,130,"no... please, no...","no... please, no...",[unused0],1,
+374,132,"beast please, dont leave me.come back.","beast please, dont leave me.come back.",[unused0],1,leave|back
+375,132,"silent disbelief, belle runs fingers hair. looks princes blue eyes. him. tears ofgrief turn tears joy lean firstkiss.","silent disbelief, [unused0] runs fingers hair. looks princes blue eyes. him. tears ofgrief turn tears joy lean firstkiss.",[unused0],1,turn|runs|looks|him
+376,135,belle prince surrounded staff.plumette curtsies belle,[unused0] prince surrounded staff.plumette curtsies [unused0],[unused0],0,surrounded
+377,136,belle runs hand princes smooth cheek.,[unused0] runs hand princes smooth cheek.,[unused0],1,smooth
+378,136,would feel growing abeard,would feel growing abeard,[unused0],1,growing|feel|abeard

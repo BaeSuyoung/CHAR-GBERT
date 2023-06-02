@@ -1,0 +1,13 @@
+num   data_type   file_name   main_char
+1   book   harry_potter   [harry,r_ron,d_malfoy]
+3   book   the_wonderful_wizard_of_oz   [dorothy,scarecrow,witch]
+4   book   alice_in_wonderland   [alice,hatter,queen]
+5   book   a_christmas_carol   [scrooge,bob]
+6   book   the_great_gatsby   [gatsby,daisy,tom]
+7   book   peter_pan   [peter,wendy,hook]
+8   script   snow_white   [snow white,eric,ravenna]
+9   script   beauty_and_the_beast   [belle,the beast,gaston]
+10   script   catch_me_if_you_can   [frank,brenda,joe]
+11   script   dark_knight   [batman,gordon,joker]
+12   script   shawshank_redemption   [andy,ellis,norton]
+13   script   forrest_gump   [forrest,jenny,lt. dan]

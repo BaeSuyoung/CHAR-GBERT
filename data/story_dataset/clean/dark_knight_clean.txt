@@ -1,0 +1,641 @@
+,chapter,text,mask_sent,char,sentiment,keywords
+0,17,im betting joker told kill soon loaded cash.,im betting [unused2] told kill soon loaded cash.,[unused2],-1,loaded|soon|betting|told
+1,17,joker believe doesnt kill you...,[unused2] believe doesnt kill you...,[unused2],1,believe|you
+2,17,"bank managers eyes go wide. joker rises, strolls towards bus, purple thread attached grenade pin unraveling purple lining jacket walks. joker climbs bus, shuts rear door,","bank managers eyes go wide. [unused2] rises, strolls towards bus, purple thread attached grenade pin unraveling purple lining jacket walks. [unused2] climbs bus, shuts rear door,",[unused2],1,unraveling|rear|lining|rises|attached|strolls|climbs
+3,25,"gordon thought go look mother, detective.","[unused1] thought go look mother, detective.",[unused1],0,thought
+4,25,gordon gets up. looks sky bat signal.,[unused1] gets up. looks sky bat signal.,[unused1],0,looks|gets
+5,25,often doesnt. gordon like reminding everybody hes there.,often doesnt. [unused1] like reminding everybody hes there.,[unused1],-1,there|often|reminding
+6,25,hopefully... hes busy.,hopefully... hes busy.,[unused1],0,hes|hopefully
+7,29,"bat shadow stumbles backwards terror, leaving bent shotgun batmans hand. batman opens hand,","bat shadow stumbles backwards terror, leaving bent shotgun [unused0]s hand. [unused0] opens hand,",[unused0],1,leaving|opens
+8,29,"batman bears dogs mauling another bat shadow draws grappling gun shoots grapple fake batmans leg rips dogs, one dog hanging batman pulls unconscious man away... chechen runs ramp towards exit...","[unused0] bears dogs mauling another bat shadow draws grappling gun shoots grapple fake [unused0]s leg rips dogs, one dog hanging [unused0] pulls unconscious man away... chechen runs ramp towards exit...",[unused0],-1,hanging|mauling|bears|pulls|draws|leg|away|fake|grappling|runs
+9,29,"batman kicks dog fake batman chechen gets suv another dog locks jaws around batmans forearm, ripping, tearing batman swings dog head smashes ground jaws open...","[unused0] kicks dog fake [unused0] chechen gets suv another dog locks jaws around [unused0]s forearm, ripping, tearing [unused0] swings dog head smashes ground jaws open...",[unused0],-1,jaws|gets|kicks|tearing|dog|suv|locks|ripping|forearm
+10,29,"batman rises, engine races behind cant turn time blam hes slammed sideways speeding van.","[unused0] rises, engine races behind cant turn time blam hes slammed sideways speeding van.",[unused0],-1,speeding|rises|slammed
+11,30,"scarecrow, driving, nods hits gas... batman raises hand, revealing jointed mangle pistons.","scarecrow, driving, nods hits gas... [unused0] raises hand, revealing jointed mangle pistons.",[unused0],1,revealing|jointed|raises|nods
+12,30,batman chops straight windshield pulls hand chops mangle gets stuck scarecrow steers towards column...,[unused0] chops straight windshield pulls hand chops mangle gets stuck scarecrow steers towards column...,[unused0],1,straight|mangle|gets
+13,31,"batman cant free turns dial forearm piston explosive bolts blow, freeing gauntlet mangle rolls free van scrapes column barrels circular exit ramp.","[unused0] cant free turns dial forearm piston explosive bolts blow, freeing gauntlet mangle rolls free van scrapes column barrels circular exit ramp.",[unused0],-1,turns|freeing
+14,31,"batman rises. phony batman lying ground watches batman climbs edge ten story corkscrew ramp stands there, waiting something.","[unused0] rises. phony [unused0] lying ground watches [unused0] climbs edge ten story corkscrew ramp stands there, waiting something.",[unused0],-1,waiting|stands|rises|lying|edge|there
+15,32,"chechens men lined wall, bound zip ties. fake batmen. batman dumps scarecrow next three batmen, rips mask off.","chechens men lined wall, bound zip ties. fake batmen. [unused0] dumps scarecrow next three batmen, rips mask off.",[unused0],-1,mask|dumps|lined|off
+16,32,trying help,trying help,[unused0],1,trying
+17,32,batman dont need help.,[unused0] dont need help.,[unused0],-1,
+18,32,batman silences scarecrow boot. turns batman,[unused0] silences scarecrow boot. turns [unused0],[unused0],-1,turns|scarecrow
+19,32,dont let find again.,dont let find again.,[unused0],0,again|find
+20,32,batman moves towards batmobile.,[unused0] moves towards batmobile.,[unused0],0,moves
+21,32,need us theres one war,need us theres one war,[unused0],-1,theres|need
+22,32,im wearing hockey pads.,im wearing hockey pads.,[unused0],0,wearing
+23,32,batman looks makeshift costume batmobile roars past.,[unused0] looks makeshift costume batmobile roars past.,[unused0],0,looks
+24,33,lieutenant gordon ducks barrage shouted questions press picks way lobby bank.,lieutenant [unused1] ducks barrage shouted questions press picks way lobby bank.,[unused1],1,shouted|picks
+25,35,"gordon looks grainy blow jokers face. sweating clown makeup plastered thick around mouth.gordon put out, morning put big top central holding sell tickets. whats hiding makeup","[unused1] looks grainy blow [unused2]s face. sweating clown makeup plastered thick around mouth.[unused1] put out, morning put big top central holding sell tickets. whats hiding makeup",[unused1],-1,face|hiding|put|sweating|looks|out|holding|plastered
+26,35,gordon approaches forensic photographer shooting grumpys body. gordon crouches look clown mask. batman steps shadows. gordon nods ramirez.,[unused1] approaches forensic photographer shooting grumpys body. [unused1] crouches look clown mask. batman steps shadows. [unused1] nods ramirez.,[unused1],0,shooting|photographer|forensic|look
+27,35,again. others,again. others,[unused0],0,again
+28,35,another bunch small timers.,another bunch small timers.,[unused1],0,
+29,35,batman pulls device belt moves bundles cash scattered near clowns body. device pings.,[unused0] pulls device belt moves bundles cash scattered near clowns body. device pings.,[unused0],0,device|pulls|scattered
+30,35,batman picks bundle. hands gordon.,[unused0] picks bundle. hands gordon.,[unused0],0,picks
+31,35,marked bills batman gave you.,marked bills [unused0] gave you.,[unused0],0,marked|you|gave
+32,35,detectives making drug buys weeks. bank another drop mob. makes five banks weve found bulk dirty cash.,detectives making drug buys weeks. bank another drop mob. makes five banks weve found bulk dirty cash.,[unused1],-1,making|makes|found|weve
+33,35,time move in.,time move in.,[unused0],0,
+34,35,gordon waves photo.,[unused1] waves photo.,[unused1],0,
+35,35,joker guy,[unused2] guy,[unused1],1,
+36,35,one man entire mob wait.,one man entire mob wait.,[unused0],0,
+37,35,"well hit banks simultaneously. swat teams, backup.","well hit banks simultaneously. swat teams, backup.",[unused1],1,simultaneously|well
+38,35,"gordon holds bundle banknotes.when new d.a. gets wind this, hell want in.","[unused1] holds bundle banknotes.when new d.a. gets wind this, hell want in.",[unused1],-1,want|gets|holds|bundle
+39,35,hard keep out.,hard keep out.,[unused1],-1,keep|hard|out
+40,35,gordon bags cash.,[unused1] bags cash.,[unused1],0,
+41,35,batman already gone.,[unused0] already gone.,[unused0],0,already|gone
+42,39,"alfred places cup coffee front batman, stitching cut arm.takes needle stitch make bloody mess.","alfred places cup coffee front [unused0], stitching cut arm.takes needle stitch make bloody mess.",[unused0],-1,stitching|make|needle|cup
+43,39,batman learn mistakes.,[unused0] learn mistakes.,[unused0],-1,
+44,39,armor... im carrying much weight batman need faster.,armor... im carrying much weight [unused0] need faster.,[unused0],0,faster|need|carrying
+45,39,"dog. look big dog. copycats last night, alfred. guns.","dog. look big dog. copycats last night, alfred. guns.",[unused0],0,alfred|look
+46,39,wasnt exactly batman mind batman said batman wanted inspire people.,wasnt exactly [unused0] mind [unused0] said [unused0] wanted inspire people.,[unused0],1,exactly|wanted|said
+47,39,batman indicates monitor. handsome man suit.,[unused0] indicates monitor. handsome man suit.,[unused0],1,indicates
+48,39,batman am. closely. batman need know trusted.,[unused0] am. closely. [unused0] need know trusted.,[unused0],1,closely|know|trusted
+49,39,"ever took one, batman might.","ever took one, [unused0] might.",[unused0],0,ever|took
+50,39,batman limits.,[unused0] limits.,[unused0],-1,
+51,39,batman cant afford know them.,[unused0] cant afford know them.,[unused0],0,know|them
+52,39,know much like say batman told so.,know much like say [unused0] told so.,[unused0],1,know|told
+53,43,gordon stands dent enters. two men shake.,[unused1] stands dent enters. two men shake.,[unused1],-1,stands|shake
+54,43,word youve got hell right cross. shame sals going walk.,word youve got hell right cross. shame sals going walk.,[unused1],-1,got|going|hell
+55,43,liaise various agencies,liaise various agencies,[unused1],0,liaise
+56,43,official policy arrest vigilante known batman sight.,official policy arrest vigilante known [unused0] sight.,[unused1],-1,known
+57,43,"town, fewer people know something, safer operation.","town, fewer people know something, safer operation.",[unused1],1,fewer|safer|know
+58,43,gordon didnt work cops youd investigated making name i.a. id working alone. gordon dont get political points idealist gordon best gordon gordon have.,[unused1] didnt work cops youd investigated making name i.a. id working alone. [unused1] dont get political points idealist [unused1] best [unused1] [unused1] have.,[unused1],1,working|get|investigated|have|youd|making|alone
+59,43,dent looks gordon. considering proceed.,dent looks [unused1]. considering proceed.,[unused1],0,considering|looks
+60,43,gordon give names banks.,[unused1] give names banks.,[unused1],0,give
+61,43,"rises dont sell me, dent. know youre gothams white knight.dent grins gordon hear theyve got different nickname m.c.u..","rises dont sell me, dent. know youre gothams white knight.dent grins [unused1] hear theyve got different nickname m.c.u..",[unused1],1,got|know|dont|sell
+62,46,batman standing window.,[unused0] standing window.,[unused0],0,standing
+63,46,ok. cancel deal.,ok. cancel deal.,[unused0],1,
+64,46,batman needed closer look books.,[unused0] needed closer look books.,[unused0],0,closer|needed
+65,46,batman need new suit.,[unused0] need new suit.,[unused0],0,need
+66,46,"im talking fashion, mr.fox, much function.","im talking fashion, mr.fox, much function.",[unused0],0,talking
+67,46,batman pulls diagrams. fox looks over.,[unused0] pulls diagrams. fox looks over.,[unused0],0,looks|pulls|over
+68,46,sure make backing driveway easier.fox batman see batman do.,sure make backing driveway easier.fox [unused0] see [unused0] do.,[unused0],1,backing|see|make
+69,47,rachel fancy that.,rachel fancy that.,[unused0],0,
+70,47,"rachel, natascha. natascha, rachel.","rachel, natascha. natascha, rachel.",[unused0],0,natascha
+71,47,batman certainly hope not.,[unused0] certainly hope not.,[unused0],1,not|certainly|hope
+72,47,lets put couple tables together.,lets put couple tables together.,[unused0],0,put|together
+73,47,prima ballerina moscow ballet.,prima ballerina moscow ballet.,[unused0],0,ballerina
+74,47,"youre ballet, dent","youre ballet, dent",[unused0],0,
+75,48,batman raised here. batman turned ok.,[unused0] raised here. [unused0] turned ok.,[unused0],1,raised|here|turned
+76,48,"palisades sure. know, new d.a. might want figure jurisdiction ends.","palisades sure. know, new d.a. might want figure jurisdiction ends.",[unused0],1,ends|know|want
+77,48,exactly. appointed batman,exactly. appointed [unused0],[unused0],0,exactly|appointed
+78,48,batman watches dent. sees passion.,[unused0] watches dent. sees passion.,[unused0],1,sees
+79,48,"well, youve sold me, dent. im gonna throw fundraiser.","well, youve sold me, dent. im gonna throw fundraiser.",[unused0],1,youve|well|sold|throw
+80,48,"batman dont think understand. one fundraiser pals, youll never need another cent.","[unused0] dont think understand. one fundraiser pals, youll never need another cent.",[unused0],0,need|youll|think|never|dont
+81,53,"joker. sweaty clown makeup obscuring awful scars widen mouth permanent, ghoulish smile.","[unused2]. sweaty clown makeup obscuring awful scars widen mouth permanent, ghoulish smile.",[unused2],0,widen|sweaty|obscuring
+82,53,joker thought joker told bad jokes.,[unused2] thought [unused2] told bad jokes.,[unused2],-1,thought|told
+83,53,joker pulls freshly sharpened pencil.,[unused2] pulls freshly sharpened pencil.,[unused2],1,sharpened|freshly|pulls
+84,53,magic trick,magic trick,[unused2],-1,trick
+85,53,"joker slams pencil table, leaving upright.","[unused2] slams pencil table, leaving upright.",[unused2],1,pencil|leaving
+86,53,"gambol nods. bodyguard moves joker sidesteps grips head slams it, face down, onto table...","gambol nods. bodyguard moves [unused2] sidesteps grips head slams it, face down, onto table...",[unused2],1,face|moves|down|head
+87,53,bodyguard goes limp slides table. pencil gone. magic. joker bows. grins gambol.,bodyguard goes limp slides table. pencil gone. magic. [unused2] bows. grins gambol.,[unused2],1,goes|limp|bows|gone
+88,53,laughs. joker tries ignore.,laughs. [unused2] tries ignore.,[unused2],1,ignore|tries
+89,53,guy like me... joker know youre holding little group therapy session broad daylight. joker know youre afraid go night. batman. hes shown gotham true colors. dents beginning. indicates lau called plan batman jurisdiction. hell find make squeal. smiles lau joker tell squealers every time.,guy like me... [unused2] know youre holding little group therapy session broad daylight. [unused2] know youre afraid go night. [unused0]. hes shown gotham true colors. dents beginning. indicates lau called plan [unused0] jurisdiction. hell find make squeal. smiles lau [unused2] tell squealers every time.,[unused2],1,beginning|find|shown|holding|called|lau|indicates
+90,53,simple. kill batman.,simple. kill [unused0].,[unused2],-1,kill
+91,53,"like mother used tell youre good something, never free.","like mother used tell youre good something, never free.",[unused2],1,youre|never|used
+92,53,"gambol gets up, moving joker, casually opens coat, revealing explosives wired chest. gambol stops.","gambol gets up, moving [unused2], casually opens coat, revealing explosives wired chest. gambol stops.",[unused2],1,gets|revealing|opens|wired|casually|moving
+93,53,lets blow proportion.,lets blow proportion.,[unused2],0,
+94,53,let know change minds.,let know change minds.,[unused2],0,change|know
+95,53,joker strolls out. maroni turns lau.,[unused2] strolls out. maroni turns lau.,[unused2],1,turns|out|strolls
+96,54,gordon hurries steps bank. swat teams rush various banks.,[unused1] hurries steps bank. swat teams rush various banks.,[unused1],0,rush
+97,56,gordon stands almost empty bank vault. furious.,[unused1] stands almost empty bank vault. furious.,[unused1],-1,stands|almost
+98,58,batman emerges shadows. man next glowing spotlight turns. dent.,[unused0] emerges shadows. man next glowing spotlight turns. dent.,[unused0],0,glowing|emerges
+99,58,"yeah left vaults marked bills knew coming soon office got involved, theres leak","yeah left vaults marked bills knew coming soon office got involved, theres leak",[unused1],-1,theres|involved|marked|left|got|soon|coming|knew
+100,58,"dont try cloud fact clearly maronis got people office, dent.","dont try cloud fact clearly maronis got people office, dent.",[unused1],1,clearly|try|got
+101,58,"batman get you, get talk","[unused0] get you, get talk",[unused0],0,get|you
+102,58,"batman gone. dent looks around, startled. gordon smirks.","[unused0] gone. dent looks around, startled. gordon smirks.",[unused0],-1,startled|looks|gone
+103,59,im sure youve always wanted go hong kong.,im sure youve always wanted go hong kong.,[unused0],1,wanted|always
+104,60,batman think mr. lau deserves personal touch.,[unused0] think mr. lau deserves personal touch.,[unused0],0,think|deserves
+105,61,without landing.,without landing.,[unused0],0,
+106,61,fox opens cabinet reveal components new bat suit. armored plating secured mesh. batman lifts arm.,fox opens cabinet reveal components new bat suit. armored plating secured mesh. [unused0] lifts arm.,[unused0],1,opens|secured|armored
+107,61,batman examines double blade scallops gauntlet...,[unused0] examines double blade scallops gauntlet...,[unused0],0,examines
+108,62,batman examines parachute harness. alfred unfolds diagram navy cargo plane giant mounted front.,[unused0] examines parachute harness. alfred unfolds diagram navy cargo plane giant mounted front.,[unused0],0,examines|mounted
+109,62,"south korean smugglers. run flights pyongyang, radar whole way. think alibi","south korean smugglers. run flights pyongyang, radar whole way. think alibi",[unused0],-1,think|run
+110,64,batman looks newspaper. alfred points seaplane gently touching across bay.,[unused0] looks newspaper. alfred points seaplane gently touching across bay.,[unused0],1,seaplane|looks|touching|gently
+111,64,"batman tosses large, waterproof kit bag water jumps it. begins swimming sea plane.","[unused0] tosses large, waterproof kit bag water jumps it. begins swimming sea plane.",[unused0],0,tosses|begins|swimming|jumps
+112,65,"bodyguards flop body wrapped garbage bags onto table. bounty hunters wait corner. gambol pulls back one garbage bags, revealing jokers bloodied face. gambol spits. turns face bounty hunters.","bodyguards flop body wrapped garbage bags onto table. bounty hunters wait corner. gambol pulls back one garbage bags, revealing [unused2]s bloodied face. gambol spits. turns face bounty hunters.",[unused2],-1,pulls|back|revealing|flop|turns|wait|bloodied
+113,65,"behind gambol, joker sits thrusts knives bodyguards chests. gambol spins see crazy grin jokers spit dribbled face","behind gambol, [unused2] sits thrusts knives bodyguards chests. gambol spins see crazy grin [unused2]s spit dribbled face",[unused2],1,spit|see|thrusts
+114,65,joker gets switchblade gambols mouth sharp metal pulling cheek taut. bounty hunters subdue remaining bodyguards.,[unused2] gets switchblade gambols mouth sharp metal pulling cheek taut. bounty hunters subdue remaining bodyguards.,[unused2],1,remaining|pulling|gets|mouth
+115,65,joker tugs gambols cheek blade.,[unused2] tugs gambols cheek blade.,[unused2],1,
+116,65,joker looks ashen faces remaining body guards. smiles.,[unused2] looks ashen faces remaining body guards. smiles.,[unused2],1,faces|looks|remaining
+117,65,joker flicks wrist body guards flinch gambol goes down. joker turns them.,[unused2] flicks wrist body guards flinch gambol goes down. [unused2] turns them.,[unused2],1,them|wrist|turns|goes|down
+118,65,three bodyguards nod. joker snaps pool cue.,three bodyguards nod. [unused2] snaps pool cue.,[unused2],1,nod|snaps
+119,65,joker drops broken cue middle men.,[unused2] drops broken cue middle men.,[unused2],-1,broken|drops
+120,70,"two smugglers steal glances batman, crouched rear balaclava flight suit. copilot signals batman, pulls oxygen mask stands up. rear plane opens. batman steps edge, jumps.","two smugglers steal glances [unused0], crouched rear balaclava flight suit. copilot signals [unused0], pulls oxygen mask stands up. rear plane opens. [unused0] steps edge, jumps.",[unused0],-1,rear|crouched|stands|pulls
+121,71,"speeding past highest floors skyscrapers, seconds impact. batman pulls chute drops water...","speeding past highest floors skyscrapers, seconds impact. [unused0] pulls chute drops water...",[unused0],0,speeding|impact|pulls
+122,72,"batman pulls water, dragging pack.","[unused0] pulls water, dragging pack.",[unused0],0,dragging|pulls
+123,73,batman stops halfway crowded commuter escalator. takes camera lines shot like tourist.,[unused0] stops halfway crowded commuter escalator. takes camera lines shot like tourist.,[unused0],1,shot|stops|halfway|crowded|takes
+124,73,"batman turns find fox standing there, street map out.","[unused0] turns find fox standing there, street map out.",[unused0],0,find|turns|there|standing|out
+125,73,hows view l.s.i. holdings,hows view l.s.i. holdings,[unused0],0,view
+126,73,"fox shows batman phone. display. map laus office suite. batman takes phone, impressed.","fox shows [unused0] phone. display. map laus office suite. [unused0] takes phone, impressed.",[unused0],1,map|shows|takes
+127,73,smiles sonar. like,smiles sonar. like,[unused0],1,sonar
+128,73,"batman nods, moves away.","[unused0] nods, moves away.",[unused0],0,moves|away
+129,73,mr. batman batman turns good luck.,mr. [unused0] [unused0] turns good luck.,[unused0],1,turns
+130,74,"moving towards tallest building glittering skyline find batman, crouched roof. blades gauntlets click place. dons helmet like cowl.his cape form hard faceted pack.","moving towards tallest building glittering skyline find [unused0], crouched roof. blades gauntlets click place. dons helmet like cowl.his cape form hard faceted pack.",[unused0],1,helmet|crouched|form|glittering|hard|moving
+131,74,"stands pulls two black boxes belt, clicks together unfolds rifle like device. batman scopes second, lower building. adjust setting fires four times...","stands pulls two black boxes belt, clicks together unfolds rifle like device. [unused0] scopes second, lower building. adjust setting fires four times...",[unused0],1,clicks|lower|pulls|scopes|belt|together|setting
+132,76,"batman launches glittering night, dropping tall tower... pack bursts open, becoming bat wings glides lower building, streaking around it, banking hard line window rear...","[unused0] launches glittering night, dropping tall tower... pack bursts open, becoming bat wings glides lower building, streaking around it, banking hard line window rear...",[unused0],-1,becoming|lower|streaking|dropping|open|glittering|banking|launches
+133,85,"muzzle flash. batman, bearing like demon.","muzzle flash. [unused0], bearing like demon.",[unused0],1,bearing
+134,85,"lau fires, fires batman tackles him. batman pulls small pack straps onto lau","lau fires, fires [unused0] tackles him. [unused0] pulls small pack straps onto lau",[unused0],0,him|pulls|tackles
+135,85,"detective looks around hears low rumble...batman jerks ripcord laus pack. cops cower weather balloon explodes pack, unreeling high test nylon. cops cock weapons.","detective looks around hears low rumble...[unused0] jerks ripcord laus pack. cops cower weather balloon explodes pack, unreeling high test nylon. cops cock weapons.",[unused0],-1,cower|jerks|looks|cock
+136,85,"suddenly, massive roars over. large front plane snags line lau batman yanked hole ceiling","suddenly, massive roars over. large front plane snags line lau [unused0] yanked hole ceiling",[unused0],0,lau|suddenly|yanked
+137,87,gordon looking case files. ramirez walks in.,[unused1] looking case files. ramirez walks in.,[unused1],0,looking
+138,88,"gordon follows ramirez crowd excited cops. ground, trussed like chicken lau. sign taped chest. please deliver lieutenant gordon.","[unused1] follows ramirez crowd excited cops. ground, trussed like chicken lau. sign taped chest. please deliver lieutenant [unused1].",[unused1],1,excited|trussed|follows|ramirez|please|taped
+139,92,cant go county. gordon keep holding cells.,cant go county. [unused1] keep holding cells.,[unused1],0,holding
+140,92,trust county,trust county,[unused1],1,
+141,92,lau stays.,lau stays.,[unused1],0,
+142,92,"gordon am, counselor.","[unused1] am, counselor.",[unused1],0,
+143,94,maroni shakes head. spots gordon walking dangling,maroni shakes head. spots [unused1] walking dangling,[unused1],0,dangling|head|walking
+144,94,boy looks good tube.,boy looks good tube.,[unused1],1,looks
+145,94,"dont worry, theyre coming, too.","dont worry, theyre coming, too.",[unused1],1,too|coming
+146,96,"judge surrillo turns page. playing card sits there. joker. glances it, curious, puts one side.","judge surrillo turns page. playing card sits there. [unused2]. glances it, curious, puts one side.",[unused2],1,turns|playing|puts|there
+147,97,"mayor, commissioner loeb, gordon look dent enters.","mayor, commissioner loeb, [unused1] look dent enters.",[unused1],0,look
+148,97,"forty nine, sir.","forty nine, sir.",[unused1],0,
+149,97,mayor waves gordon loeb out.,mayor waves [unused1] loeb out.,[unused1],0,out|loeb
+150,99,"batman lowered flagpole. fake batman saw earlier. pinned chest knife, playing card. joker. gordon moves closer body. card writing it. real batman please stand","[unused0] lowered flagpole. fake [unused0] saw earlier. pinned chest knife, playing card. [unused2]. [unused1] moves closer body. card writing it. real [unused0] please stand",[unused0],0,lowered|earlier|fake|closer|writing|playing|pinned|stand
+151,100,"batman comes living room, excited. alfred supervising party arrangements.","[unused0] comes living room, excited. alfred supervising party arrangements.",[unused0],1,excited|comes|supervising|alfred
+152,100,hows going,hows going,[unused0],0,going
+153,100,think batman wanted hold party dent,think [unused0] wanted hold party dent,[unused0],1,wanted|think
+154,100,droll. wrong. actually dent. see,droll. wrong. actually dent. see,[unused0],-1,actually|see
+155,100,"crazy batmans made gotham. want order gotham batman go. so... leans batman must take mask, turn in. every day doesnt... people die. starting tonight. im man word.","crazy [unused0]s made gotham. want order gotham [unused0] go. so... leans [unused0] must take mask, turn in. every day doesnt... people die. starting tonight. im man word.",[unused2],-1,die|take|starting|made|leans|doesnt
+156,100,batman turns alfred. silent.,[unused0] turns alfred. silent.,[unused0],0,turns|alfred
+157,102,batmans chopper touches down. spills clutch,[unused0]s chopper touches down. spills clutch,[unused0],0,chopper|down|clutch
+158,104,"ramirez catches gordon, holding paperwork.","ramirez catches [unused1], holding paperwork.",[unused1],0,holding
+159,104,"d.n.a. belongs judge surrillo, dent commissioner loeb.gordon jokers telling us hes targeting get unit surrillos house, tell wuertz find dent get protective custody. wheres commissioner","d.n.a. belongs judge surrillo, dent commissioner loeb.gordon [unused2]s telling us hes targeting get unit surrillos house, tell wuertz find dent get protective custody. wheres commissioner",[unused2],0,telling|get|tell|commissioner|find|targeting
+160,104,seal building. one till gordon get there.,seal building. one till [unused1] get there.,[unused1],-1,there|get
+161,105,batman walks edge balcony looks gotham. hears someone behind rachel.,[unused0] walks edge balcony looks gotham. hears someone behind rachel.,[unused0],0,gotham|edge
+162,105,shakes head batman meant every word.,shakes head [unused0] meant every word.,[unused0],0,head
+163,105,batman moves closer rachel. takes arm.,[unused0] moves closer rachel. takes arm.,[unused0],0,moves|closer|takes
+164,105,"day told about, day gotham longer needs batman. coming.","day told about, day gotham longer needs [unused0]. coming.",[unused0],-1,longer|coming|gotham|told|about
+165,105,rachel looks batman. conflicted. moves closer.,rachel looks [unused0]. conflicted. moves closer.,[unused0],0,looks|conflicted|closer
+166,105,"batman takes rachels arms, looking her, excited.","[unused0] takes rachels arms, looking her, excited.",[unused0],1,her|excited|looking|takes
+167,105,"happening dent hero. locked half citys criminals, without wearing mask. gotham needs hero face.","happening dent hero. locked half citys criminals, without wearing mask. gotham needs hero face.",[unused0],1,wearing|happening|needs|locked
+168,108,"gordon enters find loeb, flanked armed cops.","[unused1] enters find loeb, flanked armed cops.",[unused1],0,flanked|find
+169,108,gordon checks window. turns men.,[unused1] checks window. turns men.,[unused1],0,window
+170,108,"secure. gordon want floor floor search entire building. turns loeb im sorry, sir. believe joker made threat life.","secure. [unused1] want floor floor search entire building. turns loeb im sorry, sir. believe [unused2] made threat life.",[unused1],-1,turns|believe|made
+171,110,"sir, joker card trace d.n.a.","sir, [unused2] card trace d.n.a.",[unused1],1,
+172,110,"bang door. gordon pulls weapon, opens it.","bang door. [unused1] pulls weapon, opens it.",[unused1],-1,opens|weapon
+173,110,gordon looks stephenss list.,[unused1] looks stephenss list.,[unused1],0,looks
+174,110,somebody access house office mustve lifted tissue glass...,somebody access house office mustve lifted tissue glass...,[unused1],0,lifted
+175,110,"gordon, realizing, spins around","[unused1], realizing, spins around",[unused1],0,spins|realizing
+176,112,"joker purple suit, make up. friends. joker smashes wuertz head steps him, racking shotgun.","[unused2] purple suit, make up. friends. [unused2] smashes wuertz head steps him, racking shotgun.",[unused2],1,racking|make|smashes|him
+177,112,good evening. entertainment.,good evening. entertainment.,[unused2],1,
+178,113,batman moving behind him. fast,[unused0] moving behind him. fast,[unused0],0,him|moving
+179,113,rachels eyes go wide batman puts dent sleeper hold,rachels eyes go wide [unused0] puts dent sleeper hold,[unused0],0,puts
+180,113,theyve come him.,theyve come him.,[unused0],0,come|him
+181,115,"thug appears front batman, toting shotgun.","thug appears front [unused0], toting shotgun.",[unused0],0,appears|toting
+182,115,"batman flips shotgun around mans hands uses fulcrum snap forearm smashes jaw stock without breaking step, field stripping shotgun tossing pieces different directions.","[unused0] flips shotgun around mans hands uses fulcrum snap forearm smashes jaw stock without breaking step, field stripping shotgun tossing pieces different directions.",[unused0],0,flips|breaking|tossing|hands|jaw|stripping|uses
+183,116,joker one question. dent silence joker settle loved ones...,[unused2] one question. dent silence [unused2] settle loved ones...,[unused2],1,settle
+184,116,distinguished gentleman steps jokers path.,distinguished gentleman steps [unused2]s path.,[unused2],0,distinguished|path
+185,116,"know, remind father. grabs joker hated father.","know, remind father. grabs [unused2] hated father.",[unused2],-1,remind|hated
+186,116,joker blade gentlemans mouth.,[unused2] blade gentlemans mouth.,[unused2],1,mouth
+187,116,joker drops gentleman. turns rachel.,[unused2] drops gentleman. turns rachel.,[unused2],1,turns|drops
+188,116,"hello, beautiful. must dents squeeze. runs knife across cheek beautiful. look nervous scars isnt wanna know joker got joker wife, beautiful like you. tells joker worry much. says joker need smile more. gambles. gets deep sharks. one day carve face, weve got money surgeries. cant take it. presses knife cheek joker want see smile again. joker want know joker dont care scars. joker put razor mouth myself... know starts laughing cant stand sight me... crying leaves see, joker see funny side. im always smiling.","hello, beautiful. must dents squeeze. runs knife across cheek beautiful. look nervous scars isnt wanna know [unused2] got [unused2] wife, beautiful like you. tells [unused2] worry much. says [unused2] need smile more. gambles. gets deep sharks. one day carve face, weve got money surgeries. cant take it. presses knife cheek [unused2] want see smile again. [unused2] want know [unused2] dont care scars. [unused2] put razor mouth myself... know starts laughing cant stand sight me... crying leaves see, [unused2] see funny side. im always smiling.",[unused2],1,put|know|tells|much|look|presses|want|dont|sight|gets|carve|take|smiling|runs|myself|see|always|says|laughing|squeeze|more|starts|crying|again|got|you|isnt|weve|smile
+189,117,batman doesnt answer. walks closet pulls false wall. batman steps safe room.,[unused0] doesnt answer. walks closet pulls false wall. [unused0] steps safe room.,[unused0],1,closet
+190,118,joker raises knife rachels cheek. slugs him. smiles.,[unused2] raises knife rachels cheek. slugs him. smiles.,[unused2],1,him|raises|cheek
+191,118,little fight you. joker like that.,little fight you. [unused2] like that.,[unused2],1,you
+192,118,youre going love me.,youre going love me.,[unused0],1,going
+193,118,"joker turns. batman catches blow, spins disarms jokers men jump batman takes two time disarming thugs breaking forearms joker clicks blade toe shoe kicks jabbing plates armor covering batmans ribcage batman hurls joker across room. one jokers men lunges batman lays cold.","[unused2] turns. [unused0] catches blow, spins disarms [unused2]s men jump [unused0] takes two time disarming thugs breaking forearms [unused2] clicks blade toe shoe kicks jabbing plates armor covering [unused0]s ribcage [unused0] hurls [unused2] across room. one [unused2]s men lunges [unused0] lays cold.",[unused2],1,blade|covering|lays|jump|disarming|breaking|jabbing|ribcage|spins|turns|takes
+194,118,joker another knife pressed rachels neck.,[unused2] another knife pressed rachels neck.,[unused2],1,pressed
+195,118,sure. take mask show us are...,sure. take mask show us are...,[unused2],1,take|are
+196,118,rachel shakes head batman. joker raises shotgun side blows pane glass next him. joker dangles rachel window.,rachel shakes head [unused0]. [unused2] raises shotgun side blows pane glass next him. [unused2] dangles rachel window.,[unused2],1,dangles|raises|him|head|blows
+197,118,laughs poor choice words...,laughs poor choice words...,[unused2],-1,
+198,118,lets drop rachel falls onto sloping glass roof sliding towards edge. batman dives,lets drop rachel falls onto sloping glass roof sliding towards edge. [unused0] dives,[unused0],-1,sliding|sloping|falls
+199,119,"drop batman fires grapple, snagging rachels ankle activates one wing cape spin slow batman envelopes rachel slam hood passing taxi.","drop [unused0] fires grapple, snagging rachels ankle activates one wing cape spin slow [unused0] envelopes rachel slam hood passing taxi.",[unused0],-1,envelopes|passing|fires|snagging|ankle|activates
+200,121,"joker looks back car speeds away. hes breathing hard, exhilarated. touches blood running sweaty white makeup. smacks back drivers seat","[unused2] looks back car speeds away. hes breathing hard, exhilarated. touches blood running sweaty white makeup. smacks back drivers seat",[unused2],1,running|breathing|back|speeds|away|hard|blood|looks|exhilarated
+201,121,im man word.,im man word.,[unused2],0,
+202,122,"alrightrachel lets again, okay looks around dent","alrightrachel lets again, okay looks around dent",[unused0],1,again|looks|okay
+203,123,"stephens talking gordon, subdued.","stephens talking [unused1], subdued.",[unused1],0,subdued|talking
+204,123,"long dont get lau, weve cut funds.","long dont get lau, weve cut funds.",[unused1],-1,cut|long|weve
+205,123,gordon looks dent. impressed.,[unused1] looks dent. impressed.,[unused1],1,looks
+206,125,batman sits video screens play jokers video different image treatments sound tunings.,[unused0] sits video screens play [unused2]s video different image treatments sound tunings.,[unused0],1,play|sits|video
+207,125,batman turns alfred. indicates screens.,[unused0] turns alfred. indicates screens.,[unused0],0,turns|indicates|alfred
+208,125,"targeting wont get money back. batman knew mob wouldnt go without fight, different. theyve crossed line.","targeting wont get money back. [unused0] knew mob wouldnt go without fight, different. theyve crossed line.",[unused0],1,knew|back|crossed|targeting
+209,125,"batman gets monitors, raises bat cabinet.","[unused0] gets monitors, raises bat cabinet.",[unused0],0,gets|raises
+210,125,"criminals arent complicated, alfred. figure hes after.","criminals arent complicated, alfred. figure hes after.",[unused0],-1,complicated|alfred
+211,125,batman stares alfred. reaches bat suit.,[unused0] stares alfred. reaches bat suit.,[unused0],1,stares|bat|alfred
+212,126,"moving city hear myriad radio calls going ether. close lonely figure top skyscraper. batman. listening million dollar earpieces. babble, one voice emerges.","moving city hear myriad radio calls going ether. close lonely figure top skyscraper. [unused0]. listening million dollar earpieces. babble, one voice emerges.",[unused0],-1,listening|calls|hear|close|ether|going|moving
+213,127,"unmarked squad car screech halt. gordon ramirez get out, lead two uniforms building.","unmarked squad car screech halt. [unused1] ramirez get out, lead two uniforms building.",[unused1],0,get|out
+214,128,checks licenses patrick dent. richard dent...,checks licenses patrick dent. richard dent...,[unused1],0,richard|licenses
+215,128,batman need ten minutes scene men contaminate it.,[unused0] need ten minutes scene men contaminate it.,[unused0],0,scene|contaminate|ten
+216,128,no. fingerprints.,no. fingerprints.,[unused0],-1,
+217,128,ramirez looks gordon. serious gordon points,ramirez looks [unused1]. serious [unused1] points,[unused1],-1,looks
+218,128,"whatever youre gonna do, fast, cos know next target...","whatever youre gonna do, fast, cos know next target...",[unused1],0,know|fast|cos
+219,128,"batman looks campaign poster. elect mayor garcia. mayors image manic clowns grin ha,ha,ha.","[unused0] looks campaign poster. elect mayor garcia. mayors image manic clowns grin ha,ha,ha.",[unused0],1,grin|looks
+220,131,"batman hands alfred rifle bullet scribed grid. slots clip, loads computer controlled gattling gun. puts ear protectors. hits button.","[unused0] hands alfred rifle bullet scribed grid. slots clip, loads computer controlled gattling gun. puts ear protectors. hits button.",[unused0],-1,controlled|loads|gattling|scribed|puts|alfred
+221,131,"wall samples still smoke, batman steps up, carrying sample crime scene. comparing spread new samples, selects two carries ray scanner.","wall samples still smoke, [unused0] steps up, carrying sample crime scene. comparing spread new samples, selects two carries ray scanner.",[unused0],-1,carries|steps|comparing|still|smoke|carrying
+222,132,fox hits button unmarked bullet fragments reassembled. batman spins roughly shaped bullet puzzle batman heres thumb print.,fox hits button unmarked bullet fragments reassembled. [unused0] spins roughly shaped bullet puzzle [unused0] heres thumb print.,[unused0],0,roughly|reassembled|heres|spins
+223,132,yes. government telecommunications project.,yes. government telecommunications project.,[unused0],1,
+224,132,lucius. im playing one pretty close chest.,lucius. im playing one pretty close chest.,[unused0],1,playing|pretty
+225,132,fox looks batman leaves. uneasy.,fox looks [unused0] leaves. uneasy.,[unused0],-1,looks
+226,133,batman examines fingerprint,[unused0] examines fingerprint,[unused0],0,
+227,133,ive run databases came four possibles.,ive run databases came four possibles.,[unused0],0,came
+228,133,batman gets let alfred sit.,[unused0] gets let alfred sit.,[unused0],0,let|gets
+229,133,"batman opens hydraulic door, revealing gleaming mv augusta brutale. moves bike onto lift...","[unused0] opens hydraulic door, revealing gleaming mv augusta brutale. moves bike onto lift...",[unused0],0,revealing|opens|gleaming
+230,133,overlooking parade.,overlooking parade.,[unused0],0,overlooking
+231,134,gordon keys radio,[unused1] keys radio,[unused1],0,
+232,134,hows looking top,hows looking top,[unused1],1,looking
+233,134,gordon looks myriad buildings overlooking podium.,[unused1] looks myriad buildings overlooking podium.,[unused1],0,overlooking|looks
+234,135,batman maneuvers ducati traffic. pulls near parade barricade dismounts slips alley.,[unused0] maneuvers ducati traffic. pulls near parade barricade dismounts slips alley.,[unused0],0,ducati|slips
+235,136,buildings hard luck tenants eye batman counts doors hallway. finds ...,buildings hard luck tenants eye [unused0] counts doors hallway. finds ...,[unused0],1,counts|hallway
+236,138,"batman moves first man, rips tape mouth.man breathing hard took... took guns, uniforms...","[unused0] moves first man, rips tape mouth.man breathing hard took... took guns, uniforms...",[unused0],-1,first|took|breathing|rips
+237,139,"gordon scans crowd. mayor wraps honor guard steps forward, raises weapons...","[unused1] scans crowd. mayor wraps honor guard steps forward, raises weapons...",[unused1],1,crowd|honor|forward|raises
+238,142,gordon leaps forward fire gordon takes shots,[unused1] leaps forward fire [unused1] takes shots,[unused1],-1,forward|leaps|takes
+239,145,"podium, stephens rolls gordon over... moving.","podium, stephens rolls [unused1] over... moving.",[unused1],0,stephens|moving
+240,147,"jokers thug sits there. handcuffed. paramedic bandages leg. cops run past, barking orders.dent tell know joker.","[unused2]s thug sits there. handcuffed. paramedic bandages leg. cops run past, barking orders.dent tell know [unused2].",[unused2],1,know|leg|barking|run|past|there|thug
+241,147,jokers thug looks dent. smirks. dent looks down.,[unused2]s thug looks dent. smirks. dent looks down.,[unused2],0,looks|down|thug
+242,147,exasperated. looks back jokers thug. spots something moves closer mans uniform... name tag...,exasperated. looks back [unused2]s thug. spots something moves closer mans uniform... name tag...,[unused2],-1,looks|exasperated|closer
+243,148,"barbara gordon stands doorway, scared. stephens uniformed officer stand front her.","barbara [unused1] stands doorway, scared. stephens uniformed officer stand front her.",[unused1],-1,front|her|stands|doorway|scared
+244,148,gordon stays inside door.,[unused1] stays inside door.,[unused1],0,
+245,148,"gordon spots something batman, perched shadows.","[unused1] spots something [unused0], perched shadows.",[unused0],0,perched
+246,148,collapses stephenss arms. batman hangs head.,collapses stephenss arms. [unused0] hangs head.,[unused0],-1,stephenss
+247,150,"one maronis bodyguards drops maroni looks strobe lights batman savages bodyguards people run, terrified. maroni starts get seat batman lands like panther table front","one maronis bodyguards drops maroni looks strobe lights [unused0] savages bodyguards people run, terrified. maroni starts get seat [unused0] lands like panther table front",[unused0],-1,strobe|get|savages|run|drops|terrified|starts
+248,153,"dent hangs phone. taped chair front dent jokers thug, blindfolded. dent rips blindfold...","dent hangs phone. taped chair front dent [unused2]s thug, blindfolded. dent rips blindfold...",[unused2],0,blindfolded|blindfold|taped|thug
+249,154,maroni opens eyes. batman holding collar.,maroni opens eyes. [unused0] holding collar.,[unused0],0,opens|holding
+250,154,batman want joker.,[unused0] want [unused2].,[unused0],1,want
+251,154,batman lets go. maroni falls. screams.,[unused0] lets go. maroni falls. screams.,[unused0],-1,lets|falls
+252,155,"maroni nails pavement. clutches leg, badly broken. batman flies down, landing hauls up. maroni hollers pain.","maroni nails pavement. clutches leg, badly broken. [unused0] flies down, landing hauls up. maroni hollers pain.",[unused0],-1,landing|pain|badly|down|broken|flies
+253,155,must friends.,must friends.,[unused0],1,
+254,155,someone knows is.,someone knows is.,[unused0],0,knows
+255,155,batman drops maroni.,[unused0] drops maroni.,[unused0],0,drops
+256,156,dent shows jokers thug gun. bullets. loads gun. shoves face,dent shows [unused2]s thug gun. bullets. loads gun. shoves face,[unused2],-1,face|shows
+257,156,looks up. batman there.,looks up. [unused0] there.,[unused0],0,there|looks
+258,156,youd leave mans life chance,youd leave mans life chance,[unused0],1,leave
+259,156,"names schiff, thomas. hes paranoid schizophrenic, former patient arkham. kind mind joker attracts.","names schiff, thomas. hes paranoid schizophrenic, former patient arkham. kind mind [unused2] attracts.",[unused0],1,schiff|attracts
+260,156,batman moves away schiff.,[unused0] moves away schiff.,[unused0],0,moves|away
+261,156,"dent shivering frustration.dent joker killed gordon and, loeb. hes going kill rachel...","dent shivering frustration.dent [unused2] killed [unused1] and, loeb. hes going kill rachel...",[unused2],-1,killed|going|shivering
+262,156,"youre symbol hope batman could never be. stand organized crime first legitimate ray light gotham decades. anyone saw this, everything would undone criminals got streets would released. jim gordon died nothing.","youre symbol hope [unused0] could never be. stand organized crime first legitimate ray light gotham decades. anyone saw this, everything would undone criminals got streets would released. jim [unused1] died nothing.",[unused0],-1,got|stand|never|undone|released|organized|saw|died|hope|light
+263,156,batman hands dent lucky coin.,[unused0] hands dent lucky coin.,[unused0],1,hands
+264,156,"one else die me. gotham hands, now.","one else die me. gotham hands, now.",[unused0],-1,die|else|now|gotham
+265,156,batman gone.,[unused0] gone.,[unused0],0,gone
+266,157,batman choice.,[unused0] choice.,[unused0],-1,
+267,157,"perhaps not. ive got enough blood hands. ive seen, now, batman would become stop men like him.","perhaps not. ive got enough blood hands. ive seen, now, [unused0] would become stop men like him.",[unused0],1,got|now|become|him|seen|enough|perhaps|not
+268,157,rachel looks batman. cannot help him.you told day came narrator finished...,rachel looks [unused0]. cannot help him.you told day came narrator finished...,[unused0],-1,finished|help|looks|came|not
+269,157,batman moves towards her.,[unused0] moves towards her.,[unused0],0,moves|her
+270,157,batman takes arms.,[unused0] takes arms.,[unused0],0,takes
+271,158,anything could lead back lucius rachel.,anything could lead back lucius rachel.,[unused0],0,lead|back
+272,158,today ive found batman cant do. cant endure this. rueful smile today get say ibatman told so.,today ive found [unused0] cant do. cant endure this. rueful smile today get say i[unused0] told so.,[unused0],1,found|get|ive|cant|told
+273,158,"batman sinks bat suit, alfred closes incinerator.","[unused0] sinks bat suit, alfred closes incinerator.",[unused0],0,alfred
+274,158,accomplice im going tell whole thing idea.,accomplice im going tell whole thing idea.,[unused0],0,going
+275,159,"capacity crowd reporters, cops, public. dent podium. batman sits crowd.","capacity crowd reporters, cops, public. dent podium. [unused0] sits crowd.",[unused0],0,sits
+276,161,batman looks heckler. angry crowd. dent leans podium. impassioned.,[unused0] looks heckler. angry crowd. dent leans podium. impassioned.,[unused0],-1,looks|impassioned|leans
+277,161,beat. batman stares.,beat. [unused0] stares.,[unused0],0,stares
+278,178,jokers truck dodges support columns oncoming lane pulls alongside armored car.,[unused2]s truck dodges support columns oncoming lane pulls alongside armored car.,[unused2],1,dodges|oncoming|alongside|armored
+279,178,"driver looks over. cargo door truck slides open. inside, joker, holding machine gun.","driver looks over. cargo door truck slides open. inside, [unused2], holding machine gun.",[unused2],-1,over|open|inside|looks|holding|cargo
+280,178,"armored car locks brakes, garbage truck pushes forward joker fires bullets slamming","armored car locks brakes, garbage truck pushes forward [unused2] fires bullets slamming",[unused2],1,forward|slamming
+281,181,"joker drops machine gun picks rpg. stops sees something ahead, racing towards second truck batmobile. joker stares, fascinated,","[unused2] drops machine gun picks rpg. stops sees something ahead, racing towards second truck batmobile. [unused2] stares, fascinated,",[unused2],1,racing|sees|ahead|picks|fascinated
+282,182,"joker looks back batmobile, amused.","[unused2] looks back batmobile, amused.",[unused2],1,looks|amused|back
+283,182,anyone could driving thing stay dent.,anyone could driving thing stay dent.,[unused2],0,driving
+284,183,shotgun swats eyes go wide jokers weapon driver jams brakes,shotgun swats eyes go wide [unused2]s weapon driver jams brakes,[unused2],-1,eyes|weapon|driver
+285,186,joker turns men reload rpg,[unused2] turns men reload rpg,[unused2],1,turns
+286,187,batman watches joker prepares fire. several rows cars separate them. toggles afterburner.,[unused0] watches [unused2] prepares fire. several rows cars separate them. toggles afterburner.,[unused2],-1,them|afterburner|fire|separate|watches
+287,189,joker steadies rpg fires batmobile crashes open space two vehicles taking hit rpg explodes,[unused2] steadies rpg fires batmobile crashes open space two vehicles taking hit rpg explodes,[unused2],1,rpg|taking
+288,193,"batman wrestles pod controls, spinning gyro","[unused0] wrestles pod controls, spinning gyro",[unused0],0,spinning|wrestles
+289,195,whoever was... aint now.,whoever was... aint now.,[unused2],0,was|now
+290,195,"joker yanks dead driver cab, jumps take wheel pull back onto roadway.","[unused2] yanks dead driver cab, jumps take wheel pull back onto roadway.",[unused2],-1,take|back
+291,198,"armored car pulls onto ramp, heading up. jokers truck follows.","armored car pulls onto ramp, heading up. [unused2]s truck follows.",[unused2],0,heading|follows
+292,200,batman adjusts position. hits button,[unused0] adjusts position. hits button,[unused0],0,adjusts
+293,201,"crowd jumps panels front car blow crowd stares, open mouthed, batman emerges, hoisted flaming car front pod levering front wheel... pod pushes wheel front form type motorcycle bat pod shoots forward, bursting free batmobile detonates, dying massive fireball... batmans cape sucks together, forming tight pack shoulders, clear churning rear tire bat pod...","crowd jumps panels front car blow crowd stares, open mouthed, [unused0] emerges, hoisted flaming car front pod levering front wheel... pod pushes wheel front form type motorcycle bat pod shoots forward, bursting free batmobile detonates, dying massive fireball... [unused0]s cape sucks together, forming tight pack shoulders, clear churning rear tire bat pod...",[unused0],1,sucks|front|bursting|levering|forming|mouthed|forward|together|churning|wheel|hoisted|batmans|dying
+294,204,tee em up.,tee em up.,[unused2],0,
+295,208,"batman accelerates, oblivious staccato cleaved wing mirrors bat pod razors traffic crosses","[unused0] accelerates, oblivious staccato cleaved wing mirrors bat pod razors traffic crosses",[unused0],0,cleaved|bat|accelerates
+296,209,"level street, roaring parking lanes batman squeezes triggers blasting parked cars, blowing way, literally cannoning path pod...","level street, roaring parking lanes [unused0] squeezes triggers blasting parked cars, blowing way, literally cannoning path pod...",[unused0],0,roaring|blowing|cannoning|squeezes|blasting|literally|parking
+297,211,"jokers thugs fire cables across street seventh floor level... pull taut chopper approaches, unawares... chopper catches cables, going fiery ball barrels along street towards armored car...","[unused2]s thugs fire cables across street seventh floor level... pull taut chopper approaches, unawares... chopper catches cables, going fiery ball barrels along street towards armored car...",[unused2],-1,thugs|going|armored
+298,214,joker hands wheel man takes submachine gun,[unused2] hands wheel man takes submachine gun,[unused2],-1,hands|takes
+299,214,"joker looks ahead see bat pod emerge alley cloud fire, skidding sideways impossibly races towards","[unused2] looks ahead see bat pod emerge alley cloud fire, skidding sideways impossibly races towards",[unused2],-1,see|ahead|skidding|impossibly|looks
+300,214,guess him.,guess him.,[unused2],0,him
+301,215,"bat pod races straight jokers truck fires harpoon jokers truck impacts low, bumper","bat pod races straight [unused2]s truck fires harpoon [unused2]s truck impacts low, bumper",[unused2],-1,straight|harpoon
+302,216,"jokers thug ducks, comes back up, beaming.","[unused2]s thug ducks, comes back up, beaming.",[unused2],0,beaming|comes|thug|back
+303,217,"batman swerves past jokers truck, slaloms, wrapping cables around lamp post, spinning halt watch...","[unused0] swerves past [unused2]s truck, slaloms, wrapping cables around lamp post, spinning halt watch...",[unused0],0,swerves|spinning|wrapping
+304,218,joker crawls wreckage. jumps median starts waving pistol oncoming traffic. batman guns bat pod rides median.,[unused2] crawls wreckage. jumps median starts waving pistol oncoming traffic. [unused0] guns bat pod rides median.,[unused0],1,rides|oncoming|guns|crawls|waving
+305,220,hit me. come on. hit me.,hit me. come on. hit me.,[unused2],0,come|hit
+306,220,batman watches joker holds arms. waiting impact. room go around him.,[unused0] watches [unused2] holds arms. waiting impact. room go around him.,[unused2],-1,waiting|him|holds|watches
+307,220,batman locks brakes.,[unused0] locks brakes.,[unused0],0,locks
+308,220,"joker watches batman dumps bike, rather","[unused2] watches [unused0] dumps bike, rather",[unused0],-1,bike|rather
+309,220,smashing him. batman slams wall.,smashing him. [unused0] slams wall.,[unused0],0,slams|smashing|him
+310,220,jokers thug reach batman first. unconscious. first thug pulls mask. electric shock batsuit throws back. joker laughs. flicks switchblade. crouches,[unused2]s thug reach [unused0] first. unconscious. first thug pulls mask. electric shock batsuit throws back. [unused2] laughs. flicks switchblade. crouches,[unused2],1,back|throws|first|laughs|thug|switchblade
+311,220,give second.,give second.,[unused2],0,
+312,220,gun cocked. joker drops knife. sits. looks back. behind armored car. man standing driver. pulls helmet.,gun cocked. [unused2] drops knife. sits. looks back. behind armored car. man standing driver. pulls helmet.,[unused2],-1,helmet|cocked|back|drops|standing|looks
+313,220,"jim gordon. back dead.gordon got you, son bitch.","jim [unused1]. back dead.[unused1] got you, son bitch.",[unused1],-1,got|you|back
+314,221,"got him, dent.","got him, dent.",[unused1],0,got|him
+315,222,small army cops sealed roadway. gordon pulls away squad car containing joker.,small army cops sealed roadway. [unused1] pulls away squad car containing joker.,[unused1],1,containing|away|sealed|pulls
+316,223,"joker sits holding cage. makeup run, clothes mess calm lends odd dignity. cops smash night sticks bars near jokers head. joker flinch.","[unused2] sits holding cage. makeup run, clothes mess calm lends odd dignity. cops smash night sticks bars near [unused2]s head. [unused2] flinch.",[unused2],1,holding|sits|head|mess
+317,223,"stand away you. gordon dont want anything mob lawyer use, understand handle guy like hes made glass.","stand away you. [unused1] dont want anything mob lawyer use, understand handle guy like hes made glass.",[unused1],1,understand|away|want|you|made|stand
+318,223,mayor walks in. shakes gordons hand.mayor back dead.,mayor walks in. shakes [unused1]s hand.mayor back dead.,[unused1],-1,back
+319,223,gordon couldnt chance familys safety.,[unused1] couldnt chance familys safety.,[unused1],1,
+320,223,"nothing. matches prints, dna, dental. clothing custom, labels. nothing pockets knives lint. name, alias... nothing.","nothing. matches prints, dna, dental. clothing custom, labels. nothing pockets knives lint. name, alias... nothing.",[unused1],1,knives
+321,224,"gordon rings bell. barbara answers it, dressed black.","[unused1] rings bell. barbara answers it, dressed black.",[unused1],0,dressed
+322,224,couldnt tell you. gordon couldnt risk,couldnt tell you. [unused1] couldnt risk,[unused1],1,you
+323,224,"slaps gordon. grabs her, holds tight sobs.","slaps [unused1]. grabs her, holds tight sobs.",[unused1],-1,her|holds|grabs
+324,225,"jokers men processed. harsh light, men look little ridiculous clown make up. detective murphy turns stephens.","[unused2]s men processed. harsh light, men look little ridiculous clown make up. detective murphy turns stephens.",[unused2],-1,turns|processed|make|look
+325,226,gordon crouches sons beside. reaches touch gordon jrs cheek. gordons eyes open. staring dad still dreaming.,[unused1] crouches sons beside. reaches touch [unused1] jrs cheek. [unused1]s eyes open. staring dad still dreaming.,[unused1],1,staring|beside|dreaming|still
+326,226,gordon looks son. little pride seeps in.,[unused1] looks son. little pride seeps in.,[unused1],1,looks
+327,226,"actually, time gordon saved him.","actually, time [unused1] saved him.",[unused1],1,actually|him|saved
+328,227,"gordon pushes swarm detectives crowded observation room. joker seen glass, well large monitor. sitting there. calm.","[unused1] pushes swarm detectives crowded observation room. [unused2] seen glass, well large monitor. sitting there. calm.",[unused2],1,well|swarm|sitting|seen|there|crowded
+329,227,"said anything, yet","said anything, yet",[unused1],0,said|yet
+330,228,"evening, commissioner.","evening, commissioner.",[unused2],0,
+331,228,dent never made home.,dent never made home.,[unused1],0,never|made
+332,228,course not.,course not.,[unused2],0,not
+333,228,"laughs joker right here. leave people assuming, course, people maronis... look depress you, lieutenant, know alone","laughs [unused2] right here. leave people assuming, course, people maronis... look depress you, lieutenant, know alone",[unused2],-1,know|leave|right|you|alone|maronis|here|assuming
+334,228,difference make,difference make,[unused1],0,
+335,228,"depending time, might one spot. smiles several.","depending time, might one spot. smiles several.",[unused2],1,depending|smiles
+336,228,gordon stands. moves joker. undoes handcuffs.,[unused1] stands. moves [unused2]. undoes handcuffs.,[unused2],1,
+337,228,"going play games, im going need cup coffee.","going play games, im going need cup coffee.",[unused1],1,going
+338,228,"good cop, bad cop routine","good cop, bad cop routine",[unused2],-1,
+339,228,gordon steps out. overhead lights come on. batman behind him. joker blinks harsh white light.,[unused1] steps out. overhead lights come on. [unused0] behind him. [unused2] blinks harsh white light.,[unused0],-1,come|out|him
+340,228,wham jokers face hits table comes air,wham [unused2]s face hits table comes air,[unused2],0,face|comes
+341,228,"crack crack head. batman front him. joker stares, fascinated. bleeding.","crack crack head. [unused0] front him. [unused2] stares, fascinated. bleeding.",[unused0],1,fascinated|front|him
+342,228,never start head... victim gets fuzzy. cant feel next crack batmans fist smacks jokers fingers.,never start head... victim gets fuzzy. cant feel next crack [unused0]s fist smacks [unused2]s fingers.,[unused2],-1,fist|gets|never|start
+343,228,wanted me. batman am.,wanted me. [unused0] am.,[unused0],0,wanted
+344,228,joker wanted see youd do. didnt disappoint... laughs let five people die. let dent take place. even guy like me... thats cold,[unused2] wanted see youd do. didnt disappoint... laughs let five people die. let dent take place. even guy like me... thats cold,[unused2],-1,even|wanted|die|guy|cold|laughs|let|take|youd|didnt
+345,228,wheres dent,wheres dent,[unused0],0,
+346,228,mob fools want gone get back way things were. joker know truth theres going back. youve changed things. forever.,mob fools want gone get back way things were. [unused2] know truth theres going back. youve changed things. forever.,[unused2],-1,get|know|forever|back|want|were|gone|changed|going
+347,228,joker starts laughing. moment hes laughing hard sounds like sobbing.,[unused2] starts laughing. moment hes laughing hard sounds like sobbing.,[unused2],1,starts|sobbing|laughing
+348,228,kill joker dont want kill you. would joker without go back ripping mob dealers you... points you. complete. me.,kill [unused2] dont want kill you. would [unused2] without go back ripping mob dealers you... points you. complete. me.,[unused2],-1,complete|back|want|you|ripping
+349,228,youre garbage kills money.,youre garbage kills money.,[unused0],-1,kills
+350,228,"dont talk like one youre not, even youd like be. youre freak like me... need right now.","dont talk like one youre not, even youd like be. youre freak like me... need right now.",[unused2],-1,even|need|now|right|youd|not
+351,228,"soon dont, theyll cast like leper.joker looks batmans eyes. searching.","soon dont, theyll cast like leper.[unused2] looks [unused0]s eyes. searching.",[unused2],1,soon|batmans|searching
+352,228,batman grabs joker pulls upright.,[unused0] grabs [unused2] pulls upright.,[unused0],1,
+353,229,hes control.,hes control.,[unused1],0,
+354,230,batman hoists joker neck.,[unused0] hoists [unused2] neck.,[unused0],1,hoists
+355,230,wheres dent,wheres dent,[unused0],0,
+356,230,rules. think theyll save you.,rules. think theyll save you.,[unused2],1,you|save|think
+357,230,batman one rule.,[unused0] one rule.,[unused0],0,
+358,230,thats one youll break. know truth.,thats one youll break. know truth.,[unused2],1,know
+359,230,smiles sensible way live world without rules. tonight youre going break one rule...,smiles sensible way live world without rules. tonight youre going break one rule...,[unused2],1,break|going
+360,230,batman leans joker.,[unused0] leans joker.,[unused0],1,leans
+361,230,"im considering it.joker minutes left so, youll play little game want save... relish ...one them.","im considering it.[unused2] minutes left so, youll play little game want save... relish ...one them.",[unused0],1,left|considering|them|want
+362,230,"joker thought really dent, way threw","[unused2] thought really dent, way threw",[unused2],1,threw|thought|really
+363,230,batman drops joker rips bolted chair,[unused0] drops [unused2] rips bolted chair,[unused0],1,bolted|drops
+364,232,batman jams chair doorknob picks joker hurls two way glass. glass spiders.,[unused0] jams chair doorknob picks [unused2] hurls two way glass. glass spiders.,[unused0],1,chair
+365,233,"joker, bleeding nose mouth, laughs batman.","[unused2], bleeding nose mouth, laughs batman.",[unused2],1,laughs|bleeding
+366,233,look go... dent know,look go... dent know,[unused2],0,know
+367,233,"joker smashes wall slides floor. batman stands him, man possessed","[unused2] smashes wall slides floor. [unused0] stands him, man possessed",[unused0],1,possessed|stands|him|smashes
+368,233,"grabs joker, holding close","grabs [unused2], holding close",[unused2],1,holding
+369,233,killing making choice...,killing making choice...,[unused2],-1,making|killing
+370,233,batman punches joker across face. hard.,[unused0] punches [unused2] across face. hard.,[unused0],1,punches
+371,233,joker feeds batmans anger. loving it.,[unused2] feeds [unused0]s anger. loving it.,[unused2],1,loving|anger
+372,233,"...you choose one life other. friend, district attorney. blushing bride be.","...you choose one life other. friend, district attorney. blushing bride be.",[unused2],1,choose|you|bride
+373,233,batman punches joker again. joker laughs.,[unused0] punches [unused2] again. [unused2] laughs.,[unused0],1,laughs|again|punches
+374,233,batman stares joker...,[unused0] stares joker...,[unused0],0,stares
+375,234,dent knew risks.,dent knew risks.,[unused0],-1,knew
+376,234,"gordon looks back joker bloody, grinning.","[unused1] looks back [unused2] bloody, grinning.",[unused1],1,grinning|looks|back
+377,236,"batman swerves oncoming traffic, chaos wake.","[unused0] swerves oncoming traffic, chaos wake.",[unused0],-1,swerves|oncoming
+378,239,"joker sits, smiling, content. stephens guards door.","[unused2] sits, smiling, content. stephens guards door.",[unused2],1,smiling
+379,239,joker want phone call.,[unused2] want phone call.,[unused2],1,want
+380,239,many friends joker killed,many friends [unused2] killed,[unused2],-1,killed
+381,244,gridlock. gordon swerves onto sidewalk. people scatter.,gridlock. [unused1] swerves onto sidewalk. people scatter.,[unused1],0,swerves|scatter
+382,245,"know joker use knife, detective guns quick. dont get savor little emotions. see, last moments, people show really are...","know [unused2] use knife, detective guns quick. dont get savor little emotions. see, last moments, people show really are...",[unused2],1,get|know|are|show|dont|quick|really
+383,249,joker want phone call.,[unused2] want phone call.,[unused2],1,want
+384,249,"detectives look other. one pulls cell phone. tosses joker, begins dial.","detectives look other. one pulls cell phone. tosses [unused2], begins dial.",[unused2],1,begins|pulls|look
+385,251,"joker presses send. end room, door holding area explodes","[unused2] presses send. end room, door holding area explodes",[unused2],1,send|holding|presses
+386,253,batman kicks door gives batman smashes open,[unused0] kicks door gives [unused0] smashes open,[unused0],0,gives|kicks|open
+387,254,batman bursts door dent looks horror,[unused0] bursts door dent looks horror,[unused0],-1,looks|bursts
+388,254,batman stares dent. joker lied. counter hits seconds. batman drags dent dent fights stay,[unused0] stares dent. [unused2] lied. counter hits seconds. [unused0] drags dent dent fights stay,[unused0],-1,stares|hits|stay|lied|drags
+389,258,batman wraps cape around dent hurls door. dent screaming,[unused0] wraps cape around dent hurls door. dent screaming,[unused0],-1,wraps|screaming
+390,260,second explosion batman covers dent fireball hits igniting diesel soaking dents left side starts burning. stops screaming. batman rolls dent wet pavement... dent sizzles. silent.,second explosion [unused0] covers dent fireball hits igniting diesel soaking dents left side starts burning. stops screaming. [unused0] rolls dent wet pavement... dent sizzles. silent.,[unused0],-1,igniting|soaking|covers|starts|rolls|screaming|burning
+391,261,hello there.,hello there.,[unused2],0,there
+392,263,gordon watches fire. debris blows across asphalt.,[unused1] watches fire. debris blows across asphalt.,[unused1],-1,
+393,263,gordon picks two pieces. singed joker cards. place jokers face photo lau. police sergeant approaches.,[unused1] picks two pieces. singed [unused2] cards. place [unused2]s face photo lau. police sergeant approaches.,[unused1],1,singed|face
+394,263,lau cop nods joker planned caught. wanted lock m.c.u..,lau cop nods [unused2] planned caught. wanted lock m.c.u..,[unused1],1,wanted|planned
+395,264,"squad car blazes street. joker sticks head window like dog, feeling wind...","squad car blazes street. [unused2] sticks head window like dog, feeling wind...",[unused2],1,feeling|head|blazes
+396,268,"narrator told gotham longer needed batman could together, narrator meant it...","narrator told gotham longer needed [unused0] could together, narrator meant it...",[unused0],-1,longer|meant|together|told|needed
+397,269,gordon surveys wreckage mcu. bodies.,[unused1] surveys wreckage mcu. bodies.,[unused1],0,wreckage
+398,270,"batman bends ground one knee, black glove spread smoldering debris.","[unused0] bends ground one knee, black glove spread smoldering debris.",[unused0],0,smoldering|bends
+399,270,"spots something. dents two headed coin. blackened, scarred. batman turns over. side pristine.","spots something. dents two headed coin. blackened, scarred. [unused0] turns over. side pristine.",[unused0],0,over|scarred|turns|headed|blackened
+400,272,batman stands foot bed. watching.,[unused0] stands foot bed. watching.,[unused0],0,stands
+401,272,"im sorry, dent.","im sorry, dent.",[unused0],-1,
+402,272,batman puts dents damaged coin bedside table.,[unused0] puts dents damaged coin bedside table.,[unused0],-1,puts|damaged
+403,274,"batman turns, desperate look eye.","[unused0] turns, desperate look eye.",[unused0],-1,turns
+404,274,"batman bring us batman thought batman would inspire good, madness alfred inspired good. spat face gothams criminals didnt think might casualties things always going get worse got better.","[unused0] bring us [unused0] thought [unused0] would inspire good, madness alfred inspired good. spat face gothams criminals didnt think might casualties things always going get worse got better.",[unused0],1,inspire|get|always|thought|going|worse|better|bring|didnt|alfred
+405,274,"rachel, alfred...","rachel, alfred...",[unused0],0,alfred
+406,274,batman looks alfred. alfred picks cowl.,[unused0] looks alfred. alfred picks cowl.,[unused0],0,looks|alfred
+407,274,gotham needs hero. batman let joker blow half hell,gotham needs hero. [unused0] let [unused2] blow half hell,[unused0],-1,blow|needs
+408,274,going wait me. dent doesnt know. never know...,going wait me. dent doesnt know. never know...,[unused0],0,know|never|going
+409,274,"bandit, forest burma... catch alfred nods","bandit, forest burma... catch alfred nods",[unused0],0,alfred
+410,278,im sorry rachel. nothing doctor says youre agonizing pain wont accept medication. youre refusing skin grafts,im sorry rachel. nothing doctor says youre agonizing pain wont accept medication. youre refusing skin grafts,[unused1],-1,refusing|says|agonizing
+411,278,small two face. dent two face.,small two face. dent two face.,[unused1],0,
+412,278,"i... gordon know tried warn me. im sorry. wuertz picked working nothing know picked rachel nothing dent, gordon need know men gordon trust.","i... [unused1] know tried warn me. im sorry. wuertz picked working nothing know picked rachel nothing dent, [unused1] need know men [unused1] trust.",[unused1],1,working|know|need|tried|picked
+413,278,"im sorry, dent.","im sorry, dent.",[unused1],-1,
+414,278,gordon takes last look dent. leaves.,[unused1] takes last look dent. leaves.,[unused1],0,takes
+415,279,"thought let clown box.marongordon want him, gordon tell hell afternoon.","thought let clown box.maron[unused1] want him, [unused1] tell hell afternoon.",[unused1],-1,tell|thought|him|hell|want|let
+416,281,"joker jumps top, slides pile.","[unused2] jumps top, slides pile.",[unused2],1,pile
+417,281,joker told im man word. looks around wheres italian,[unused2] told im man word. looks around wheres italian,[unused2],1,looks|told
+418,281,joker grabs gasoline thug.,[unused2] grabs gasoline thug.,[unused2],1,gasoline
+419,281,im man simple tastes. joker like gunpowder. dynamite...,im man simple tastes. [unused2] like gunpowder. dynamite...,[unused2],1,
+420,281,"chechen, furious, steps forwards. joker turns. jabs gun chechens face. chechens bodyguards react. jokers men draw them.","chechen, furious, steps forwards. [unused2] turns. jabs gun chechens face. chechens bodyguards react. [unused2]s men draw them.",[unused2],-1,turns|chechens|draw|them
+421,281,joker plucks cigar chechens lips.joker narrator am.,[unused2] plucks cigar chechens lips.[unused2] narrator am.,[unused2],1,cigar
+422,281,joker tosses cigar pile.,[unused2] tosses cigar pile.,[unused2],1,tosses
+423,281,joker takes knife. tosses man.,[unused2] takes knife. tosses man.,[unused2],1,tosses|takes
+424,281,cut offer little princes. lets show loyal hungry dog is.,cut offer little princes. lets show loyal hungry dog is.,[unused2],1,show
+425,281,jokers men grab chechen.,[unused2]s men grab chechen.,[unused2],0,grab
+426,281,joker watches towering flames. lau screams.,[unused2] watches towering flames. lau screams.,[unused2],-1,towering
+427,281,joker pulls phone...,[unused2] pulls phone...,[unused2],1,pulls
+428,283,"gordon men gearing take joker. detective turns tv bullpen joker narrator vision. world without batman. mob ground little profit police tried shut down, one block time... so... boring. ive change heart. narrator dont want mr. reese spoiling everything, narrator fun lets give someone else chance...","[unused1] men gearing take [unused2]. detective turns tv bullpen [unused2] narrator vision. world without [unused0]. mob ground little profit police tried shut down, one block time... so... boring. ive change heart. narrator dont want mr. reese spoiling everything, narrator fun lets give someone else chance...",[unused2],1,tried|gearing|want|give|spoiling|down|shut|else
+429,283,gordon turns uniform cops.,[unused1] turns uniform cops.,[unused1],0,turns
+430,283,"call every officer tell head nearest hospital start evac search. call transit authority, school board, prisons get every available bus hospital priority gotham general wheel everybody place right hunch thats bomb is.","call every officer tell head nearest hospital start evac search. call transit authority, school board, prisons get every available bus hospital priority gotham general wheel everybody place right hunch thats bomb is.",[unused1],1,evac|get|call|tell|gotham
+431,283,thats dent is.,thats dent is.,[unused1],0,
+432,284,get reese.,get reese.,[unused1],0,get
+433,285,"batman alfred move elevator.batman narrator need plugged in, checking gordons men families.","[unused0] alfred move elevator.[unused0] narrator need plugged in, checking [unused1]s men families.",[unused0],0,checking|need|plugged|alfred
+434,285,hospital admissions.,hospital admissions.,[unused0],0,
+435,285,"middle day subtle, alfred.","middle day subtle, alfred.",[unused0],0,subtle|alfred
+436,286,batmans lamborghini tears downtown.,[unused0]s lamborghini tears downtown.,[unused0],-1,downtown|lamborghini
+437,288,gordon spots old man raising pistol gordon throws reese ground shots shatter laminated glass lobby. crowd surges directions,[unused1] spots old man raising pistol [unused1] throws reese ground shots shatter laminated glass lobby. crowd surges directions,[unused1],1,laminated|throws|raising|surges|shatter
+438,288,get cars around back,get cars around back,[unused1],0,get|back
+439,288,gordon hauls reese stairwell.,[unused1] hauls reese stairwell.,[unused1],0,
+440,289,batman slows past chaos outside television station.,[unused0] slows past chaos outside television station.,[unused0],-1,slows
+441,289,batman saw obrien richards...,[unused0] saw obrien richards...,[unused0],0,saw
+442,291,gordon pulls shaken reese stairs...,[unused1] pulls shaken reese stairs...,[unused1],-1,shaken
+443,292,gordon throws reese back. smiles.,[unused1] throws reese back. smiles.,[unused1],1,throws|back
+444,292,"well, maybe batman save you.","well, maybe [unused0] save you.",[unused1],1,maybe|well|save|you
+445,294,batman trails police van distance.batman narrator saw burns zachary... patrolman narrator dont know.,[unused0] trails police van distance.[unused0] narrator saw burns zachary... patrolman narrator dont know.,[unused0],0,trails|saw|know
+446,294,theres least one batman dont know send information gordon,theres least one [unused0] dont know send information [unused1],[unused0],0,know
+447,295,"gordons phone beeps. looks text. watch out. cops relatives gotham hospitals burke, ramirez, till...","[unused1]s phone beeps. looks text. watch out. cops relatives gotham hospitals burke, ramirez, till...",[unused1],0,watch|relatives|looks|out
+448,296,"redhead turns joker, silenced pistol hand.","redhead turns [unused2], silenced pistol hand.",[unused2],1,turns|silenced
+449,298,"gordon reading phone. erikson, berg. gordon looks sharply. considers uniformed cop nervously fingering shotgun.","[unused1] reading phone. erikson, berg. [unused1] looks sharply. considers uniformed cop nervously fingering shotgun.",[unused1],-1,fingering|sharply|looks|nervously|uniformed|reading
+450,298,"berg, isnt","berg, isnt",[unused1],0,
+451,299,joker draws closer dents bed. dent strains leather cuffs binding bed.,[unused2] draws closer dents bed. dent strains leather cuffs binding bed.,[unused2],-1,draws|bed|binding|closer|strains
+452,299,"joker dont want hard feelings us, dent.","[unused2] dont want hard feelings us, dent.",[unused2],-1,want
+453,299,joker loosens dents restraints.,[unused2] loosens dents restraints.,[unused2],1,loosens
+454,299,"joker really look like guy plan, dent joker dont plan...the mob plans, cops plans. know joker am, dent","[unused2] really look like guy plan, dent [unused2] dont plan...the mob plans, cops plans. know [unused2] am, dent",[unused2],1,know|really|look
+455,299,"im dog chasing cars... narrator wouldnt know one narrator caught it. narrator things. im wrench gears. narrator hate plans. yours, theirs, everyones. maroni plans. gordon plans. schemers trying control worlds. im schemer, narrator show schemers pathetic attempts control things really are. narrator say girlfriend nothing personal, know im telling truth...","im dog chasing cars... narrator wouldnt know one narrator caught it. narrator things. im wrench gears. narrator hate plans. yours, theirs, everyones. maroni plans. [unused1] plans. schemers trying control worlds. im schemer, narrator show schemers pathetic attempts control things really are. narrator say girlfriend nothing personal, know im telling truth...",[unused1],-1,telling|know|are|trying|control|caught|chasing|really|girlfriend
+456,300,"batman roars past line traffic settle cars back police van, sitting red light.","[unused0] roars past line traffic settle cars back police van, sitting red light.",[unused0],0,sitting|roars|police|back
+457,302,"gordon watches berg, mentally tracing trajectory shotgun barrel berg fiddles gun. gordon starts trying subtly unholster weapon.","[unused1] watches berg, mentally tracing trajectory shotgun barrel berg fiddles gun. [unused1] starts trying subtly unholster weapon.",[unused1],-1,subtly|trying|starts|tracing|mentally|gun
+458,302,"im gonna need weapon, son.","im gonna need weapon, son.",[unused1],-1,need
+459,303,batman watches driver pickup staring intently police van. lining up.,[unused0] watches driver pickup staring intently police van. lining up.,[unused0],0,intently|pickup|lining|staring|driver
+460,304,"reese looks berg gordon. berg looks gordon, trembling, barrel gun inching lower car.","reese looks berg [unused1]. berg looks [unused1], trembling, barrel gun inching lower car.",[unused1],-1,lower|looks|trembling|inching
+461,304,yeah. would why.,yeah. would why.,[unused1],1,why
+462,305,"joker leans in, pressing head guns barrel.","[unused2] leans in, pressing head guns barrel.",[unused2],1,pressing|leans
+463,305,"schemers put are. schemer. plans. look got you. joker joker best joker took plan, joker turned itself. look ive done city drums gas couple bullets. nobody panics expected people get killed. nobody panics things go according plan, even plan horrifying. joker tell press tomorrow gangbanger get shot, truckload soldiers blown up, nobody panics. part plan. joker say one little old mayor die, everybody loses minds introduce little anarchy, upset established order everything becomes chaos. im agent chaos. know thing chaos, dent","schemers put are. schemer. plans. look got you. [unused2] [unused2] best [unused2] took plan, [unused2] turned itself. look ive done city drums gas couple bullets. nobody panics expected people get killed. nobody panics things go according plan, even plan horrifying. [unused2] tell press tomorrow gangbanger get shot, truckload soldiers blown up, nobody panics. part plan. [unused2] say one little old mayor die, everybody loses minds introduce little anarchy, upset established order everything becomes chaos. im agent chaos. know thing chaos, dent",[unused2],-1,put|look|expected|introduce|according|even|turned|horrifying|itself|killed|are|done|upset|took|becomes|get|blown|got|established|you|loses
+464,305,dent looks jokers eyes. finding meaning.,dent looks [unused2]s eyes. finding meaning.,[unused2],0,looks|finding
+465,305,"joker looks coin. looks dent, admiringly.","[unused2] looks coin. looks dent, admiringly.",[unused2],1,looks|admiringly
+466,305,youre talking.,youre talking.,[unused2],0,talking
+467,307,"batman floors it, yanks wheel pull onto sidewalk","[unused0] floors it, yanks wheel pull onto sidewalk",[unused0],0,wheel|yanks
+468,309,"pickup barrels van, full tilt last second batmans lamborghini slips alongside van pickup","pickup barrels van, full tilt last second [unused0]s lamborghini slips alongside van pickup",[unused0],0,van|alongside|lamborghini
+469,310,"van jolts impact gordon leaps forward, pushing bergs shotgun barrel, fires roof gordon smashes berg head sidearm.","van jolts impact [unused1] leaps forward, pushing bergs shotgun barrel, fires roof [unused1] smashes berg head sidearm.",[unused1],0,forward|berg|fires|pushing
+470,311,gordons men pull pickup driver cab gordon crouches lamborghini wreck help pull batman car. gordon recognizes pulls free.,[unused1]s men pull pickup driver cab [unused1] crouches lamborghini wreck help pull [unused0] car. [unused1] recognizes pulls free.,[unused1],1,pull|lamborghini|recognizes
+471,311,"okay, mr. batman","okay, mr. [unused0]",[unused1],1,
+472,311,"batman looks him, woozy. sits curb.","[unused0] looks him, woozy. sits curb.",[unused0],0,looks|him
+473,311,call batman. batman think so.,call [unused0]. [unused0] think so.,[unused0],0,think
+474,311,"brave thing, did.","brave thing, did.",[unused1],1,did
+475,311,trying catch light,trying catch light,[unused0],0,trying
+476,311,werent protecting van,werent protecting van,[unused1],0,protecting
+477,311,batman turns sees police van first time.,[unused0] turns sees police van first time.,[unused0],0,turns
+478,311,reese locks eyes batman. nods. gordon sizes batman batman crushed sports car.,reese locks eyes [unused0]. nods. [unused1] sizes [unused0] [unused0] crushed sports car.,[unused1],-1,sizes|crushed
+479,311,"dont watch whole lot news, you, mr. batman","dont watch whole lot news, you, mr. [unused0]",[unused1],0,you
+480,311,shrugs get little intense. think batman go hospital,shrugs get little intense. think [unused0] go hospital,[unused0],1,get|think
+481,311,"today, gordon wouldnt.","today, [unused1] wouldnt.",[unused1],0,
+482,312,joker walks calmly mostly deserted building.as walks pulls detonator pocket. strolling along pushes button... staggered explosions burst,[unused2] walks calmly mostly deserted building.as walks pulls detonator pocket. strolling along pushes button... staggered explosions burst,[unused2],1,strolling|deserted|button|burst|mostly|calmly
+483,313,joker walks door...,[unused2] walks door...,[unused2],1,door
+484,314,joker strolls steps windows blow series people dive cover engel piles school bus,[unused2] strolls steps windows blow series people dive cover engel piles school bus,[unused2],1,piles|dive|blow|strolls
+485,315,gordon hears explosion.,[unused1] hears explosion.,[unused1],0,
+486,315,gotham general... grabs phone get dent,gotham general... grabs phone get dent,[unused1],0,
+487,317,joker gets onto bus. nods man wheel.,[unused2] gets onto bus. nods man wheel.,[unused2],1,gets
+488,320,"must know many inside youve got patient lists, roll calls","must know many inside youve got patient lists, roll calls",[unused1],0,got|know
+489,320,yeah whats guess dent,yeah whats guess dent,[unused1],1,guess
+490,323,beautiful. isnt,beautiful. isnt,[unused0],1,
+491,323,high frequency generatorreceiver.,high frequency generatorreceiver.,[unused0],0,
+492,323,"ive got find man, lucius.","ive got find man, lucius.",[unused0],0,got
+493,323,database null key encrypted. accessed one person.,database null key encrypted. accessed one person.,[unused0],0,encrypted
+494,323,thats batman gave you. use it.,thats [unused0] gave you. use it.,[unused0],0,you|use|gave
+495,323,batman points tv screen. fox turns. screen. joker shakes head graphic latest threat...,[unused0] points tv screen. fox turns. screen. [unused2] shakes head graphic latest threat...,[unused2],1,turns|head|shakes
+496,323,take make people want join in..,take make people want join in..,[unused2],1,take|make|want
+497,324,gordon watches screen. grave.,[unused1] watches screen. grave.,[unused1],-1,
+498,324,"failed kill lawyer... ive got get bench game. so, is...","failed kill lawyer... ive got get bench game. so, is...",[unused2],-1,got|get|failed
+499,325,"come nightfall, city mine, anyone left plays rules. dont want game, get now.","come nightfall, city mine, anyone left plays rules. dont want game, get now.",[unused2],1,left|come|get|now
+500,325,bar patrons start moving... joker reaches camera,bar patrons start moving... [unused2] reaches camera,[unused2],1,reaches|start|moving
+501,326,lucius sits console. batman moves,lucius sits console. [unused0] moves,[unused0],0,
+502,326,"batman turns. fox looks him, serious.as long machine batman industries, narrator wont be.","[unused0] turns. fox looks him, serious.as long machine [unused0] industries, narrator wont be.",[unused0],0,turns|looks|him|long
+503,328,gordon briefs mayor.,[unused1] briefs mayor.,[unused1],0,
+504,328,"officers going every inch tunnels bridges, jokers threat theyre option.","officers going every inch tunnels bridges, [unused2]s threat theyre option.",[unused1],-1,going
+505,328,"backed hours. leaves ferries thirty thousand waiting board. plus, corrections capacity, gordon want use ferry take prisoners island.","backed hours. leaves ferries thirty thousand waiting board. plus, corrections capacity, [unused1] want use ferry take prisoners island.",[unused1],-1,waiting|leaves|island|want
+506,328,"theyre people least want stuck emergency. whatever jokers planning, good bet dents prisoners might involved. gordon want em here.","theyre people least want stuck emergency. whatever [unused2]s planning, good bet dents prisoners might involved. [unused1] want em here.",[unused1],-1,involved|here|least|want
+507,331,"narrator took care wuertz, man inside gordons unit picked rachel mustve someone trusted.","narrator took care wuertz, man inside [unused1]s unit picked rachel mustve someone trusted.",[unused1],1,picked|trusted|took
+508,338,"batman sits bat pod, cape blowing. listening.","[unused0] sits bat pod, cape blowing. listening.",[unused0],0,sits
+509,338,fox theres something going ferries...,fox theres something going ferries...,[unused0],0,going
+510,341,"batman looks out, across entire city skyline.","[unused0] looks out, across entire city skyline.",[unused0],0,looks|out
+511,341,location joker,location [unused2],[unused0],1,
+512,341,"batman fires bat pod cape shrinks pack form peels out, roaring night.","[unused0] fires bat pod cape shrinks pack form peels out, roaring night.",[unused0],0,shrinks|roaring|out|fires
+513,342,barbara gordon answers phone.,barbara [unused1] answers phone.,[unused1],0,
+514,345,"joker stares harbor, ferries. talking cell phone. holding detonator, two buttons.","[unused2] stares harbor, ferries. talking cell phone. holding detonator, two buttons.",[unused2],1,stares|holding|talking
+515,345,remote blow boat.,remote blow boat.,[unused2],0,
+516,346,joker hangs up. pilot prisoner ferry looks remote hands. prisoners begin yelling pushing. warden takes remote pilot cocks shotgun. men level weapons crowd.,[unused2] hangs up. pilot prisoner ferry looks remote hands. prisoners begin yelling pushing. warden takes remote pilot cocks shotgun. men level weapons crowd.,[unused2],-1,level|pushing|crowd|begin|yelling|looks|ferry|shotgun|hangs|takes
+517,347,gordon looks ferries. phone rings.,[unused1] looks ferries. phone rings.,[unused1],0,looks
+518,347,jokers location,[unused2]s location,[unused0],0,
+519,348,batman roars along bat pod.,[unused0] roars along bat pod.,[unused0],0,roars
+520,348,prewitt building. assemble building opposite.,prewitt building. assemble building opposite.,[unused0],0,
+521,354,gordon looks swat leader.,[unused1] looks swat leader.,[unused1],0,looks
+522,354,hostage situation.,hostage situation.,[unused1],0,
+523,354,shooting gallery. whyd choose spot big windows,shooting gallery. whyd choose spot big windows,[unused1],0,shooting
+524,354,likes view.,likes view.,[unused0],1,
+525,354,barely hesitates lets it.,barely hesitates lets it.,[unused1],-1,barely|hesitates
+526,354,"simple. joker, never is.","simple. [unused2], never is.",[unused0],1,never
+527,354,"whats simple, every second dont take him, people ferries get closer blowing","whats simple, every second dont take him, people ferries get closer blowing",[unused1],0,get|him|closer|take|simple
+528,354,wont happen.,wont happen.,[unused0],0,
+529,354,hell blow theres time go,hell blow theres time go,[unused1],-1,blow
+530,354,theres always catch,theres always catch,[unused0],0,catch|always
+531,354,thats cant wait cant play games,thats cant wait cant play games,[unused1],-1,cant
+532,354,batman turns.,[unused0] turns.,[unused0],0,turns
+533,354,batman need five minutes. alone,[unused0] need five minutes. alone,[unused0],-1,alone|need
+534,354,no. theres time. clear shots.,no. theres time. clear shots.,[unused1],-1,
+535,354,gordon pulls gun. batman turns back. swats watch.,[unused1] pulls gun. [unused0] turns back. swats watch.,[unused1],-1,turns|watch|back
+536,354,"batman leaps building, opens cape soars across gulf two buildings gordon puts weapon away. curses softly. turns swat leader.two minutes. breach.","[unused0] leaps building, opens cape soars across gulf two buildings [unused1] puts weapon away. curses softly. turns swat leader.two minutes. breach.",[unused0],-1,softly|away|opens|turns|leaps|puts
+537,355,fox. batman need picture.,fox. [unused0] need picture.,[unused0],0,
+538,357,levels transparency pulsing rhythmically... batman see people inside building...,levels transparency pulsing rhythmically... [unused0] see people inside building...,[unused0],0,pulsing|see|rhythmically
+539,358,"joker standing window, looking handiwork. chechens dogs start barking. smiles.","[unused2] standing window, looking handiwork. chechens dogs start barking. smiles.",[unused2],1,standing|barking|looking|start
+540,359,"batman reaches utility belt, sprays plastic onto glass lets harden punches window breaks quietly pieces stick laminate slips inside","[unused0] reaches utility belt, sprays plastic onto glass lets harden punches window breaks quietly pieces stick laminate slips inside",[unused0],1,sprays|quietly|reaches|stick|window
+541,360,batmans eyes glow white uses sonar look corner. armed clown leaning corner...,[unused0]s eyes glow white uses sonar look corner. armed clown leaning corner...,[unused0],0,armed|look
+542,363,"gordons phone rings.gordon hello barbara, calm","[unused1]s phone rings.[unused1] hello barbara, calm",[unused1],1,
+543,363,dent hells going,dent hells going,[unused1],0,going
+544,363,gordon looks across prewitt penthouse...,[unused1] looks across prewitt penthouse...,[unused1],0,looks
+545,364,"batman grabs armed clown, drops him, silently. goes disarm weapon duct taped clowns hands.","[unused0] grabs armed clown, drops him, silently. goes disarm weapon duct taped clowns hands.",[unused0],-1,armed|him|drops|goes|silently|taped
+546,364,"batman looks up. four clowns line windows, weapons duct taped hands. sonar. looks hostages crouched... patients doctors carrying weapons jokers men... swats rappel rooftop. stairwells, two teams prepping.","[unused0] looks up. four clowns line windows, weapons duct taped hands. sonar. looks hostages crouched... patients doctors carrying weapons [unused2]s men... swats rappel rooftop. stairwells, two teams prepping.",[unused0],-1,crouched|carrying|looks|prepping|rappel|duct
+547,364,dont. move.,dont. move.,[unused0],0,
+548,368,batman yanks clown along floor using grapple gun clown takes two next batman leaps nearest two shots shatter glass,[unused0] yanks clown along floor using grapple gun clown takes two next [unused0] leaps nearest two shots shatter glass,[unused0],-1,using|clown|shatter|leaps|takes
+549,370,"hostages reel blast swats swoop in, aiming weapons clowns, throwing percussion grenades batman takes swats fists batarangs last swat aims batman behind doctor raises shotgun... behind doctor batman see wall swats preparing breach... batman vaults swat two foot kick doctors chest","hostages reel blast swats swoop in, aiming weapons clowns, throwing percussion grenades [unused0] takes swats fists batarangs last swat aims [unused0] behind doctor raises shotgun... behind doctor [unused0] see wall swats preparing breach... [unused0] vaults swat two foot kick doctors chest",[unused0],-1,reel|see|chest|fists|throwing|swat|preparing|swoop|aiming|shotgun|takes
+550,372,"swats race find engel, terrified, next pile unconscious hostages, team leader, one end absailing rope tied around waist. batman them, weaving kicking, punching, and, one hand, clipping carabinners looped absailing rope onto webbing vests.","swats race find engel, terrified, next pile unconscious hostages, team leader, one end absailing rope tied around waist. [unused0] them, weaving kicking, punching, and, one hand, clipping carabinners looped absailing rope onto webbing vests.",[unused0],-1,them|tied|looped|webbing|find|terrified|weaving|absailing|clipping
+551,372,batman steps back picks team leader swat weapons aim hurls team leader window... theswats watch go... rope pays out... one one yanked window...,[unused0] steps back picks team leader swat weapons aim hurls team leader window... theswats watch go... rope pays out... one one yanked window...,[unused0],-1,steps|back|watch|out|yanked|aim|pays
+552,373,"sniper watches scope six man swat team soars window drops. line snaps taut hang, like mountaineering team crisis. batman, crouched broken window, secures line.","sniper watches scope six man swat team soars window drops. line snaps taut hang, like mountaineering team crisis. [unused0], crouched broken window, secures line.",[unused0],-1,crouched|mountaineering|secures|scope|window|snaps
+553,373,batman looks right sniper raises grapple gun,[unused0] looks right sniper raises grapple gun,[unused0],-1,looks|raises
+554,374,...into main office. joker there.,...into main office. [unused2] there.,[unused2],1,there
+555,374,came. im touched.,came. im touched.,[unused2],0,came|touched
+556,374,wheres detonator,wheres detonator,[unused0],0,
+557,374,dogs leap batman smash ground...,dogs leap [unused0] smash ground...,[unused0],0,
+558,377,"batman wrestles rotweilers blinding mass batman, black fur bared teeth","[unused0] wrestles rotweilers blinding mass [unused0], black fur bared teeth",[unused0],0,blinding|bared|wrestles
+559,377,joker pops switchblade. moves mass batman kicks last dogs joker jabs knife batmans ribs,[unused2] pops switchblade. moves mass [unused0] kicks last dogs [unused2] jabs knife [unused0]s ribs,[unused2],1,mass|ribs|switchblade
+560,377,old familiar places.,old familiar places.,[unused2],0,
+561,377,batman recoils pain. joker butts knees,[unused0] recoils pain. [unused2] butts knees,[unused0],-1,recoils
+562,382,batman flies backwards window glass flying joker kicks wooden brace holding steel frame batmans arms fly comes crashing onto neck saved protective gauntlets. batman grunts joker steps onto steel beam...,[unused0] flies backwards window glass flying [unused2] kicks wooden brace holding steel frame [unused0]s arms fly comes crashing onto neck saved protective gauntlets. [unused0] grunts [unused2] steps onto steel beam...,[unused2],1,arms|comes|flying|holding|crashing|flies|saved
+563,382,"dont stop fighting, going miss fireworks.","dont stop fighting, going miss fireworks.",[unused2],1,going
+564,382,wont fireworks.,wont fireworks.,[unused0],0,
+565,382,batman struggles keep beam crushing neck...,[unused0] struggles keep beam crushing neck...,[unused0],-1,struggles|keep|crushing
+566,384,batman indicates clock... twelve oclock.,[unused0] indicates clock... twelve oclock.,[unused0],0,indicates
+567,384,"hoping prove deep down, ugly","hoping prove deep down, ugly",[unused0],-1,hoping|down|ugly|deep
+568,384,joker looks clock...,[unused2] looks clock...,[unused2],1,looks
+569,386,smile disappears jokers face.,smile disappears [unused2]s face.,[unused2],1,face|disappears
+570,386,youre alone.,youre alone.,[unused0],-1,alone
+571,386,"joker crouches down, hovering batmans face arms. shows remote.","[unused2] crouches down, hovering [unused0]s face arms. shows remote.",[unused2],1,hovering|remote|down|face
+572,386,cant rely anyone days.,cant rely anyone days.,[unused2],0,rely
+573,386,joker arms remote...,[unused2] arms remote...,[unused2],1,remote
+574,386,batman looks him.,[unused0] looks him.,[unused0],0,looks|him
+575,386,no. batman know get,no. [unused0] know get,[unused0],-1,know|get
+576,386,"batmans scallop blades fire gauntlet, nailing joker chest arm staggers back batman, freed, leaps forward kicks edge grabs remote","[unused0]s scallop blades fire gauntlet, nailing [unused2] chest arm staggers back [unused0], freed, leaps forward kicks edge grabs remote",[unused0],1,back|nailing|edge|forward|leaps|fire|scallop
+577,386,"joker giggles falls, enjoying ride. something slams leg, jerks stop batmans grapple.","[unused2] giggles falls, enjoying ride. something slams leg, jerks stop batmans grapple.",[unused2],1,enjoying|stop|falls
+578,386,joker hollers pain batman hauls up.,[unused2] hollers pain [unused0] hauls up.,[unused0],-1,pain
+579,386,"couldnt let go, could joker guess happens unstoppable force meets immovable object. truly incorruptible, arent","couldnt let go, could [unused2] guess happens unstoppable force meets immovable object. truly incorruptible, arent",[unused2],1,truly|happens
+580,386,batman secures joker upside down. joker laughing.,[unused0] secures [unused2] upside down. [unused2] laughing.,[unused0],1,upside|secures|down
+581,386,"youll padded cell, forever.","youll padded cell, forever.",[unused0],0,padded|forever
+582,386,"maybe share it. theyll need double up, rate citys inhabitants losing minds...","maybe share it. theyll need double up, rate citys inhabitants losing minds...",[unused2],-1,theyll|maybe|double|losing
+583,386,city showed full people ready believe good.,city showed full people ready believe good.,[unused0],1,believe|showed
+584,386,joker looks him. twinkle eye.,[unused2] looks him. twinkle eye.,[unused2],1,looks|him
+585,386,"till spirit breaks completely. find joker best them. get good look real dent, heroic things hes done. indicates ferry criminals straight back onto streets gotham understand true nature heroism. look didnt think id risk losing battle soul gotham fist fight youve got ace hole. mines dent.","till spirit breaks completely. find [unused2] best them. get good look real dent, heroic things hes done. indicates ferry criminals straight back onto streets gotham understand true nature heroism. look didnt think id risk losing battle soul gotham fist fight youve got ace hole. mines dent.",[unused2],1,them|get|understand|back|got|find|look|hes|completely|losing|done|straight|indicates
+586,386,"batman hauls joker up, nose nose.","[unused0] hauls [unused2] up, nose nose.",[unused0],1,nose
+587,386,joker took gothams white knight. joker brought level. wasnt hard madness like gravity. takes little push.,[unused2] took gothams white knight. [unused2] brought level. wasnt hard madness like gravity. takes little push.,[unused2],1,wasnt|brought|took|takes
+588,386,joker laughs. batman leaves swats.,[unused2] laughs. [unused0] leaves swats.,[unused2],1,laughs|leaves
+589,386,lucius. find dent.,lucius. find dent.,[unused0],0,find
+590,387,"gordon gets car, gun drawn. makes way blackened wreck building...","[unused1] gets car, gun drawn. makes way blackened wreck building...",[unused1],-1,makes|gets|blackened
+591,388,reply. gordon makes way deeper. stairs.,reply. [unused1] makes way deeper. stairs.,[unused1],-1,makes
+592,389,"wham dent cracks gordon head gun. dent disarms gordon, rolls over. turns look enormous hole floor. side, moonlight, dent looks completely normal.","wham dent cracks [unused1] head gun. dent disarms [unused1], rolls over. turns look enormous hole floor. side, moonlight, dent looks completely normal.",[unused1],-1,completely|looks|rolls|look
+593,389,gordon know. gordon here. trying save her.,[unused1] know. [unused1] here. trying save her.,[unused1],1,know|here|her|trying|save
+594,389,"gordon couldnt.dent yes, could.","[unused1] couldnt.dent yes, could.",[unused1],1,
+595,389,gordon trying fight mob,[unused1] trying fight mob,[unused1],-1,trying
+596,389,dent. put gun down. youre going hurt family.,dent. put gun down. youre going hurt family.,[unused1],1,put|down|going|hurt
+597,389,put gun down.,put gun down.,[unused1],-1,down|put|gun
+598,389,dent moves gordon. brushes hair boys eyes muzzle. gordon snaps.,dent moves [unused1]. brushes hair boys eyes muzzle. [unused1] snaps.,[unused1],0,hair
+599,389,"im sorry, dent. everything. but, please. please dont hurt him.","im sorry, dent. everything. but, please. please dont hurt him.",[unused1],1,him|please
+600,391,"know theres situation. dont know who, what. theyre creating perimeter.","know theres situation. dont know who, what. theyre creating perimeter.",[unused1],1,theres|creating
+601,391,"one needs escape, ones done anything wrong. nobody to.","one needs escape, ones done anything wrong. nobody to.",[unused1],-1,done|needs
+602,391,"dont want hurt boy, dent.","dont want hurt boy, dent.",[unused0],1,hurt|want
+603,391,dent turns. batman steps shadows.dent narrator want. whats fair. gordon batman thought could decent men indecent world. thought could lead example. thought rules could bent break... wrong. world cruel. shows coin morality cruel world chance. unbiased. unprejudiced. fair.,dent turns. [unused0] steps shadows.dent narrator want. whats fair. [unused1] [unused0] thought could decent men indecent world. thought could lead example. thought rules could bent break... wrong. world cruel. shows coin morality cruel world chance. unbiased. unprejudiced. fair.,[unused1],-1,fair|lead|thought|want|turns|bent|shows|decent
+604,391,"nothing fair ever came barrel gun, dent.","nothing fair ever came barrel gun, dent.",[unused0],-1,ever|came
+605,391,happened rachel wasnt chance. decided act. three. knew risks acted one. responsible consequences.,happened rachel wasnt chance. decided act. three. knew risks acted one. responsible consequences.,[unused0],-1,happened|decided|acted|knew
+606,391,batman looks dents eyes. emotional.,[unused0] looks dents eyes. emotional.,[unused0],1,looks
+607,391,best us. wanted prove even someone good could fall.dent bitter right.,best us. wanted prove even someone good could fall.dent bitter right.,[unused0],1,bitter|even|wanted|right
+608,391,"youre fooling think youre letting chance decide. youre one pointing gun, dent. point people responsible. acted one. gordon. me. you.","youre fooling think youre letting chance decide. youre one pointing gun, dent. point people responsible. acted one. [unused1]. me. you.",[unused0],-1,letting|think|youre|acted|you|pointing|fooling
+609,391,"points gun batman. flips coin. tails. shoots. batman collapses ground, clutching gut.","points gun [unused0]. flips coin. tails. shoots. [unused0] collapses ground, clutching gut.",[unused0],-1,coin|collapses|clutching
+610,391,"youre right, dent. rachels death fault. punish","youre right, dent. rachels death fault. punish",[unused1],-1,punish
+611,391,gordon looks up. pained. locks eyes son.,[unused1] looks up. pained. locks eyes son.,[unused1],-1,eyes|looks|pained
+612,391,"going right, son.","going right, son.",[unused1],0,right|going
+613,391,"gordon, horrified, runs edge peers dent lies bottom hole, neck broken. dead.","[unused1], horrified, runs edge peers dent lies bottom hole, neck broken. dead.",[unused1],-1,runs|neck|horrified
+614,391,"gordons son swings view, hanging batman, holding onto joist strength...","[unused1]s son swings view, hanging [unused0], holding onto joist strength...",[unused1],0,son|holding|hanging
+615,391,gordon reaches grab son hauls up...,[unused1] reaches grab son hauls up...,[unused1],1,hauls|reaches
+616,391,"batman falls..., dropping dropping, smashing protruding wood pipes... lands hard near dent.","[unused0] falls..., dropping dropping, smashing protruding wood pipes... lands hard near dent.",[unused0],-1,dropping|lands|protruding|smashing|falls
+617,393,thank you.,thank you.,[unused1],1,you
+618,393,"yes, gordon do.","yes, [unused1] do.",[unused1],1,
+619,393,gordon batman stare dents body. grave.,[unused1] [unused0] stare dents body. grave.,[unused0],-1,
+620,393,joker won.,[unused2] won.,[unused2],1,won
+621,393,gordon stares scarred side dent.,[unused1] stares scarred side dent.,[unused1],0,scarred
+622,393,"dents prosecution, everything fought for, everything rachel died for. undone. whatever chance gotham fixing itself... whatever chance gave us fixing city... dies dents reputation. bet him. joker took best us tore down. people lose hope.","dents prosecution, everything fought for, everything rachel died for. undone. whatever chance gotham fixing itself... whatever chance gave us fixing city... dies dents reputation. bet him. [unused2] took best us tore down. people lose hope.",[unused2],-1,itself|bet|him|fixing|lose|down|dies|tore|died|took|gave
+623,393,no. wont. looks gordon never know did.,no. wont. looks [unused1] never know did.,[unused0],-1,know|looks|never|did
+624,393,incredulous five dead two cops cant sweep,incredulous five dead two cops cant sweep,[unused1],-1,
+625,393,no. joker cannot win.,no. [unused2] cannot win.,[unused0],-1,win|not
+626,393,"yes, batman can.","yes, [unused0] can.",[unused0],1,
+627,393,batman stands. faces gordon.,[unused0] stands. faces gordon.,[unused0],0,faces|stands
+628,393,"angry no, cant youre","angry no, cant youre",[unused1],-1,
+629,393,batman hands gordon police radio.,[unused0] hands [unused1] police radio.,[unused0],0,hands
+630,393,im whatever gotham needs be.,im whatever gotham needs be.,[unused0],0,needs
+631,393,"gordon takes axe bat symbol sparking, smashing...","[unused1] takes axe bat symbol sparking, smashing...",[unused1],-1,smashing|takes
+632,394,batman hurries off. limping shadows.,[unused0] hurries off. limping shadows.,[unused0],0,limping|hurries|off
+633,394,gordon runs stairs join father,[unused1] runs stairs join father,[unused1],1,runs
+634,394,chase him...,chase him...,[unused1],0,him
+635,396,"gordon looks father, confused.","[unused1] looks father, confused.",[unused1],-1,father|looks|confused
+636,396,because...,because...,[unused1],0,
+637,397,batman lurches shipping containers. stumbling.,[unused0] lurches shipping containers. stumbling.,[unused0],0,shipping|lurches
+638,397,"bat pod streaks gothams underground streets, batmans cape fluttering behind. wraith...","bat pod streaks gothams underground streets, [unused0]s cape fluttering behind. wraith...",[unused0],0,fluttering|gothams|cape
+639,397,batman races ramp blinding light end.,[unused0] races ramp blinding light end.,[unused0],0,blinding|races
